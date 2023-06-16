@@ -1,0 +1,107 @@
+@use "../../../styles/utils" as u;
+
+.LacListContainer {
+  min-height: 100vh;
+  padding-top: u.rem(150);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  @include u.breakpoint-max(small) {
+    padding-top: u.rem(100);
+  }
+
+  .LacListWrapper {
+    border: 3px solid #fdd23e;
+    box-shadow: u.rem(0) u.rem(0) u.rem(15) #ffffff;
+    max-width: 80%;
+    width: 100%;
+    background-color: hsla(246, 62%, 13%, 0.6);
+    overflow: hidden;
+    border-radius: u.rem(24);
+    margin: 2.5%;
+    grid-template-rows: 1fr;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    grid-column-gap: 5%;
+    grid-row-gap: u.rem(30);
+    padding: 3%;
+
+    @media (max-width: u.rem(1024)) {
+      padding: 5%;
+      margin: 2% 5% 5% 5%;
+    }
+
+    @include u.breakpoint-max(small) {
+      grid-column-gap: 10%;
+      grid-row-gap: u.rem(20);
+      margin: 0% 2% 10% 2%;
+      max-width: 90%;
+    }
+
+    .LacCard {
+      color: white;
+      width: 15%;
+      cursor: pointer;
+
+      transition: all ease;
+      @media (max-width: 1024px) {
+        width: 21%;
+      }
+      @include u.breakpoint-max(large) {
+        width: 30%;
+      }
+
+      @include u.breakpoint-max(small) {
+        width: 45%;
+      }
+
+      .nftImageWrapper {
+        width: 100%;
+        height: auto;
+        position: relative;
+        overflow: hidden;
+        border-radius: u.rem(10);
+        outline: u.rem(2) solid #fdd23e;
+
+        img {
+          width: 100%;
+          display: block;
+          transition: transform 0.5s;
+        }
+      }
+
+      &:hover {
+        .nftImageWrapper {
+          &::before {
+            content: "";
+            background: hsla(0, 0%, 100%, 0.6);
+            position: absolute;
+            height: 100%;
+            width: 100%;
+            z-index: 1;
+          }
+        }
+        img {
+          transform: scale(1.2);
+        }
+      }
+
+      span {
+        display: block;
+        margin-top: u.rem(10);
+        font-size: u.rem(16);
+        font-family: "Gilroy-Regular";
+      }
+
+      h3 {
+        font-size: u.rem(26);
+        margin-top: u.rem(2.5);
+        font-family: "Gilroy-Regular";
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+@use "../../../styles/utils" as u;
+
+.headerWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  font-family: "Gilroy-SemiBold";
+  padding: u.rem(25) u.rem(35);
+
+  @include u.breakpoint-max(small) {
+    padding: u.rem(15);
+  }
+
+  & > div {
+    width: calc(100% / 3);
+    .logo {
+      width: u.rem(65);
+
+      object-fit: cover;
+      @include u.breakpoint-max(medium) {
+        width: u.rem(50);
+      }
+
+      @include u.breakpoint-max(small) {
+        width: u.rem(40);
+      }
+    }
+    .MainTitle {
+      font-size: clamp(u.rem(30), 3.704vw + 0.486rem, u.rem(50));
+      text-align: center;
+      color: white;
+      margin-top: u.rem(40);
+      @media (max-width: u.rem(1024)) {
+        margin-top: unset;
+      }
+    }
+    &:last-child {
+      text-align: right;
+      .LanguageButton {
+        background-color: transparent;
+        outline: none;
+        border: none;
+        cursor: pointer;
+        img {
+          width: u.rem(30);
+          height: u.rem(30);
+        }
+      }
+    }
+
+    @include u.breakpoint-max(small) {
+      &:nth-child(1) {
+        width: 20%;
+      }
+      &:nth-child(2) {
+        width: 60%;
+      }
+      &:nth-child(3) {
+        width: 20%;
+      }
+    }
+  }
+}
