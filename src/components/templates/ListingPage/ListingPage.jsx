@@ -4,7 +4,7 @@ import "./ListingPage.scss";
 
 const ListingPage = () => {
   return (
-    <div className="MainWrapper">
+    <div className="ListingPageWrapper">
       <ListingSection />
     </div>
   );
