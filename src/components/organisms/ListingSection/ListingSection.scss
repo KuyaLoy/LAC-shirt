@@ -7,7 +7,7 @@
   align-items: center;
   justify-content: center;
 
-  @include u.breakpoint-max(small) {
+  @include u.breakpoint-max(medium) {
     padding-top: u.rem(100);
   }
 

@@ -3,12 +3,6 @@
 .ListDetailPageWrapper {
     min-height: 100vh;
     width: 100%;
-
-    background-image: url('https://shop.ladyapeclub.com/static/media/base.8501caed82fbaefa5920.png');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    background-position: center;
     padding-top: u.rem(150);
 
     display: flex;
@@ -22,6 +16,9 @@
         margin-bottom: 5%;
 
         min-height: 100vh;
-        border: 1px solid red;;
     }
+
+    @include u.breakpoint-max(medium) {
+        padding-top: u.rem(100);
+      }
 }

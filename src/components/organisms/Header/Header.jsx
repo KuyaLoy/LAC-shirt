@@ -8,6 +8,7 @@ import "./Header.scss";
 
 import logo from "../../../assets/img/lac-special-logo.png";
 import ButtonImage from "../../atoms/Button/ButtonImage/ButtonImage";
+import LinkImage from "../../atoms/Link/LinkImage/LinkImage";
 
 const Header = () => {
   const buttonImg =
@@ -21,9 +22,7 @@ const Header = () => {
         {
           isHomePage ? 
             <Image className="logo" src={logo} alt="lac special logo" /> :
-            <a href="/">
-              <Image className="logo" src={logo} alt="lac special logo" />
-            </a>
+            <LinkImage src={logo} className="logo" link='/' alt="lac special logo"/>
         }
 
       </div>

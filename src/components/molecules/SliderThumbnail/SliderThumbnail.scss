@@ -1,0 +1,99 @@
+@use "../../../styles/utils" as u;
+
+.swiper {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+  
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .swiper {
+    width: 100%;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .swiper-slide {
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .mySwiper2 {
+    // height: 80%;
+    // width: 100%;
+    height: u.rem(375);
+    max-width: u.rem(400);
+    width: 100%;
+    margin: 0 auto;
+    border-radius: u.rem(10);
+    border: u.rem(1) solid #fdd23e;
+    @include u.breakpoint-max(medium) {
+      max-width: unset;
+      height: auto;
+  }
+  }
+  
+  .mySwiper {
+    height: 20%;
+    overflow: unset;
+    max-width: u.rem(375);
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px 0;
+
+    @include u.breakpoint-max(medium) {
+      max-width: 98%;
+  }
+    
+  }
+  
+  .mySwiper .swiper-slide {
+    width: 25%;
+    height: 85%;
+    opacity: 1;
+    border-radius: u.rem(10);
+    overflow: hidden;
+  }
+  
+  .mySwiper .swiper-slide-thumb-active {
+    // opacity: 1;
+    border: u.rem(1) solid #fdd23e;
+    position: relative;
+    &::before{
+      content: '';
+      position: absolute;
+      height: 100%;
+      width: 100%;
+      background-color: white;
+
+      opacity: .4;
+    }
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .swiper-button-next:after, .swiper-button-prev:after{
+    font-size: u.rem(20);
+  }
