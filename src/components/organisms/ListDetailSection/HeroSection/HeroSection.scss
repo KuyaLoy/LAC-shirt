@@ -1,128 +1,158 @@
 @use "../../../../styles/utils/" as u;
 
 .HeroWrapper {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    flex-direction: row;
-    color: white;
-    margin-top: u.rem(30);
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+  color: white;
+  //min-height: 100vh;
+  @media (min-width: u.rem(1024)) {
+    margin: 0 5%;
+  }
 
-    .ContentHero {
-        width: 50%;
-        //border: 1px solid green;
+  @media (max-width: u.rem(1023)) {
+    min-height: unset;
+  }
 
-        @include u.breakpoint-max(medium) {
-            width: 100% !important;
-            padding: 0 5%;
-        }
+  .ContentHero {
+    width: 50%;
 
-
-
-        &.Content-1 {
-            @media(max-width: u.rem(1024)) {
-                width: 40%;
-                margin-bottom: u.rem(50);
-            }
-        }
-
-        &.Content-2 {
-            padding: 0 5%;
-
-            h2 {
-                font-family: 'Gilroy-SemiBold';
-                font-size: u.rem(36);
-            }
-
-            p.Description {
-                margin-top: u.rem(10);
-                font-size: u.rem(16);
-                font-family: 'Gilroy-SemiBold';
-            }
-
-            ul.HeroList {
-                margin-top: u.rem(20);
-                line-height: u.rem(20);
-
-                li {
-                    font-size: u.rem(14);
-                    font-family: 'Gilroy-Light';
-                    margin-bottom: u.rem(5);
-                }
-            }
-
-            p.ListDescription {
-                font-size: u.rem(14);
-                font-family: 'Gilroy-Light';
-                margin-bottom: u.rem(5);
-
-                margin-top: u.rem(20);
-            }
-
-            .SizeWrapper {
-                margin-top: u.rem(15);
-
-                @media(max-width: u.rem(1024)) {
-                    text-align: center;
-                }
-
-                p {
-
-                    margin-bottom: u.rem(5);
-                    font-size: u.rem(14);
-                    font-family: 'Gilroy-SemiBold';
-                }
-
-                button {
-                    background-color: #6C6C94;
-                    border-radius: u.rem(3);
-                    font-family: 'Gilroy-Light';
-                    color: white;
-                    height: u.rem(35);
-                    width: u.rem(35);
-                    border: unset;
-                    margin-right: u.rem(5);
-                    cursor: pointer;
-                    font-size: u.rem(18);
-                }
-            }
-
-            .BuyTitle {
-                text-align: center;
-                font-family: "Gilroy-Medium";
-                font-size: u.rem(18);
-                margin: u.rem(15) 0;
-            }
-
-            .BuyLink {
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                gap: 10px;
-
-                a {
-                    cursor: pointer;
-                    height: u.rem(45);
-                    width: 25%;
-                    border-radius: u.rem(10);
-                    border: none;
-                    background-color: white;
-                    padding: u.rem(5);
-
-                    img {
-                        width: 100%;
-                        height: 100%;
-                        object-fit: contain;
-                        object-position: center;
-                    }
-                }
-
-                ;
-            }
-
-            @media(max-width: u.rem(1024)) {
-                width: 60%;
-            }
-        }
+    @media (max-width: u.rem(1023)) {
+      width: 100% !important;
     }
+
+    &.Content-1 {
+      @media (max-width: u.rem(1024)) {
+        width: 40%;
+        margin-bottom: u.rem(20);
+      }
+    }
+
+    &.Content-2 {
+      padding: 0 5%;
+
+      h2 {
+        font-family: "Gilroy-SemiBold";
+        font-size: clamp(
+          u.rem(24),
+          calc(1.5rem + ((1vw - 7.68px) * 3.125)),
+          u.rem(60)
+        );
+      }
+
+      p.Description {
+        margin-top: u.rem(25);
+        font-size: clamp(
+          u.rem(16),
+          calc(1rem + ((1vw - 7.68px) * 0.3472)),
+          u.rem(20)
+        );
+        font-family: "Gilroy-Bold";
+        font-weight: bold;
+      }
+
+      ul.HeroList {
+        margin-top: u.rem(30);
+        line-height: u.rem(30);
+
+        li {
+          font-size: clamp(
+            u.rem(16),
+            calc(1rem + ((1vw - 7.68px) * 0.3472)),
+            u.rem(20)
+          );
+          font-family: "Gilroy-Light";
+          font-weight: lighter;
+          margin-bottom: u.rem(10);
+        }
+      }
+
+      p.ListDescription {
+        font-size: clamp(
+          u.rem(16),
+          calc(1rem + ((1vw - 7.68px) * 0.3472)),
+          u.rem(20)
+        );
+        font-family: "Gilroy-Light";
+        margin-bottom: u.rem(5);
+        line-height: u.rem(30);
+
+        margin-top: u.rem(30);
+      }
+
+      .SizeWrapper {
+        margin-top: u.rem(15);
+
+        @media (max-width: u.rem(1024)) {
+          text-align: center;
+        }
+
+        p {
+          margin-bottom: u.rem(15);
+          font-size: u.rem(22);
+          font-family: "Gilroy-Regular";
+        }
+
+        button {
+          background-color: #6c6c94;
+          border-radius: u.rem(3);
+          font-family: "Gilroy-Light";
+          color: white;
+          height: u.rem(46);
+          width: u.rem(46);
+          border: unset;
+          margin-right: u.rem(10);
+          cursor: pointer;
+          font-size: u.rem(18);
+        }
+      }
+
+      .BuyTitle {
+        text-align: center;
+        font-family: "Gilroy-Medium";
+        font-size: u.rem(18);
+        margin: u.rem(15) 0;
+      }
+
+      .BuyLink {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: u.rem(30);
+
+        @include u.breakpoint-max(small) {
+          gap: u.rem(15);
+        }
+
+        a {
+          cursor: pointer;
+          height: u.rem(70);
+          width: 25%;
+          border-radius: u.rem(10);
+          border: none;
+          background-color: white;
+          padding: u.rem(5);
+          display: flex;
+          align-items: center;
+          justify-content: center;
+
+          @include u.breakpoint-max(small) {
+            height: u.rem(50);
+          }
+
+          img {
+            width: 75%;
+            height: 75%;
+            object-fit: contain;
+            object-position: center;
+          }
+        }
+      }
+
+      @media (max-width: u.rem(1024)) {
+        width: 60%;
+      }
+    }
+  }
 }

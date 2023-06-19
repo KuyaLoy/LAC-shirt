@@ -2,15 +2,13 @@ import React from "react";
 import CardPlaceHolder from "../../molecules/CardPlaceholder/CardPlaceHolder";
 import "./ListingSection.scss";
 
-const ListingSection = ({data}) => {
-
+const ListingSection = ({ data }) => {
   return (
-
     <section className="LacListContainer">
       <div className="LacListWrapper">
         {data.map((data) => (
           <CardPlaceHolder
-            link={`/details/${data.id}`}
+            link={`/details/${data.category}/${data.id}`}
             className="LacCard"
             src={data.main_image_path}
             alt={data.name}
@@ -18,10 +16,10 @@ const ListingSection = ({data}) => {
             nftName={data.name}
             key={data.id}
           />
-        ))}</div>
-
+        ))}
+      </div>
     </section>
   );
 };
 
-export default ListingSection; 
+export default ListingSection;

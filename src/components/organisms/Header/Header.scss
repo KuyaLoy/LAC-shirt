@@ -19,24 +19,31 @@
   & > div {
     width: calc(100% / 3);
     .logo {
-      width: u.rem(65);
-
+      width: u.rem(67);
       object-fit: cover;
+      display: block;
       @include u.breakpoint-max(medium) {
         width: u.rem(50);
       }
 
       @include u.breakpoint-max(small) {
-        width: u.rem(40);
+        width: u.rem(34);
+      }
+      img {
+        width: 100%;
       }
     }
     .MainTitle {
-      font-size: clamp(u.rem(30), 3.704vw + 0.486rem, u.rem(50));
+      font-size: clamp(
+        u.rem(30),
+        calc(1.875rem + ((1vw - 7.68px) * 3.6458)),
+        u.rem(72)
+      );
       text-align: center;
       color: white;
-      margin-top: u.rem(40);
+      margin-bottom: u.rem(-65);
       @media (max-width: u.rem(1024)) {
-        margin-top: unset;
+        margin-bottom: unset;
       }
     }
     &:last-child {
@@ -49,6 +56,11 @@
         img {
           width: u.rem(30);
           height: u.rem(30);
+
+          @include u.breakpoint-max(small) {
+            width: u.rem(21);
+            height: u.rem(21);
+          }
         }
       }
     }

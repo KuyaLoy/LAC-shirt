@@ -6,16 +6,19 @@ import ListDetailPage from "./components/templates/ListDetailPage/ListDetailPage
 
 import meta from "./assets/json/meta.json";
 
-import './App.css'
+import "./App.css";
 
 const App = () => {
   return (
     <BrowserRouter basename="/">
       <Header />
-        <Routes>
+      <Routes>
         <Route path="/" element={<ListingPage data={meta} />} />
-        <Route path="/details/:id" element={<ListDetailPage data={meta} />} />
-        </Routes>
+        <Route
+          path="/details/special/:id"
+          element={<ListDetailPage data={meta} />}
+        />
+      </Routes>
     </BrowserRouter>
   );
 };

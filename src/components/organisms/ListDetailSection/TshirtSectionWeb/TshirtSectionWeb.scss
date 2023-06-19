@@ -1,0 +1,82 @@
+@use "../../../../styles/utils/" as u;
+
+.TshirtSectionWebWrapper {
+  color: white;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  h2.title {
+    font-family: "Gilroy-SemiBold";
+    font-size: clamp(
+      u.rem(30),
+      calc(1.25rem + ((1vw - 7.68px) * 2.6042)),
+      u.rem(50)
+    );
+  }
+  .ImageColorContainer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    width: 100%;
+    &.ImageColorContainer {
+      margin-bottom: u.rem(100);
+    }
+    div.ICContent {
+      padding-top: u.rem(100);
+      width: 50%;
+      display: flex;
+      flex-direction: column;
+
+      &:first-child {
+        border-right: u.rem(1) dotted white;
+        padding-right: u.rem(50);
+        align-items: end;
+      }
+      &:last-child {
+        padding-left: u.rem(50);
+        align-items: start;
+      }
+
+      .CircleContent {
+        max-width: u.rem(300);
+        width: 100%;
+        img {
+          border-radius: 100%;
+          object-fit: contain;
+          width: 100%;
+        }
+      }
+      .SquareContent {
+        display: flex;
+        flex-direction: column;
+        max-width: u.rem(400);
+        width: 100%;
+
+        &.right {
+          align-items: end;
+        }
+        img {
+          margin-top: u.rem(20);
+        }
+      }
+      .ColorText {
+        text-align: center;
+        max-width: u.rem(300);
+        width: 100%;
+        img {
+          width: u.rem(40);
+          margin-top: u.rem(30);
+        }
+        h2 {
+          margin-top: u.rem(20);
+          font-size: u.rem(40);
+          font-family: "Gilroy-Light";
+        }
+      }
+    }
+  }
+}

@@ -13,10 +13,8 @@ import "./SliderThumbnail.scss";
 // import required modules
 import { FreeMode, Navigation, Thumbs } from "swiper";
 
-export default function SliderThumbnail({images, alt}) {
+export default function SliderThumbnail({ images, alt }) {
   const [thumbsSwiper, setThumbsSwiper] = useState(null);
-
-  
 
   return (
     <>
@@ -28,19 +26,17 @@ export default function SliderThumbnail({images, alt}) {
         loop={true}
         spaceBetween={10}
         navigation={true}
-        thumbs={{ swiper: thumbsSwiper && !thumbsSwiper.destroyed ? thumbsSwiper : null }}
+        thumbs={{
+          swiper: thumbsSwiper && !thumbsSwiper.destroyed ? thumbsSwiper : null,
+        }}
         modules={[FreeMode, Navigation, Thumbs]}
-        className="mySwiper2"
+        className="MainSwiper"
       >
-        {
-          images.map((image, index) => (
-            <SwiperSlide key={index}>
-              <img src={image} alt={alt} />
-            </SwiperSlide>
-          ))
-        }
-        
-        
+        {images.map((image, index) => (
+          <SwiperSlide key={index}>
+            <img src={image} alt={alt} />
+          </SwiperSlide>
+        ))}
       </Swiper>
       <Swiper
         onSwiper={setThumbsSwiper}
@@ -50,18 +46,14 @@ export default function SliderThumbnail({images, alt}) {
         freeMode={true}
         watchSlidesProgress={true}
         modules={[FreeMode, Navigation, Thumbs]}
-        className="mySwiper"
+        className="ThumbSwiper"
       >
-        {
-          images.map((image, index) => (
-            <SwiperSlide key={index}>
-              <img src={image} alt={alt} />
-            </SwiperSlide>
-          ))
-        }
+        {images.map((image, index) => (
+          <SwiperSlide key={index}>
+            <img src={image} alt={alt} />
+          </SwiperSlide>
+        ))}
       </Swiper>
     </>
   );
 }
-
-

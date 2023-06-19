@@ -1,24 +1,45 @@
 @use "../../../styles/utils" as u;
 
 .ListDetailPageWrapper {
-    min-height: 100vh;
+  //min-height: 100vh;
+  width: 100%;
+  padding-top: u.rem(150);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  flex-direction: column;
+
+  .CommonContainer {
+    max-width: u.rem(1440);
     width: 100%;
-    padding-top: u.rem(150);
+    //border: 1px solid red;
+    margin-bottom: u.rem(50);
+    margin-top: u.rem(50);
 
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    .CommonContainer {
-        max-width: u.rem(1140);
-        width: 100%;
-        margin: 0 5%;
-        margin-bottom: 5%;
-
-        min-height: 100vh;
+    @media (max-width: u.rem(1024)) {
+      padding: 0 5%;
     }
 
-    @include u.breakpoint-max(medium) {
-        padding-top: u.rem(100);
+    &.HeroContainer {
+      @media (max-width: u.rem(1023)) {
+        margin-top: unset;
       }
+    }
+  }
+
+  .FullwidthContainer {
+    width: 100%;
+    //border: 1px solid green;
+    margin-top: u.rem(50);
+    margin-bottom: u.rem(50);
+  }
+
+  @include u.breakpoint-max(medium) {
+    padding-top: u.rem(130);
+  }
+  @include u.breakpoint-max(small) {
+    padding-top: u.rem(90);
+  }
 }

@@ -1,0 +1,42 @@
+@use "../../../../styles/utils/" as u;
+
+.TshirtSectionWebWrapper {
+  h2 {
+    margin-bottom: u.rem(25);
+  }
+  .ButtonCont {
+    margin-bottom: u.rem(25);
+    button {
+      height: u.rem(50);
+      width: u.rem(50);
+      margin: 0 u.rem(5);
+      border: none;
+
+      &.selected {
+        outline: u.rem(2) solid #ff00ee !important;
+      }
+
+      &:last-child {
+        background-color: black;
+        outline: u.rem(2) solid #fff;
+      }
+    }
+  }
+
+  img {
+    width: 90%;
+    margin-bottom: u.rem(50);
+    object-fit: cover;
+    &.circleImg {
+      border-radius: 100%;
+    }
+  }
+  p {
+    font-size: u.rem(30);
+    margin-bottom: u.rem(15);
+    text-align: left;
+    display: block;
+    width: 90%;
+    font-family: "Gilroy-light";
+  }
+}

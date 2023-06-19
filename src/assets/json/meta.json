@@ -6,7 +6,8 @@
     "main_image_path": "https://via.placeholder.com/250",
     "attributes": {
       "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
-      "long_description": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT! 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
+      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
+      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
       "hero_list": [
         "Tencel 70%와 면 30% 혼용 원단",
         "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
@@ -15,11 +16,11 @@
       ],
       "list_description": "이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다.",
       "galery_image_path": [
-        "https://via.placeholder.com/250",
-        "https://via.placeholder.com/250",
-        "https://via.placeholder.com/250",
-        "https://via.placeholder.com/250",
-        "https://via.placeholder.com/250"
+        "https://via.placeholder.com/600",
+        "https://via.placeholder.com/600",
+        "https://via.placeholder.com/600",
+        "https://via.placeholder.com/600",
+        "https://via.placeholder.com/600"
       ],
       "buy_link": [
         "https://amazon.com",
@@ -27,13 +28,7 @@
         "https://amazon.com",
         "https://amazon.com"
       ],
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "sizes": ["XS", "S", "M", "L", "XL"],
       "shirt_image": {
         "color": {
           "white_image_path": [
@@ -65,7 +60,8 @@
     "main_image_path": "https://via.placeholder.com/250",
     "attributes": {
       "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
-      "long_description": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT! 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
+      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
+      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
       "hero_list": [
         "Tencel 70%와 면 30% 혼용 원단",
         "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
@@ -86,13 +82,7 @@
         "https://amazon.com",
         "https://amazon.com"
       ],
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "sizes": ["XS", "S", "M", "L", "XL"],
       "shirt_image": {
         "color": {
           "white_image_path": [
@@ -124,7 +114,8 @@
     "main_image_path": "https://via.placeholder.com/250",
     "attributes": {
       "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
-      "long_description": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT! 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
+      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
+      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
       "hero_list": [
         "Tencel 70%와 면 30% 혼용 원단",
         "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
@@ -145,13 +136,7 @@
         "https://amazon.com",
         "https://amazon.com"
       ],
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "sizes": ["XS", "S", "M", "L", "XL"],
       "shirt_image": {
         "color": {
           "white_image_path": [
@@ -183,7 +168,8 @@
     "main_image_path": "https://via.placeholder.com/250",
     "attributes": {
       "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
-      "long_description": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT! 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
+      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
+      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
       "hero_list": [
         "Tencel 70%와 면 30% 혼용 원단",
         "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
@@ -204,13 +190,7 @@
         "https://amazon.com",
         "https://amazon.com"
       ],
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "sizes": ["XS", "S", "M", "L", "XL"],
       "shirt_image": {
         "color": {
           "white_image_path": [
@@ -242,7 +222,8 @@
     "main_image_path": "https://via.placeholder.com/250",
     "attributes": {
       "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
-      "long_description": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT! 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
+      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
+      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
       "hero_list": [
         "Tencel 70%와 면 30% 혼용 원단",
         "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
@@ -263,13 +244,7 @@
         "https://amazon.com",
         "https://amazon.com"
       ],
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "sizes": ["XS", "S", "M", "L", "XL"],
       "shirt_image": {
         "color": {
           "white_image_path": [
@@ -301,7 +276,8 @@
     "main_image_path": "https://via.placeholder.com/250",
     "attributes": {
       "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
-      "long_description": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT! 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
+      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
+      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
       "hero_list": [
         "Tencel 70%와 면 30% 혼용 원단",
         "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
@@ -322,13 +298,7 @@
         "https://amazon.com",
         "https://amazon.com"
       ],
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "sizes": ["XS", "S", "M", "L", "XL"],
       "shirt_image": {
         "color": {
           "white_image_path": [
@@ -360,7 +330,8 @@
     "main_image_path": "https://via.placeholder.com/250",
     "attributes": {
       "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
-      "long_description": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT! 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
+      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
+      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
       "hero_list": [
         "Tencel 70%와 면 30% 혼용 원단",
         "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
@@ -381,13 +352,7 @@
         "https://amazon.com",
         "https://amazon.com"
       ],
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "sizes": ["XS", "S", "M", "L", "XL"],
       "shirt_image": {
         "color": {
           "white_image_path": [
@@ -419,7 +384,8 @@
     "main_image_path": "https://via.placeholder.com/250",
     "attributes": {
       "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
-      "long_description": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT! 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
+      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
+      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
       "hero_list": [
         "Tencel 70%와 면 30% 혼용 원단",
         "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
@@ -440,13 +406,7 @@
         "https://amazon.com",
         "https://amazon.com"
       ],
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "sizes": ["XS", "S", "M", "L", "XL"],
       "shirt_image": {
         "color": {
           "white_image_path": [
@@ -478,7 +438,8 @@
     "main_image_path": "https://via.placeholder.com/250",
     "attributes": {
       "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
-      "long_description": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT! 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
+      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
+      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
       "hero_list": [
         "Tencel 70%와 면 30% 혼용 원단",
         "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
@@ -499,13 +460,7 @@
         "https://amazon.com",
         "https://amazon.com"
       ],
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "sizes": ["XS", "S", "M", "L", "XL"],
       "shirt_image": {
         "color": {
           "white_image_path": [
@@ -537,7 +492,8 @@
     "main_image_path": "https://via.placeholder.com/250",
     "attributes": {
       "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
-      "long_description": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT! 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
+      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
+      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
       "hero_list": [
         "Tencel 70%와 면 30% 혼용 원단",
         "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
@@ -558,13 +514,7 @@
         "https://amazon.com",
         "https://amazon.com"
       ],
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "sizes": ["XS", "S", "M", "L", "XL"],
       "shirt_image": {
         "color": {
           "white_image_path": [

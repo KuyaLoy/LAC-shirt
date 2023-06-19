@@ -1,0 +1,69 @@
+@use "../../../../styles/utils/" as u;
+
+.SpotlightWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding-left: 5%;
+  padding-right: 5%;
+
+  color: white;
+
+  @media (min-width: u.rem(1024)) {
+    background-image: url("../../../../assets/img/detailPage/bg-lady-ape-club.png");
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+    padding-bottom: u.rem(350);
+  }
+
+  img.LacImageHeader {
+    width: 40%;
+    @include u.breakpoint-max(medium) {
+      width: 70%;
+    }
+    @include u.breakpoint-max(small) {
+      width: 90%;
+    }
+  }
+
+  .SpotlightContent {
+    text-align: center;
+    max-width: u.rem(680);
+    width: 100%;
+
+    img.SpotlightImage {
+      width: u.rem(300);
+      height: u.rem(300);
+      margin-top: u.rem(50);
+      margin-bottom: u.rem(30);
+      border-radius: u.rem(10);
+      border: u.rem(2) solid #fdd23e;
+    }
+
+    h2 {
+      font-family: "Gilroy-SemiBold";
+      margin-bottom: u.rem(50);
+      font-size: clamp(
+        u.rem(30),
+        calc(1.25rem + ((1vw - 7.68px) * 2.6042)),
+        u.rem(50)
+      );
+      @include u.breakpoint-max(medium) {
+        margin-bottom: u.rem(25);
+      }
+    }
+
+    p {
+      font-family: "Gilroy-Light";
+      font-size: clamp(
+        u.rem(18),
+        calc(1.125rem + ((1vw - 7.68px) * 1.0417)),
+        u.rem(26)
+      );
+      line-height: u.rem(36);
+    }
+  }
+}
