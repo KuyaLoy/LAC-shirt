@@ -11,21 +11,23 @@ const HeroSection = ({data}) => {
   return (
     <div className='HeroWrapper'>
       <div className='ContentHero Content-1'>
-        <SliderThumbnail />
+        <SliderThumbnail images={data.attributes.galery_image_path} alt={data.category + " " + data.name}/>
       </div>
       <div className='ContentHero Content-2'>
         <H2 content={data.category + " " + data.name} />
-        <P className='Description' content={"섬세하게 더해진 클래식한 크루넥 디자인 T"} />
-        <List className='HeroList' listStyle="disc" />
-        <P className='ListDescription' content={"이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다."} />
+        <P className='Description' content={data.attributes.short_description} />
+        <List className='HeroList' listStyle="disc" list={data.attributes.hero_list} />
+        <P className='ListDescription' content={data.attributes.list_description} />
 
         <div className="SizeWrapper">
           <P content='SIZE' />
-          <ButtonTooltipImage content="XS" image="https://cdn.shopify.com/s/files/1/0403/1093/files/UniT-Size_480x480.png?v=1620117304"/>
-          <ButtonTooltipImage content="S" image="https://cdn.shopify.com/s/files/1/0403/1093/files/UniT-Size_480x480.png?v=1620117304"/>
-          <ButtonTooltipImage content="M" image="https://cdn.shopify.com/s/files/1/0403/1093/files/UniT-Size_480x480.png?v=1620117304"/>
-          <ButtonTooltipImage content="L" image="https://cdn.shopify.com/s/files/1/0403/1093/files/UniT-Size_480x480.png?v=1620117304"/>
-          <ButtonTooltipImage content="XL" image="https://cdn.shopify.com/s/files/1/0403/1093/files/UniT-Size_480x480.png?v=1620117304"/>
+          {
+            data.attributes.sizes.map((size, index) => (
+<ButtonTooltipImage content={size} key={index} image="https://cdn.shopify.com/s/files/1/0403/1093/files/UniT-Size_480x480.png?v=1620117304"/>
+            ))
+          }
+          
+         
         </div>
         <hr />
         <P className="BuyTitle" content="BUY TO LINK" />

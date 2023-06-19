@@ -13,7 +13,7 @@ import "./SliderThumbnail.scss";
 // import required modules
 import { FreeMode, Navigation, Thumbs } from "swiper";
 
-export default function SliderThumbnail() {
+export default function SliderThumbnail({images, alt}) {
   const [thumbsSwiper, setThumbsSwiper] = useState(null);
 
   
@@ -32,21 +32,15 @@ export default function SliderThumbnail() {
         modules={[FreeMode, Navigation, Thumbs]}
         className="mySwiper2"
       >
-        <SwiperSlide>
-          <img src="https://swiperjs.com/demos/images/nature-1.jpg" alt="test" />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img src="https://swiperjs.com/demos/images/nature-2.jpg" alt="test" />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img src="https://swiperjs.com/demos/images/nature-3.jpg" alt="test" />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img src="https://swiperjs.com/demos/images/nature-4.jpg" alt="test" />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img src="https://swiperjs.com/demos/images/nature-5.jpg" alt="test" />
-        </SwiperSlide>
+        {
+          images.map((image, index) => (
+            <SwiperSlide key={index}>
+              <img src={image} alt={alt} />
+            </SwiperSlide>
+          ))
+        }
+        
+        
       </Swiper>
       <Swiper
         onSwiper={setThumbsSwiper}
@@ -58,21 +52,13 @@ export default function SliderThumbnail() {
         modules={[FreeMode, Navigation, Thumbs]}
         className="mySwiper"
       >
-        <SwiperSlide>
-          <img src="https://swiperjs.com/demos/images/nature-1.jpg" alt="test" />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img src="https://swiperjs.com/demos/images/nature-2.jpg" alt="test" />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img src="https://swiperjs.com/demos/images/nature-3.jpg" alt="test" />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img src="https://swiperjs.com/demos/images/nature-4.jpg" alt="test" />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img src="https://swiperjs.com/demos/images/nature-5.jpg" alt="test" />
-        </SwiperSlide>
+        {
+          images.map((image, index) => (
+            <SwiperSlide key={index}>
+              <img src={image} alt={alt} />
+            </SwiperSlide>
+          ))
+        }
       </Swiper>
     </>
   );
