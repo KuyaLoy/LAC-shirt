@@ -1,0 +1,33 @@
+@use "../../../../styles/utils/" as u;
+
+.SizeSectionWrapper {
+  text-align: center;
+  h2 {
+    font-family: "Gilroy-SemiBold";
+    color: white;
+    font-size: clamp(
+      u.rem(30),
+      calc(1.25rem + ((1vw - 7.68px) * 2.6042)),
+      u.rem(50)
+    );
+    margin-bottom: u.rem(50);
+  }
+
+  .SizeGuide {
+    max-width: u.rem(500);
+    width: 100%;
+
+    @include u.breakpoint-max(medium) {
+      max-width: unset;
+      width: 60%;
+    }
+  }
+  .SizeChart {
+    margin-top: u.rem(75);
+    max-width: u.rem(1100);
+    width: 100%;
+    @include u.breakpoint-max(medium) {
+      margin-top: u.rem(25);
+    }
+  }
+}

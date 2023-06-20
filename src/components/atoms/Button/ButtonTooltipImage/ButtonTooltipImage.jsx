@@ -1,22 +1,20 @@
-import React from 'react'
-import Image from '../../Image/Image'
-import P from '../../P/P';
+import React from "react";
+import Image from "../../Image/Image";
 
-import './ButtonTooltipImage.scss'
+import "./ButtonTooltipImage.scss";
 
-const ButtonTooltipImage = ({buttonClassName, content, image}) => {
+const ButtonTooltipImage = ({ buttonClassName, content, image }) => {
   const insertClassName = `ButtonTooltipWrapper ${buttonClassName}`;
   return (
     <>
       <button className={insertClassName}>
         {content}
         <div className="HoverWrapper">
-          <Image src={image}/>
-          <P content={content} />
+          <Image src={image} />
         </div>
-      </button>  
+      </button>
     </>
-  )
-}
+  );
+};
 
-export default ButtonTooltipImage
+export default ButtonTooltipImage;

@@ -1,0 +1,70 @@
+@use "../../../../styles/utils/" as u;
+
+.ClothingSpecsWrapper {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  h2 {
+    font-family: "Gilroy-SemiBold";
+    font-size: clamp(
+      u.rem(30),
+      calc(1.25rem + ((1vw - 7.68px) * 2.6042)),
+      u.rem(50)
+    );
+    margin-bottom: u.rem(100);
+    @include u.breakpoint-max(medium) {
+      margin-bottom: u.rem(50);
+    }
+  }
+
+  .ClothContent {
+    max-width: u.rem(700);
+    .CCinside {
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+      img {
+        width: u.rem(150);
+        object-fit: cover;
+        margin-right: u.rem(20);
+        @include u.breakpoint-max(large) {
+          width: u.rem(100);
+        }
+        @include u.breakpoint-max(medium) {
+          width: u.rem(75);
+        }
+      }
+      p {
+        font-size: clamp(20px, calc(1.25rem + ((1vw - 7.68px) * 2.1701)), 45px);
+        font-family: "Gilroy-Regular";
+      }
+      &:not(:last-child) {
+        margin-bottom: u.rem(15);
+      }
+    }
+  }
+  .ClothWarning {
+    display: flex;
+    align-items: center;
+    margin-top: u.rem(50);
+    img {
+      max-width: u.rem(150);
+      width: 100%;
+      object-fit: contain;
+
+      @include u.breakpoint-max(medium) {
+        max-width: u.rem(100);
+      }
+
+      @include u.breakpoint-max(small) {
+        max-width: u.rem(75);
+      }
+
+      &:last-child {
+        margin-bottom: u.rem(-15);
+      }
+    }
+  }
+}

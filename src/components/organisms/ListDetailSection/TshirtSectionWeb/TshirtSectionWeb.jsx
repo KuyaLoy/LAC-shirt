@@ -22,13 +22,13 @@ const TshirtSectionWeb = ({ data }) => {
           </div>
           <div className="SquareContent right">
             <Image
+              src={data.attributes.shirt_image.color.white_image_path[1]}
+            />
+            <Image
               src={data.attributes.shirt_image.color.white_image_path[2]}
             />
             <Image
               src={data.attributes.shirt_image.color.white_image_path[3]}
-            />
-            <Image
-              src={data.attributes.shirt_image.color.white_image_path[4]}
             />
           </div>
         </div>
@@ -44,13 +44,13 @@ const TshirtSectionWeb = ({ data }) => {
           </div>
           <div className="SquareContent">
             <Image
+              src={data.attributes.shirt_image.color.black_image_path[1]}
+            />
+            <Image
               src={data.attributes.shirt_image.color.black_image_path[2]}
             />
             <Image
               src={data.attributes.shirt_image.color.black_image_path[3]}
-            />
-            <Image
-              src={data.attributes.shirt_image.color.black_image_path[4]}
             />
           </div>
         </div>
@@ -61,26 +61,26 @@ const TshirtSectionWeb = ({ data }) => {
         <div className="ICContent">
           <div className="SquareContent right">
             <Image
-              src={data.attributes.shirt_image.color.white_image_path[2]}
-            />
-            <Image
-              src={data.attributes.shirt_image.color.white_image_path[3]}
-            />
-            <Image
               src={data.attributes.shirt_image.color.white_image_path[4]}
+            />
+            <Image
+              src={data.attributes.shirt_image.color.white_image_path[5]}
+            />
+            <Image
+              src={data.attributes.shirt_image.color.white_image_path[6]}
             />
           </div>
         </div>
         <div className="ICContent">
           <div className="SquareContent">
             <Image
-              src={data.attributes.shirt_image.color.black_image_path[2]}
-            />
-            <Image
-              src={data.attributes.shirt_image.color.black_image_path[3]}
-            />
-            <Image
               src={data.attributes.shirt_image.color.black_image_path[4]}
+            />
+            <Image
+              src={data.attributes.shirt_image.color.black_image_path[5]}
+            />
+            <Image
+              src={data.attributes.shirt_image.color.black_image_path[6]}
             />
           </div>
         </div>

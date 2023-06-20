@@ -1,0 +1,54 @@
+@use "../../../../styles/utils" as u;
+
+.LacSliderWrapper {
+  color: white;
+  padding: 0 5%;
+  .LacHeading {
+    max-width: u.rem(1440);
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: u.rem(50);
+    h2 {
+      font-family: "Gilroy-SemiBold";
+      font-size: clamp(
+        u.rem(24),
+        calc(1.5rem + ((1vw - 7.68px) * 3.125)),
+        u.rem(60)
+      );
+    }
+  }
+  .LacSliderCont {
+    .swiper-wrapper {
+      .swiper-slide {
+        a {
+          display: block;
+          width: 100%;
+          height: 100%;
+          text-decoration: none;
+          color: white;
+          img {
+            width: 100%;
+            height: 100%;
+            margin-bottom: u.rem(5);
+          }
+          span {
+            font-family: "Gilroy-light";
+            font-size: clamp(
+              10px,
+              calc(0.625rem + ((1vw - 7.68px) * 1.0417)),
+              22px
+            );
+          }
+          p {
+            font-family: "Gilroy-Regular";
+            font-size: clamp(
+              16px,
+              calc(1rem + ((1vw - 7.68px) * 1.5625)),
+              34px
+            );
+          }
+        }
+      }
+    }
+  }
+}

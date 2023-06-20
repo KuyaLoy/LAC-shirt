@@ -1,0 +1,43 @@
+@use "../../../../styles/utils/" as u;
+
+.UnknownWrapper {
+  text-align: center;
+
+  h2 {
+    font-family: "Gilroy-SemiBold";
+    color: white;
+    font-size: clamp(
+      u.rem(30),
+      calc(1.25rem + ((1vw - 7.68px) * 2.6042)),
+      u.rem(50)
+    );
+
+    margin-bottom: u.rem(100);
+  }
+  .emptyContainer {
+    height: 80vh;
+    max-width: 85%;
+    width: 100%;
+    margin: 0 auto;
+    background-color: white;
+    color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: u.rem(30);
+    font-size: clamp(
+      u.rem(30),
+      calc(1.25rem + ((1vw - 7.68px) * 2.6042)),
+      u.rem(50)
+    );
+    font-family: "Gilroy-SemiBold";
+
+    @include u.breakpoint-max(medium) {
+      max-width: 100%;
+      height: 40vh;
+    }
+    @include u.breakpoint-max(small) {
+      height: 30vh;
+    }
+  }
+}
