@@ -7,9 +7,10 @@ import { useLocation } from "react-router-dom";
 import "./Header.scss";
 
 import logo from "../../../assets/img/lac-special-logo.png";
-import ButtonImage from "../../atoms/Button/ButtonImage/ButtonImage";
+//import ButtonImage from "../../atoms/Button/ButtonImage/ButtonImage";
 import LinkImage from "../../atoms/Link/LinkImage/LinkImage";
-import LangIcon from "../../../assets/img/lang-icon.png";
+//import LangIcon from "../../../assets/img/lang-icon.png";
+import LanguageSwitcher from "../../molecules/LanguageSwitcher/LanguageSwitcher";
 
 const Header = () => {
   const location = useLocation();
@@ -32,7 +33,8 @@ const Header = () => {
         <H1 className="MainTitle" content="LAC Special" />
       </div>
       <div>
-        <ButtonImage className="LanguageButton" src={LangIcon} />
+        {/* <ButtonImage className="LanguageButton" src={LangIcon} /> */}
+        <LanguageSwitcher />
       </div>
     </div>
   );

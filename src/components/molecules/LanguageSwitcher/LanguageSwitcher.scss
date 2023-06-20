@@ -1,0 +1,62 @@
+@use "../../../styles/utils" as u;
+
+.LanguageSwitchWrapper{
+    .LanguageButton {
+    background-color: transparent;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    padding: u.rem(10) u.rem(10) u.rem(5) u.rem(10);
+    img {
+      width: u.rem(30);
+      height: u.rem(30);
+
+      @include u.breakpoint-max(small) {
+        width: u.rem(21);
+        height: u.rem(21);
+      }
+    }
+  }
+  .langDp {
+      display: none;
+  }
+  &.active {
+    .LanguageButton {
+        background: #1d1f2c;
+    
+        border-radius: u.rem(5) u.rem(5) u.rem(0) u.rem(0);
+        outline: u.rem(1) solid #fdd23e;
+    }
+    .langDp {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+
+        background: #1d1f2c;
+        border-radius: u.rem(0) u.rem(0) u.rem(5) u.rem(5);
+        outline: u.rem(1) solid #fdd23e;
+        margin-top: u.rem(4);
+        position: absolute;
+        width: u.rem(51);
+        z-index: 1;
+
+        @include u.breakpoint-max(small) {
+            width: u.rem(41);
+          }
+
+        button {
+            background-color: transparent;
+            color: white;
+            width: 100%;
+            cursor: pointer;
+            border: none;
+            padding: u.rem(10);
+            &:not(:last-child) {
+                border-bottom: u.rem(1) solid grey;
+            }
+        }
+        
+    }
+  }
+}
