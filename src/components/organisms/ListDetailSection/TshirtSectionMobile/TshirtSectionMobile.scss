@@ -11,6 +11,7 @@
       width: u.rem(50);
       margin: 0 u.rem(5);
       border: none;
+      cursor: pointer;
 
       &.selected {
         outline: u.rem(2) solid #ff00ee !important;

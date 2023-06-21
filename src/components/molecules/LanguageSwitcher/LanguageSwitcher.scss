@@ -39,10 +39,12 @@
         margin-top: u.rem(4);
         position: absolute;
         width: u.rem(51);
-        z-index: 1;
+        z-index: 9999;
+        
 
         @include u.breakpoint-max(small) {
             width: u.rem(41);
+            
           }
 
         button {

@@ -21,7 +21,7 @@ const TshirtSectionMobile = ({ data }) => {
         src={
           selectedColor === "white"
             ? data.attributes.shirt_image.color.white_image_path[0]
-            : "https:via.placeholder.com/300"
+            : data.attributes.shirt_image.color.black_image_path[0]
         }
         alt={data.name}
       />
@@ -40,7 +40,7 @@ const TshirtSectionMobile = ({ data }) => {
         src={
           selectedColor === "white"
             ? data.attributes.shirt_image.color.white_image_path[1]
-            : "https:via.placeholder.com/300"
+            : data.attributes.shirt_image.color.black_image_path[1]
         }
         alt={data.name}
       />
@@ -48,7 +48,7 @@ const TshirtSectionMobile = ({ data }) => {
         src={
           selectedColor === "white"
             ? data.attributes.shirt_image.color.white_image_path[2]
-            : "https:via.placeholder.com/300"
+            : data.attributes.shirt_image.color.black_image_path[2]
         }
         alt={data.name}
       />
@@ -56,7 +56,7 @@ const TshirtSectionMobile = ({ data }) => {
         src={
           selectedColor === "white"
             ? data.attributes.shirt_image.color.white_image_path[3]
-            : "https:via.placeholder.com/300"
+            : data.attributes.shirt_image.color.black_image_path[3]
         }
         alt={data.name}
       />
@@ -66,7 +66,7 @@ const TshirtSectionMobile = ({ data }) => {
         src={
           selectedColor === "white"
             ? data.attributes.shirt_image.color.white_image_path[4]
-            : "https:via.placeholder.com/300"
+            : data.attributes.shirt_image.color.black_image_path[4]
         }
         alt={data.name}
       />
@@ -74,7 +74,7 @@ const TshirtSectionMobile = ({ data }) => {
         src={
           selectedColor === "white"
             ? data.attributes.shirt_image.color.white_image_path[5]
-            : "https:via.placeholder.com/300"
+            : data.attributes.shirt_image.color.black_image_path[5]
         }
         alt={data.name}
       />
@@ -82,7 +82,7 @@ const TshirtSectionMobile = ({ data }) => {
         src={
           selectedColor === "white"
             ? data.attributes.shirt_image.color.white_image_path[6]
-            : "https:via.placeholder.com/300"
+            : data.attributes.shirt_image.color.black_image_path[6]
         }
         alt={data.name}
       />
