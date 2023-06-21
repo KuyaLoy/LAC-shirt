@@ -53,22 +53,6 @@ const HeroSection = ({ data }) => {
               src={data.attributes.buy_link[key][1]}
             />
           ))}
-          {/* <LinkImage
-            src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg"
-            link="#"
-          />
-          <LinkImage
-            src="https://seeklogo.com/images/1/11st-logo-E3BCE0DAE6-seeklogo.com.png"
-            link="#"
-          />
-          <LinkImage
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gmarket_logo.svg/2560px-Gmarket_logo.svg.png"
-            link="#"
-          />
-          <LinkImage
-            src="https://cdn.imweb.me/upload/S202110056023dfc5dde5d/be1d2d7daec88.png"
-            link="#"
-          /> */}
         </div>
       </div>
     </div>
