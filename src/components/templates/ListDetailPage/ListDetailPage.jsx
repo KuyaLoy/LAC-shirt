@@ -1,4 +1,4 @@
-import React, { useState, useLayoutEffect } from "react";
+import React, { useState, useLayoutEffect, useEffect } from "react";
 import HeroSection from "../../organisms/ListDetailSection/HeroSection/HeroSection";
 import "./ListDetailPage.scss";
 import { useParams } from "react-router-dom";
@@ -14,9 +14,10 @@ import TableChart2 from "../../../assets/img/detailPage/TableChart-2.png";
 import ClothingSpecs from "../../organisms/ListDetailSection/ClothingSpecs/ClothingSpecs";
 import LacSlider from "../../organisms/ListDetailSection/LacSlider/LacSlider";
 import Footer from "../../organisms/Footer/Footer";
+import ExtraButton from "../../molecules/ExtraButton/ExtraButton";
 
 const ListDetailPage = ({ data }) => {
-  console.log({ data });
+  // console.log({ data });
 
   const { id } = useParams();
   const item = data.find((item) => item.id === parseInt(id));
@@ -38,6 +39,20 @@ const ListDetailPage = ({ data }) => {
       window.removeEventListener("resize", handleResize);
     };
   }, []);
+
+  const [showTopBtn, setShowTopBtn] = useState(false);
+  useEffect(() => {
+    window.addEventListener("scroll", () => {
+      if (window.scrollY > 400) {
+        setShowTopBtn(true);
+      } else {
+        setShowTopBtn(false);
+      }
+    });
+  }, []);
+  const goToTop = () => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
 
   return (
     <div className="ListDetailPageWrapper">
@@ -73,6 +88,7 @@ const ListDetailPage = ({ data }) => {
       <div className="FullwidthContainer">
         <LacSlider />
       </div>
+      {showTopBtn && <ExtraButton data={item} onClick={goToTop} />}
 
       <Footer />
     </div>

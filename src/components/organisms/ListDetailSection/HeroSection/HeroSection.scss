@@ -127,7 +127,7 @@
 
         a {
           cursor: pointer;
-          height: u.rem(70);
+          height: u.rem(50);
           width: 25%;
           border-radius: u.rem(10);
           border: none;
@@ -136,10 +136,6 @@
           display: flex;
           align-items: center;
           justify-content: center;
-
-          @include u.breakpoint-max(small) {
-            height: u.rem(50);
-          }
 
           img {
             width: 75%;

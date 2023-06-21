@@ -3,7 +3,6 @@ import { Routes, Route, BrowserRouter } from "react-router-dom";
 import Header from "./components/organisms/Header/Header";
 import ListingPage from "./components/templates/ListingPage/ListingPage";
 import ListDetailPage from "./components/templates/ListDetailPage/ListDetailPage";
-//import meta from "./assets/json/meta.json";
 
 import enTranslations from "./assets/translations/en.json";
 import koTranslations from "./assets/translations/ko.json";
@@ -12,7 +11,6 @@ import jpTranslations from "./assets/translations/jp.json";
 import "./App.css";
 
 const App = () => {
-  //const history = useNavigate();
   const defaultLanguage = "ko";
   const storedLanguage = localStorage.getItem("selectedLanguage");
   const [currentLanguage, setCurrentLanguage] = useState(
@@ -41,7 +39,6 @@ const App = () => {
 
   const changeLanguage = (language) => {
     setCurrentLanguage(language);
-    //history.push("/");
   };
   return (
     <BrowserRouter basename="/">
