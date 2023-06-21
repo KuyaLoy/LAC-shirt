@@ -46,7 +46,14 @@ const HeroSection = ({ data }) => {
         <hr />
         <P className="BuyTitle" content="BUY TO LINK" />
         <div className="BuyLink">
-          <LinkImage
+          {Object.keys(data.attributes.buy_link).map((key, index) => (
+            <LinkImage
+              key={index}
+              link={data.attributes.buy_link[key][0]}
+              src={data.attributes.buy_link[key][1]}
+            />
+          ))}
+          {/* <LinkImage
             src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg"
             link="#"
           />
@@ -61,7 +68,7 @@ const HeroSection = ({ data }) => {
           <LinkImage
             src="https://cdn.imweb.me/upload/S202110056023dfc5dde5d/be1d2d7daec88.png"
             link="#"
-          />
+          /> */}
         </div>
       </div>
     </div>

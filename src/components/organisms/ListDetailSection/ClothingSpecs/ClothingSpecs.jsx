@@ -26,7 +26,7 @@ const ClothingSpecs = () => {
         </div>
       </div>
 
-      <div class="ClothWarning">
+      <div className="ClothWarning">
         <Image src={Warn1} />
         <Image src={Warn2} />
         <Image src={Warn3} />

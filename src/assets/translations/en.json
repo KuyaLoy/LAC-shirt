@@ -1,0 +1,662 @@
+[
+  {
+    "id": 1,
+    "name": "#0 - english",
+    "category": "Special",
+    "main_image_path": "/assets/images/nftFile/mainfolder/special0/0.png",
+    "attributes": {
+      "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
+      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
+      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
+      "hero_list": [
+        "Tencel 70%와 면 30% 혼용 원단",
+        "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
+        "단독으로 착용하는 것은 물론이고 이너웨어로도 남녀노소 누구나 멋지게 어우러질 수 있는 다용성",
+        "LAC Nft의 스페셜 작품으로 오로지 소수의 특별한 사람들을 위한 한정판 제품으로 특별함을 추구하는 분들에게 완벽한 선택"
+      ],
+      "list_description": "이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다.",
+      "galery_image_path": [
+        "/assets/images/nftFile/mainfolder/special0/gallery/0.png",
+        "/assets/images/nftFile/mainfolder/special0/gallery/whiteone.png",
+        "/assets/images/nftFile/mainfolder/special0/gallery/blackone.png",
+        "/assets/images/nftFile/mainfolder/special0/gallery/whitetwo.png",
+        "/assets/images/nftFile/mainfolder/special0/gallery/blacktwo.png"
+      ],
+      "buy_link": {
+        "link1": [
+          "https://www.amazon.ae/",
+          "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg"
+        ],
+        "link2": [
+          "https://www.amazon.ae/",
+          "https://seeklogo.com/images/1/11st-logo-E3BCE0DAE6-seeklogo.com.png"
+        ],
+        "link3": [
+          "https://www.amazon.ae/",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gmarket_logo.svg/2560px-Gmarket_logo.svg.png"
+        ],
+        "link4": [
+          "https://www.amazon.ae/",
+          "https://cdn.imweb.me/upload/S202110056023dfc5dde5d/be1d2d7daec88.png"
+        ]
+      },
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "shirt_image": {
+        "color": {
+          "white_image_path": [
+            "/assets/images/nftFile/mainfolder/special0/color/white.png",
+            "/assets/images/nftFile/mainfolder/special0/tshirts/whiteone.png",
+            "/assets/images/nftFile/mainfolder/special0/tshirts/whitetwo.png",
+            "/assets/images/nftFile/mainfolder/special0/tshirts/whitethree.png",
+            "/assets/images/nftFile/mainfolder/special0/tshirts/dailywone.png",
+            "/assets/images/nftFile/mainfolder/special0/tshirts/dailywtwo.png",
+            "/assets/images/nftFile/mainfolder/special0/tshirts/dailywthree.png"
+          ],
+          "black_image_path": [
+            "/assets/images/nftFile/mainfolder/special0/color/black.png",
+            "/assets/images/nftFile/mainfolder/special0/tshirts/blackone.png",
+            "/assets/images/nftFile/mainfolder/special0/tshirts/blacktwo.png",
+            "/assets/images/nftFile/mainfolder/special0/tshirts/blackthree.png",
+            "/assets/images/nftFile/mainfolder/special0/tshirts/dailybone.png",
+            "/assets/images/nftFile/mainfolder/special0/tshirts/dailybtwo.png",
+            "/assets/images/nftFile/mainfolder/special0/tshirts/dailybthree.png"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "#100",
+    "category": "Special",
+    "main_image_path": "/assets/images/nftFile/mainfolder/special100/100.png",
+    "attributes": {
+      "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
+      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
+      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
+      "hero_list": [
+        "Tencel 70%와 면 30% 혼용 원단",
+        "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
+        "단독으로 착용하는 것은 물론이고 이너웨어로도 남녀노소 누구나 멋지게 어우러질 수 있는 다용성",
+        "LAC Nft의 스페셜 작품으로 오로지 소수의 특별한 사람들을 위한 한정판 제품으로 특별함을 추구하는 분들에게 완벽한 선택"
+      ],
+      "list_description": "이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다.",
+      "galery_image_path": [
+        "/assets/images/nftFile/mainfolder/special100/gallery/100.png",
+        "/assets/images/nftFile/mainfolder/special100/gallery/whiteone.png",
+        "/assets/images/nftFile/mainfolder/special100/gallery/blackone.png",
+        "/assets/images/nftFile/mainfolder/special100/gallery/whitetwo.png",
+        "/assets/images/nftFile/mainfolder/special100/gallery/blacktwo.png"
+      ],
+      "buy_link": {
+        "link1": [
+          "https://www.amazon.ae/",
+          "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg"
+        ],
+        "link2": [
+          "https://www.amazon.ae/",
+          "https://seeklogo.com/images/1/11st-logo-E3BCE0DAE6-seeklogo.com.png"
+        ],
+        "link3": [
+          "https://www.amazon.ae/",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gmarket_logo.svg/2560px-Gmarket_logo.svg.png"
+        ],
+        "link4": [
+          "https://www.amazon.ae/",
+          "https://cdn.imweb.me/upload/S202110056023dfc5dde5d/be1d2d7daec88.png"
+        ]
+      },
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "shirt_image": {
+        "color": {
+          "white_image_path": [
+            "/assets/images/nftFile/mainfolder/special100/color/white.png",
+            "/assets/images/nftFile/mainfolder/special100/tshirts/whiteone.png",
+            "/assets/images/nftFile/mainfolder/special100/tshirts/whitetwo.png",
+            "/assets/images/nftFile/mainfolder/special100/tshirts/whitethree.png",
+            "/assets/images/nftFile/mainfolder/special100/tshirts/dailywone.png",
+            "/assets/images/nftFile/mainfolder/special100/tshirts/dailywtwo.png",
+            "/assets/images/nftFile/mainfolder/special100/tshirts/dailywthree.png"
+          ],
+          "black_image_path": [
+            "/assets/images/nftFile/mainfolder/special100/color/black.png",
+            "/assets/images/nftFile/mainfolder/special100/tshirts/blackone.png",
+            "/assets/images/nftFile/mainfolder/special100/tshirts/blacktwo.png",
+            "/assets/images/nftFile/mainfolder/special100/tshirts/blackthree.png",
+            "/assets/images/nftFile/mainfolder/special100/tshirts/dailybone.png",
+            "/assets/images/nftFile/mainfolder/special100/tshirts/dailybtwo.png",
+            "/assets/images/nftFile/mainfolder/special100/tshirts/dailybthree.png"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "#200",
+    "category": "Special",
+    "main_image_path": "/assets/images/nftFile/mainfolder/special200/200.png",
+    "attributes": {
+      "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
+      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
+      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
+      "hero_list": [
+        "Tencel 70%와 면 30% 혼용 원단",
+        "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
+        "단독으로 착용하는 것은 물론이고 이너웨어로도 남녀노소 누구나 멋지게 어우러질 수 있는 다용성",
+        "LAC Nft의 스페셜 작품으로 오로지 소수의 특별한 사람들을 위한 한정판 제품으로 특별함을 추구하는 분들에게 완벽한 선택"
+      ],
+      "list_description": "이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다.",
+      "galery_image_path": [
+        "/assets/images/nftFile/mainfolder/special200/gallery/200.png",
+        "/assets/images/nftFile/mainfolder/special200/gallery/whiteone.png",
+        "/assets/images/nftFile/mainfolder/special200/gallery/blackone.png",
+        "/assets/images/nftFile/mainfolder/special200/gallery/whitetwo.png",
+        "/assets/images/nftFile/mainfolder/special200/gallery/blacktwo.png"
+      ],
+      "buy_link": {
+        "link1": [
+          "https://www.amazon.ae/",
+          "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg"
+        ],
+        "link2": [
+          "https://www.amazon.ae/",
+          "https://seeklogo.com/images/1/11st-logo-E3BCE0DAE6-seeklogo.com.png"
+        ],
+        "link3": [
+          "https://www.amazon.ae/",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gmarket_logo.svg/2560px-Gmarket_logo.svg.png"
+        ],
+        "link4": [
+          "https://www.amazon.ae/",
+          "https://cdn.imweb.me/upload/S202110056023dfc5dde5d/be1d2d7daec88.png"
+        ]
+      },
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "shirt_image": {
+        "color": {
+          "white_image_path": [
+            "/assets/images/nftFile/mainfolder/special200/color/white.png",
+            "/assets/images/nftFile/mainfolder/special200/tshirts/whiteone.png",
+            "/assets/images/nftFile/mainfolder/special200/tshirts/whitetwo.png",
+            "/assets/images/nftFile/mainfolder/special200/tshirts/whitethree.png",
+            "/assets/images/nftFile/mainfolder/special200/tshirts/dailywone.png",
+            "/assets/images/nftFile/mainfolder/special200/tshirts/dailywtwo.png",
+            "/assets/images/nftFile/mainfolder/special200/tshirts/dailywthree.png"
+          ],
+          "black_image_path": [
+            "/assets/images/nftFile/mainfolder/special200/color/black.png",
+            "/assets/images/nftFile/mainfolder/special200/tshirts/blackone.png",
+            "/assets/images/nftFile/mainfolder/special200/tshirts/blacktwo.png",
+            "/assets/images/nftFile/mainfolder/special200/tshirts/blackthree.png",
+            "/assets/images/nftFile/mainfolder/special200/tshirts/dailybone.png",
+            "/assets/images/nftFile/mainfolder/special200/tshirts/dailybtwo.png",
+            "/assets/images/nftFile/mainfolder/special200/tshirts/dailybthree.png"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "#300",
+    "category": "Special",
+    "main_image_path": "/assets/images/nftFile/mainfolder/special300/300.png",
+    "attributes": {
+      "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
+      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
+      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
+      "hero_list": [
+        "Tencel 70%와 면 30% 혼용 원단",
+        "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
+        "단독으로 착용하는 것은 물론이고 이너웨어로도 남녀노소 누구나 멋지게 어우러질 수 있는 다용성",
+        "LAC Nft의 스페셜 작품으로 오로지 소수의 특별한 사람들을 위한 한정판 제품으로 특별함을 추구하는 분들에게 완벽한 선택"
+      ],
+      "list_description": "이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다.",
+      "galery_image_path": [
+        "/assets/images/nftFile/mainfolder/special300/gallery/300.png",
+        "/assets/images/nftFile/mainfolder/special300/gallery/whiteone.png",
+        "/assets/images/nftFile/mainfolder/special300/gallery/blackone.png",
+        "/assets/images/nftFile/mainfolder/special300/gallery/whitetwo.png",
+        "/assets/images/nftFile/mainfolder/special300/gallery/blacktwo.png"
+      ],
+      "buy_link": {
+        "link1": [
+          "https://www.amazon.ae/",
+          "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg"
+        ],
+        "link2": [
+          "https://www.amazon.ae/",
+          "https://seeklogo.com/images/1/11st-logo-E3BCE0DAE6-seeklogo.com.png"
+        ],
+        "link3": [
+          "https://www.amazon.ae/",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gmarket_logo.svg/2560px-Gmarket_logo.svg.png"
+        ],
+        "link4": [
+          "https://www.amazon.ae/",
+          "https://cdn.imweb.me/upload/S202110056023dfc5dde5d/be1d2d7daec88.png"
+        ]
+      },
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "shirt_image": {
+        "color": {
+          "white_image_path": [
+            "/assets/images/nftFile/mainfolder/special300/color/white.png",
+            "/assets/images/nftFile/mainfolder/special300/tshirts/whiteone.png",
+            "/assets/images/nftFile/mainfolder/special300/tshirts/whitetwo.png",
+            "/assets/images/nftFile/mainfolder/special300/tshirts/whitethree.png",
+            "/assets/images/nftFile/mainfolder/special300/tshirts/dailywone.png",
+            "/assets/images/nftFile/mainfolder/special300/tshirts/dailywtwo.png",
+            "/assets/images/nftFile/mainfolder/special300/tshirts/dailywthree.png"
+          ],
+          "black_image_path": [
+            "/assets/images/nftFile/mainfolder/special300/color/black.png",
+            "/assets/images/nftFile/mainfolder/special300/tshirts/blackone.png",
+            "/assets/images/nftFile/mainfolder/special300/tshirts/blacktwo.png",
+            "/assets/images/nftFile/mainfolder/special300/tshirts/blackthree.png",
+            "/assets/images/nftFile/mainfolder/special300/tshirts/dailybone.png",
+            "/assets/images/nftFile/mainfolder/special300/tshirts/dailybtwo.png",
+            "/assets/images/nftFile/mainfolder/special300/tshirts/dailybthree.png"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "name": "#9994",
+    "category": "Special",
+    "main_image_path": "/assets/images/nftFile/mainfolder/special9994/9994.png",
+    "attributes": {
+      "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
+      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
+      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
+      "hero_list": [
+        "Tencel 70%와 면 30% 혼용 원단",
+        "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
+        "단독으로 착용하는 것은 물론이고 이너웨어로도 남녀노소 누구나 멋지게 어우러질 수 있는 다용성",
+        "LAC Nft의 스페셜 작품으로 오로지 소수의 특별한 사람들을 위한 한정판 제품으로 특별함을 추구하는 분들에게 완벽한 선택"
+      ],
+      "list_description": "이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다.",
+      "galery_image_path": [
+        "/assets/images/nftFile/mainfolder/special9994/gallery/9994.png",
+        "/assets/images/nftFile/mainfolder/special9994/gallery/whiteone.png",
+        "/assets/images/nftFile/mainfolder/special9994/gallery/blackone.png",
+        "/assets/images/nftFile/mainfolder/special9994/gallery/whitetwo.png",
+        "/assets/images/nftFile/mainfolder/special9994/gallery/blacktwo.png"
+      ],
+      "buy_link": {
+        "link1": [
+          "https://www.amazon.ae/",
+          "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg"
+        ],
+        "link2": [
+          "https://www.amazon.ae/",
+          "https://seeklogo.com/images/1/11st-logo-E3BCE0DAE6-seeklogo.com.png"
+        ],
+        "link3": [
+          "https://www.amazon.ae/",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gmarket_logo.svg/2560px-Gmarket_logo.svg.png"
+        ],
+        "link4": [
+          "https://www.amazon.ae/",
+          "https://cdn.imweb.me/upload/S202110056023dfc5dde5d/be1d2d7daec88.png"
+        ]
+      },
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "shirt_image": {
+        "color": {
+          "white_image_path": [
+            "/assets/images/nftFile/mainfolder/special9994/color/white.png",
+            "/assets/images/nftFile/mainfolder/special9994/tshirts/whiteone.png",
+            "/assets/images/nftFile/mainfolder/special9994/tshirts/whitetwo.png",
+            "/assets/images/nftFile/mainfolder/special9994/tshirts/whitethree.png",
+            "/assets/images/nftFile/mainfolder/special9994/tshirts/dailywone.png",
+            "/assets/images/nftFile/mainfolder/special9994/tshirts/dailywtwo.png",
+            "/assets/images/nftFile/mainfolder/special9994/tshirts/dailywthree.png"
+          ],
+          "black_image_path": [
+            "/assets/images/nftFile/mainfolder/special9994/color/black.png",
+            "/assets/images/nftFile/mainfolder/special9994/tshirts/blackone.png",
+            "/assets/images/nftFile/mainfolder/special9994/tshirts/blacktwo.png",
+            "/assets/images/nftFile/mainfolder/special9994/tshirts/blackthree.png",
+            "/assets/images/nftFile/mainfolder/special9994/tshirts/dailybone.png",
+            "/assets/images/nftFile/mainfolder/special9994/tshirts/dailybtwo.png",
+            "/assets/images/nftFile/mainfolder/special9994/tshirts/dailybthree.png"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "name": "#9995",
+    "category": "Special",
+    "main_image_path": "/assets/images/nftFile/mainfolder/special9995/9995.png",
+    "attributes": {
+      "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
+      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
+      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
+      "hero_list": [
+        "Tencel 70%와 면 30% 혼용 원단",
+        "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
+        "단독으로 착용하는 것은 물론이고 이너웨어로도 남녀노소 누구나 멋지게 어우러질 수 있는 다용성",
+        "LAC Nft의 스페셜 작품으로 오로지 소수의 특별한 사람들을 위한 한정판 제품으로 특별함을 추구하는 분들에게 완벽한 선택"
+      ],
+      "list_description": "이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다.",
+      "galery_image_path": [
+        "/assets/images/nftFile/mainfolder/special9995/gallery/9995.png",
+        "/assets/images/nftFile/mainfolder/special9995/gallery/whiteone.png",
+        "/assets/images/nftFile/mainfolder/special9995/gallery/blackone.png",
+        "/assets/images/nftFile/mainfolder/special9995/gallery/whitetwo.png",
+        "/assets/images/nftFile/mainfolder/special9995/gallery/blacktwo.png"
+      ],
+      "buy_link": {
+        "link1": [
+          "https://www.amazon.ae/",
+          "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg"
+        ],
+        "link2": [
+          "https://www.amazon.ae/",
+          "https://seeklogo.com/images/1/11st-logo-E3BCE0DAE6-seeklogo.com.png"
+        ],
+        "link3": [
+          "https://www.amazon.ae/",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gmarket_logo.svg/2560px-Gmarket_logo.svg.png"
+        ],
+        "link4": [
+          "https://www.amazon.ae/",
+          "https://cdn.imweb.me/upload/S202110056023dfc5dde5d/be1d2d7daec88.png"
+        ]
+      },
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "shirt_image": {
+        "color": {
+          "white_image_path": [
+            "/assets/images/nftFile/mainfolder/special9995/color/white.png",
+            "/assets/images/nftFile/mainfolder/special9995/tshirts/whiteone.png",
+            "/assets/images/nftFile/mainfolder/special9995/tshirts/whitetwo.png",
+            "/assets/images/nftFile/mainfolder/special9995/tshirts/whitethree.png",
+            "/assets/images/nftFile/mainfolder/special9995/tshirts/dailywone.png",
+            "/assets/images/nftFile/mainfolder/special9995/tshirts/dailywtwo.png",
+            "/assets/images/nftFile/mainfolder/special9995/tshirts/dailywthree.png"
+          ],
+          "black_image_path": [
+            "/assets/images/nftFile/mainfolder/special9995/color/black.png",
+            "/assets/images/nftFile/mainfolder/special9995/tshirts/blackone.png",
+            "/assets/images/nftFile/mainfolder/special9995/tshirts/blacktwo.png",
+            "/assets/images/nftFile/mainfolder/special9995/tshirts/blackthree.png",
+            "/assets/images/nftFile/mainfolder/special9995/tshirts/dailybone.png",
+            "/assets/images/nftFile/mainfolder/special9995/tshirts/dailybtwo.png",
+            "/assets/images/nftFile/mainfolder/special9995/tshirts/dailybthree.png"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "name": "#9996",
+    "category": "Special",
+    "main_image_path": "/assets/images/nftFile/mainfolder/special9996/9996.png",
+    "attributes": {
+      "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
+      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
+      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
+      "hero_list": [
+        "Tencel 70%와 면 30% 혼용 원단",
+        "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
+        "단독으로 착용하는 것은 물론이고 이너웨어로도 남녀노소 누구나 멋지게 어우러질 수 있는 다용성",
+        "LAC Nft의 스페셜 작품으로 오로지 소수의 특별한 사람들을 위한 한정판 제품으로 특별함을 추구하는 분들에게 완벽한 선택"
+      ],
+      "list_description": "이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다.",
+      "galery_image_path": [
+        "/assets/images/nftFile/mainfolder/special9996/gallery/9996.png",
+        "/assets/images/nftFile/mainfolder/special9996/gallery/whiteone.png",
+        "/assets/images/nftFile/mainfolder/special9996/gallery/blackone.png",
+        "/assets/images/nftFile/mainfolder/special9996/gallery/whitetwo.png",
+        "/assets/images/nftFile/mainfolder/special9996/gallery/blacktwo.png"
+      ],
+      "buy_link": {
+        "link1": [
+          "https://www.amazon.ae/",
+          "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg"
+        ],
+        "link2": [
+          "https://www.amazon.ae/",
+          "https://seeklogo.com/images/1/11st-logo-E3BCE0DAE6-seeklogo.com.png"
+        ],
+        "link3": [
+          "https://www.amazon.ae/",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gmarket_logo.svg/2560px-Gmarket_logo.svg.png"
+        ],
+        "link4": [
+          "https://www.amazon.ae/",
+          "https://cdn.imweb.me/upload/S202110056023dfc5dde5d/be1d2d7daec88.png"
+        ]
+      },
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "shirt_image": {
+        "color": {
+          "white_image_path": [
+            "/assets/images/nftFile/mainfolder/special9996/color/white.png",
+            "/assets/images/nftFile/mainfolder/special9996/tshirts/whiteone.png",
+            "/assets/images/nftFile/mainfolder/special9996/tshirts/whitetwo.png",
+            "/assets/images/nftFile/mainfolder/special9996/tshirts/whitethree.png",
+            "/assets/images/nftFile/mainfolder/special9996/tshirts/dailywone.png",
+            "/assets/images/nftFile/mainfolder/special9996/tshirts/dailywtwo.png",
+            "/assets/images/nftFile/mainfolder/special9996/tshirts/dailywthree.png"
+          ],
+          "black_image_path": [
+            "/assets/images/nftFile/mainfolder/special9996/color/black.png",
+            "/assets/images/nftFile/mainfolder/special9996/tshirts/blackone.png",
+            "/assets/images/nftFile/mainfolder/special9996/tshirts/blacktwo.png",
+            "/assets/images/nftFile/mainfolder/special9996/tshirts/blackthree.png",
+            "/assets/images/nftFile/mainfolder/special9996/tshirts/dailybone.png",
+            "/assets/images/nftFile/mainfolder/special9996/tshirts/dailybtwo.png",
+            "/assets/images/nftFile/mainfolder/special9996/tshirts/dailybthree.png"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "name": "#9997",
+    "category": "Special",
+    "main_image_path": "/assets/images/nftFile/mainfolder/special9997/9997.png",
+    "attributes": {
+      "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
+      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
+      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
+      "hero_list": [
+        "Tencel 70%와 면 30% 혼용 원단",
+        "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
+        "단독으로 착용하는 것은 물론이고 이너웨어로도 남녀노소 누구나 멋지게 어우러질 수 있는 다용성",
+        "LAC Nft의 스페셜 작품으로 오로지 소수의 특별한 사람들을 위한 한정판 제품으로 특별함을 추구하는 분들에게 완벽한 선택"
+      ],
+      "list_description": "이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다.",
+      "galery_image_path": [
+        "/assets/images/nftFile/mainfolder/special9997/gallery/9997.png",
+        "/assets/images/nftFile/mainfolder/special9997/gallery/whiteone.png",
+        "/assets/images/nftFile/mainfolder/special9997/gallery/blackone.png",
+        "/assets/images/nftFile/mainfolder/special9997/gallery/whitetwo.png",
+        "/assets/images/nftFile/mainfolder/special9997/gallery/blacktwo.png"
+      ],
+      "buy_link": {
+        "link1": [
+          "https://www.amazon.ae/",
+          "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg"
+        ],
+        "link2": [
+          "https://www.amazon.ae/",
+          "https://seeklogo.com/images/1/11st-logo-E3BCE0DAE6-seeklogo.com.png"
+        ],
+        "link3": [
+          "https://www.amazon.ae/",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gmarket_logo.svg/2560px-Gmarket_logo.svg.png"
+        ],
+        "link4": [
+          "https://www.amazon.ae/",
+          "https://cdn.imweb.me/upload/S202110056023dfc5dde5d/be1d2d7daec88.png"
+        ]
+      },
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "shirt_image": {
+        "color": {
+          "white_image_path": [
+            "/assets/images/nftFile/mainfolder/special9997/color/white.png",
+            "/assets/images/nftFile/mainfolder/special9997/tshirts/whiteone.png",
+            "/assets/images/nftFile/mainfolder/special9997/tshirts/whitetwo.png",
+            "/assets/images/nftFile/mainfolder/special9997/tshirts/whitethree.png",
+            "/assets/images/nftFile/mainfolder/special9997/tshirts/dailywone.png",
+            "/assets/images/nftFile/mainfolder/special9997/tshirts/dailywtwo.png",
+            "/assets/images/nftFile/mainfolder/special9997/tshirts/dailywthree.png"
+          ],
+          "black_image_path": [
+            "/assets/images/nftFile/mainfolder/special9997/color/black.png",
+            "/assets/images/nftFile/mainfolder/special9997/tshirts/blackone.png",
+            "/assets/images/nftFile/mainfolder/special9997/tshirts/blacktwo.png",
+            "/assets/images/nftFile/mainfolder/special9997/tshirts/blackthree.png",
+            "/assets/images/nftFile/mainfolder/special9997/tshirts/dailybone.png",
+            "/assets/images/nftFile/mainfolder/special9997/tshirts/dailybtwo.png",
+            "/assets/images/nftFile/mainfolder/special9997/tshirts/dailybthree.png"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "name": "#9998",
+    "category": "Special",
+    "main_image_path": "/assets/images/nftFile/mainfolder/special9998/9998.png",
+    "attributes": {
+      "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
+      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
+      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
+      "hero_list": [
+        "Tencel 70%와 면 30% 혼용 원단",
+        "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
+        "단독으로 착용하는 것은 물론이고 이너웨어로도 남녀노소 누구나 멋지게 어우러질 수 있는 다용성",
+        "LAC Nft의 스페셜 작품으로 오로지 소수의 특별한 사람들을 위한 한정판 제품으로 특별함을 추구하는 분들에게 완벽한 선택"
+      ],
+      "list_description": "이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다.",
+      "galery_image_path": [
+        "/assets/images/nftFile/mainfolder/special9998/gallery/9998.png",
+        "/assets/images/nftFile/mainfolder/special9998/gallery/whiteone.png",
+        "/assets/images/nftFile/mainfolder/special9998/gallery/blackone.png",
+        "/assets/images/nftFile/mainfolder/special9998/gallery/whitetwo.png",
+        "/assets/images/nftFile/mainfolder/special9998/gallery/blacktwo.png"
+      ],
+      "buy_link": {
+        "link1": [
+          "https://www.amazon.ae/",
+          "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg"
+        ],
+        "link2": [
+          "https://www.amazon.ae/",
+          "https://seeklogo.com/images/1/11st-logo-E3BCE0DAE6-seeklogo.com.png"
+        ],
+        "link3": [
+          "https://www.amazon.ae/",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gmarket_logo.svg/2560px-Gmarket_logo.svg.png"
+        ],
+        "link4": [
+          "https://www.amazon.ae/",
+          "https://cdn.imweb.me/upload/S202110056023dfc5dde5d/be1d2d7daec88.png"
+        ]
+      },
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "shirt_image": {
+        "color": {
+          "white_image_path": [
+            "/assets/images/nftFile/mainfolder/special9998/color/white.png",
+            "/assets/images/nftFile/mainfolder/special9998/tshirts/whiteone.png",
+            "/assets/images/nftFile/mainfolder/special9998/tshirts/whitetwo.png",
+            "/assets/images/nftFile/mainfolder/special9998/tshirts/whitethree.png",
+            "/assets/images/nftFile/mainfolder/special9998/tshirts/dailywone.png",
+            "/assets/images/nftFile/mainfolder/special9998/tshirts/dailywtwo.png",
+            "/assets/images/nftFile/mainfolder/special9998/tshirts/dailywthree.png"
+          ],
+          "black_image_path": [
+            "/assets/images/nftFile/mainfolder/special9998/color/black.png",
+            "/assets/images/nftFile/mainfolder/special9998/tshirts/blackone.png",
+            "/assets/images/nftFile/mainfolder/special9998/tshirts/blacktwo.png",
+            "/assets/images/nftFile/mainfolder/special9998/tshirts/blackthree.png",
+            "/assets/images/nftFile/mainfolder/special9998/tshirts/dailybone.png",
+            "/assets/images/nftFile/mainfolder/special9998/tshirts/dailybtwo.png",
+            "/assets/images/nftFile/mainfolder/special9998/tshirts/dailybthree.png"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "name": "#9999",
+    "category": "Special",
+    "main_image_path": "/assets/images/nftFile/mainfolder/special9999/9999.png",
+    "attributes": {
+      "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
+      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
+      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
+      "hero_list": [
+        "Tencel 70%와 면 30% 혼용 원단",
+        "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
+        "단독으로 착용하는 것은 물론이고 이너웨어로도 남녀노소 누구나 멋지게 어우러질 수 있는 다용성",
+        "LAC Nft의 스페셜 작품으로 오로지 소수의 특별한 사람들을 위한 한정판 제품으로 특별함을 추구하는 분들에게 완벽한 선택"
+      ],
+      "list_description": "이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다.",
+      "galery_image_path": [
+        "/assets/images/nftFile/mainfolder/special9999/gallery/9999.png",
+        "/assets/images/nftFile/mainfolder/special9999/gallery/whiteone.png",
+        "/assets/images/nftFile/mainfolder/special9999/gallery/blackone.png",
+        "/assets/images/nftFile/mainfolder/special9999/gallery/whitetwo.png",
+        "/assets/images/nftFile/mainfolder/special9999/gallery/blacktwo.png"
+      ],
+      "buy_link": {
+        "link1": [
+          "https://www.amazon.ae/",
+          "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg"
+        ],
+        "link2": [
+          "https://www.amazon.ae/",
+          "https://seeklogo.com/images/1/11st-logo-E3BCE0DAE6-seeklogo.com.png"
+        ],
+        "link3": [
+          "https://www.amazon.ae/",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gmarket_logo.svg/2560px-Gmarket_logo.svg.png"
+        ],
+        "link4": [
+          "https://www.amazon.ae/",
+          "https://cdn.imweb.me/upload/S202110056023dfc5dde5d/be1d2d7daec88.png"
+        ]
+      },
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "shirt_image": {
+        "color": {
+          "white_image_path": [
+            "/assets/images/nftFile/mainfolder/special9999/color/white.png",
+            "/assets/images/nftFile/mainfolder/special9999/tshirts/whiteone.png",
+            "/assets/images/nftFile/mainfolder/special9999/tshirts/whitetwo.png",
+            "/assets/images/nftFile/mainfolder/special9999/tshirts/whitethree.png",
+            "/assets/images/nftFile/mainfolder/special9999/tshirts/dailywone.png",
+            "/assets/images/nftFile/mainfolder/special9999/tshirts/dailywtwo.png",
+            "/assets/images/nftFile/mainfolder/special9999/tshirts/dailywthree.png"
+          ],
+          "black_image_path": [
+            "/assets/images/nftFile/mainfolder/special9999/color/black.png",
+            "/assets/images/nftFile/mainfolder/special9999/tshirts/blackone.png",
+            "/assets/images/nftFile/mainfolder/special9999/tshirts/blacktwo.png",
+            "/assets/images/nftFile/mainfolder/special9999/tshirts/blackthree.png",
+            "/assets/images/nftFile/mainfolder/special9999/tshirts/dailybone.png",
+            "/assets/images/nftFile/mainfolder/special9999/tshirts/dailybtwo.png",
+            "/assets/images/nftFile/mainfolder/special9999/tshirts/dailybthree.png"
+          ]
+        }
+      }
+    }
+  }
+]

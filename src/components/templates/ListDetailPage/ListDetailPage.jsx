@@ -16,6 +16,8 @@ import LacSlider from "../../organisms/ListDetailSection/LacSlider/LacSlider";
 import Footer from "../../organisms/Footer/Footer";
 
 const ListDetailPage = ({ data }) => {
+  console.log({ data });
+
   const { id } = useParams();
   const item = data.find((item) => item.id === parseInt(id));
 

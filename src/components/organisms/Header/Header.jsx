@@ -12,7 +12,7 @@ import LinkImage from "../../atoms/Link/LinkImage/LinkImage";
 //import LangIcon from "../../../assets/img/lang-icon.png";
 import LanguageSwitcher from "../../molecules/LanguageSwitcher/LanguageSwitcher";
 
-const Header = () => {
+const Header = ({ changeLanguage }) => {
   const location = useLocation();
   const isHomePage = location.pathname === "/";
   return (
@@ -34,7 +34,7 @@ const Header = () => {
       </div>
       <div>
         {/* <ButtonImage className="LanguageButton" src={LangIcon} /> */}
-        <LanguageSwitcher />
+        <LanguageSwitcher changeLanguage={changeLanguage} />
       </div>
     </div>
   );
