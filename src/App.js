@@ -46,7 +46,7 @@ const App = () => {
       <Routes>
         <Route path="/" element={<ListingPage data={translations} />} />
         <Route
-          path="/details/special/:id"
+          path="/details/Special/:id"
           element={<ListDetailPage data={translations} />}
         />
       </Routes>
