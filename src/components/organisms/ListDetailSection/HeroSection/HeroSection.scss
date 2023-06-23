@@ -83,28 +83,40 @@
 
       .SizeWrapper {
         margin-top: u.rem(15);
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        flex-wrap: wrap;
 
-        @media (max-width: u.rem(1024)) {
+        @media (max-width: u.rem(1023)) {
           text-align: center;
+          align-items: center;
         }
-
         p {
           margin-bottom: u.rem(15);
           font-size: u.rem(22);
           font-family: "Gilroy-Regular";
         }
 
-        button {
-          background-color: #6c6c94;
-          border-radius: u.rem(3);
-          font-family: "Gilroy-Light";
-          color: white;
-          height: u.rem(46);
-          width: u.rem(46);
-          border: unset;
-          margin-right: u.rem(10);
-          cursor: pointer;
-          font-size: u.rem(18);
+        .SelectionSize {
+          width: fit-content;
+          position: relative;
+          @include u.breakpoint-max(small) {
+            width: 100%;
+          }
+          button {
+            background-color: #6c6c94;
+            border-radius: u.rem(3);
+            font-family: "Gilroy-Light";
+            color: white;
+            height: u.rem(46);
+            width: u.rem(46);
+            border: unset;
+            margin-right: u.rem(10);
+            cursor: pointer;
+            font-size: u.rem(18);
+          }
         }
       }
 

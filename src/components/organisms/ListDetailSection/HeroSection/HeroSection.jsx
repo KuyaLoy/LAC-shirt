@@ -35,13 +35,16 @@ const HeroSection = ({ data }) => {
 
         <div className="SizeWrapper">
           <P content="SIZE" />
-          {data.attributes.sizes.map((size, index) => (
-            <ButtonTooltipImage
-              content={size}
-              key={index}
-              image={`/assets//images/sizes/${size}.png`}
-            />
-          ))}
+
+          <div class="SelectionSize">
+            {data.attributes.sizes.map((size, index) => (
+              <ButtonTooltipImage
+                content={size}
+                key={index}
+                image={`/assets//images/sizes/${size}.png`}
+              />
+            ))}
+          </div>
         </div>
         <hr />
         <P className="BuyTitle" content="BUY TO LINK" />

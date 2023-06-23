@@ -4,19 +4,30 @@
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  position: relative;
+  //position: relative;
+
+  @include u.breakpoint-max(medium) {
+    position: unset;
+  }
 
   .HoverWrapper {
     position: absolute;
     bottom: u.rem(50);
 
-    height: u.rem(250);
-    width: u.rem(250);
+    //height: u.rem(325);
+    width: u.rem(375);
     z-index: 1;
     border-radius: u.rem(10);
 
     display: none;
     overflow: hidden;
+
+    left: -50px;
+
+    @include u.breakpoint-max(medium) {
+      width: 100%;
+      left: -5px;
+    }
 
     img {
       width: 100%;
