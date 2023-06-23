@@ -2,6 +2,9 @@
 
 .TableChartWrapper {
   text-align: center;
+  @media(min-width: u.rem(1000)) {
+    padding: 0 5%;
+  }
   h2 {
     font-family: "Gilroy-SemiBold";
     color: white;
