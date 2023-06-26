@@ -1,0 +1,84 @@
+@use "../../../styles/utils/" as u;
+
+.SizeTableWrapper {
+  @media (min-width: u.rem(899)) {
+    max-width: 80%;
+    width: 100%;
+  }
+  color: white;
+  margin: 0 auto;
+  margin-top: u.rem(100);
+  @include u.breakpoint-max(medium) {
+    margin-top: u.rem(75);
+  }
+  @include u.breakpoint-max(medium) {
+    margin-top: u.rem(50);
+  }
+  .grid5x6 {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    //border: 1px solid red;
+    &:first-child {
+      border-bottom: 3px solid white;
+      font-family: "Gilroy-Regular";
+      font-size: u.rem(44);
+      @include u.breakpoint-max(medium) {
+        border-bottom: 2px solid white;
+      }
+      @include u.breakpoint-max(small) {
+        border-bottom: 1px solid white;
+      }
+      p {
+        &:first-child {
+          color: white;
+          font-size: u.rem(29);
+        }
+        &:not(:first-child) {
+          color: #e7b153;
+        }
+      }
+    }
+    &:not(:first-child):not(:last-child) {
+      border-bottom: 3px solid #818181;
+      @include u.breakpoint-max(medium) {
+        border-bottom: 2px solid #818181;
+      }
+      @include u.breakpoint-max(small) {
+        border-bottom: 1px solid #818181;
+      }
+    }
+    p {
+      padding: u.rem(20) 0;
+      font-size: u.rem(38);
+      @include u.breakpoint-max(medium) {
+        font-size: u.rem(20) !important;
+        padding: u.rem(10) 0;
+      }
+      @include u.breakpoint-max(small) {
+        font-size: u.rem(16) !important;
+      }
+
+      &:first-child {
+        border-right: 3px solid white;
+        font-family: "Gilroy-Medium";
+        font-size: u.rem(44);
+        @include u.breakpoint-max(medium) {
+          font-size: u.rem(22);
+        }
+        @include u.breakpoint-max(medium) {
+          border-right: 2px solid white;
+        }
+        @include u.breakpoint-max(small) {
+          border-right: 1px solid white;
+        }
+      }
+      &:not(:first-child) {
+        color: #e7b153;
+        font-family: "Gilroy-Light";
+        font-size: u.rem(36);
+      }
+    }
+  }
+}

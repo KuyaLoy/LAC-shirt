@@ -1,0 +1,159 @@
+@use "../../../styles/utils/" as u;
+
+.TableChartWrapper {
+  @media (max-width: 1440px) and (min-width: 1023px) {
+    padding: 0 5%;
+  }
+  text-align: center;
+  color: white;
+  h2 {
+    font-family: "Gilroy-SemiBold";
+    font-size: clamp(
+      u.rem(30),
+      calc(1.25rem + ((1vw - 7.68px) * 2.6042)),
+      u.rem(50)
+    );
+    margin-bottom: u.rem(50);
+  }
+
+  .ChartWrapper {
+    .grid5 {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      grid-column-gap: 0px;
+      grid-row-gap: 0px;
+      border-bottom: #818181 1px solid;
+      &:first-child {
+        border-top: #fff 2px solid;
+      }
+
+      p {
+        font-size: u.rem(26);
+
+        padding: u.rem(10) 0;
+        @include u.breakpoint-max(medium) {
+          font-size: 14px !important;
+          padding: u.rem(10) 0;
+        }
+        @include u.breakpoint-max(small) {
+          font-size: 10px !important;
+        }
+
+        display: flex;
+        align-items: center;
+        font-family: "Gilroy-Light";
+        &:first-child {
+          font-size: u.rem(40);
+          font-family: "Gilroy-Regular";
+          color: #000000;
+          background-color: #d9d9d9;
+          justify-content: center;
+        }
+        &:not(:first-child) {
+          text-align: left;
+          padding-left: u.rem(70);
+          position: relative;
+          @include u.breakpoint-max(medium) {
+            padding-left: u.rem(50);
+          }
+          @include u.breakpoint-max(small) {
+            padding-left: u.rem(25);
+          }
+
+          &.WithBox::before {
+            position: absolute;
+            content: "";
+            height: u.rem(36);
+            width: u.rem(36);
+            border: 2px solid #ffffff;
+            left: u.rem(20);
+            @include u.breakpoint-max(medium) {
+              left: u.rem(10);
+              height: u.rem(20);
+              width: u.rem(20);
+            }
+            @include u.breakpoint-max(small) {
+              height: u.rem(15);
+              width: u.rem(15);
+              left: u.rem(5);
+            }
+          }
+          &.active {
+            &::before {
+              background-color: #ffffff;
+            }
+          }
+        }
+      }
+    }
+    .grid5x2 {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      grid-template-rows: repeat(2, 1fr);
+      grid-column-gap: 0px;
+      grid-row-gap: 0px;
+      //border-bottom: #818181 1px solid;
+      p {
+        font-size: u.rem(26);
+        padding: u.rem(20) 0;
+        border-bottom: #818181 1px solid;
+        font-family: "Gilroy-Light";
+        @include u.breakpoint-max(medium) {
+          font-size: 14px !important;
+          padding: u.rem(5) 0;
+        }
+        @include u.breakpoint-max(small) {
+          font-size: 10px !important;
+        }
+
+        display: flex;
+        align-items: center;
+        &:first-child {
+          font-size: u.rem(40);
+          color: #000000;
+          background-color: #d9d9d9;
+          justify-content: center;
+          font-family: "Gilroy-Regular";
+        }
+        &:not(:first-child) {
+          text-align: left;
+          //padding: u.rem(10) u.rem(20);
+          padding-left: u.rem(70);
+          position: relative;
+          @include u.breakpoint-max(medium) {
+            padding-left: u.rem(50);
+          }
+          @include u.breakpoint-max(small) {
+            padding-left: u.rem(25);
+          }
+          &.WithBox::before {
+            position: absolute;
+            content: "";
+            height: u.rem(36);
+            width: u.rem(36);
+            border: 2px solid #ffffff;
+            left: u.rem(20);
+            @include u.breakpoint-max(medium) {
+              left: u.rem(10);
+              height: u.rem(20);
+              width: u.rem(20);
+            }
+            @include u.breakpoint-max(small) {
+              height: u.rem(15);
+              width: u.rem(15);
+              left: u.rem(5);
+            }
+          }
+          &.active {
+            &::before {
+              background-color: #ffffff;
+            }
+          }
+        }
+      }
+      p.div1 {
+        grid-area: 1 / 1 / 3 / 2;
+      }
+    }
+  }
+}

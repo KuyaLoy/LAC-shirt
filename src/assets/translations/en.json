@@ -1,20 +1,24 @@
 [
   {
     "id": 1,
-    "name": "#0 - english",
+    "name": "#0",
     "category": "Special",
     "main_image_path": "/assets/images/nftFile/mainfolder/special0/0.png",
     "attributes": {
-      "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
-      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
-      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
-      "hero_list": [
-        "Tencel 70%와 면 30% 혼용 원단",
-        "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
-        "단독으로 착용하는 것은 물론이고 이너웨어로도 남녀노소 누구나 멋지게 어우러질 수 있는 다용성",
-        "LAC Nft의 스페셜 작품으로 오로지 소수의 특별한 사람들을 위한 한정판 제품으로 특별함을 추구하는 분들에게 완벽한 선택"
+      "short_description": "Premium Classic Crewneck T-shirt",
+      "long_description": [
+        "Looking for art that really stands out?",
+        "You’re in the right place––there’s a group of primates who’d love to meet you. ",
+        "Introducing the Lady Ape Club (LAC) Special NFTs!",
+        "An elite squad of just 10 among LAC’s 10,000 population, the Lady Ape Club Special NFTs are one girl gang you don’t want to miss!"
       ],
-      "list_description": "이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다.",
+      "hero_list": [
+        "Ultra-limited run Lady Ape Club NFT tee",
+        "Made using high-quality Japanese fabric",
+        "Lightweight blend of 70% Tencel and 30% cotton",
+        "Versatile, unisex design for styling alone or layering."
+      ],
+      "list_description": "Limited edition Lady Ape NFT crewneck tee. Made in Korea from Japanese fabric. Lightweight Tencel and cotton blend for superior comfort and style. ",
       "galery_image_path": [
         "/assets/images/nftFile/mainfolder/special0/gallery/0.png",
         "/assets/images/nftFile/mainfolder/special0/gallery/whiteone.png",
@@ -59,6 +63,61 @@
             "/assets/images/nftFile/mainfolder/special0/tshirts/dailybthree.png"
           ]
         }
+      },
+      "size_chart": {
+        "table_title": ["Total length", "Shoulder width", "Chest", "Waist"]
+      },
+      "look_more": { "title": "Look around more" },
+      "packages": {
+        "title": "What’s in the package?"
+      },
+      "material": {
+        "title": "Material"
+      },
+      "material_information": {
+        "title": "Material information",
+        "item": [
+          "Weight",
+          "Heavy",
+          "Medium",
+          "Light",
+          "",
+          "Shine(White Only)",
+          "High",
+          "Medium",
+          "Low",
+          "",
+          "Stretch",
+          "High",
+          "Medium",
+          "Low",
+          "Banding",
+          "Washing instructions",
+          "Handwash",
+          "Drey clean",
+          "Cold wash",
+          "Wash separately",
+          "",
+          "Do not use bleach",
+          "Do not iron",
+          "Laundry net recomended",
+          "Dryer not available"
+        ]
+      },
+      "product_impormation": {
+        "title": "Product information",
+        "item": [
+          "Made in Korea",
+          "Japanese fabric",
+          "Quality Guarantee",
+          "Compliant with Korean online commerce law",
+          "Country of Origin",
+          "Korea",
+          "Color",
+          "White, black",
+          "Manufacturing date",
+          "Unable to provide"
+        ]
       }
     }
   },
@@ -68,16 +127,20 @@
     "category": "Special",
     "main_image_path": "/assets/images/nftFile/mainfolder/special100/100.png",
     "attributes": {
-      "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
-      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
-      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
-      "hero_list": [
-        "Tencel 70%와 면 30% 혼용 원단",
-        "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
-        "단독으로 착용하는 것은 물론이고 이너웨어로도 남녀노소 누구나 멋지게 어우러질 수 있는 다용성",
-        "LAC Nft의 스페셜 작품으로 오로지 소수의 특별한 사람들을 위한 한정판 제품으로 특별함을 추구하는 분들에게 완벽한 선택"
+      "short_description": "Premium Classic Crewneck T-shirt",
+      "long_description": [
+        "Looking for art that really stands out?",
+        "You’re in the right place––there’s a group of primates who’d love to meet you. ",
+        "Introducing the Lady Ape Club (LAC) Special NFTs!",
+        "An elite squad of just 10 among LAC’s 10,000 population, the Lady Ape Club Special NFTs are one girl gang you don’t want to miss!"
       ],
-      "list_description": "이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다.",
+      "hero_list": [
+        "Ultra-limited run Lady Ape Club NFT tee",
+        "Made using high-quality Japanese fabric",
+        "Lightweight blend of 70% Tencel and 30% cotton",
+        "Versatile, unisex design for styling alone or layering."
+      ],
+      "list_description": "Limited edition Lady Ape NFT crewneck tee. Made in Korea from Japanese fabric. Lightweight Tencel and cotton blend for superior comfort and style. ",
       "galery_image_path": [
         "/assets/images/nftFile/mainfolder/special100/gallery/100.png",
         "/assets/images/nftFile/mainfolder/special100/gallery/whiteone.png",
@@ -122,6 +185,61 @@
             "/assets/images/nftFile/mainfolder/special100/tshirts/dailybthree.png"
           ]
         }
+      },
+      "size_chart": {
+        "table_title": ["Total length", "Shoulder width", "Chest", "Waist"]
+      },
+      "look_more": { "title": "Look around more" },
+      "packages": {
+        "title": "What’s in the package?"
+      },
+      "material": {
+        "title": "Material"
+      },
+      "material_information": {
+        "title": "Material information",
+        "item": [
+          "Weight",
+          "Heavy",
+          "Medium",
+          "Light",
+          "",
+          "Shine(White Only)",
+          "High",
+          "Medium",
+          "Low",
+          "",
+          "Stretch",
+          "High",
+          "Medium",
+          "Low",
+          "Banding",
+          "Washing instructions",
+          "Handwash",
+          "Drey clean",
+          "Cold wash",
+          "Wash separately",
+          "",
+          "Do not use bleach",
+          "Do not iron",
+          "Laundry net recomended",
+          "Dryer not available"
+        ]
+      },
+      "product_impormation": {
+        "title": "Product information",
+        "item": [
+          "Made in Korea",
+          "Japanese fabric",
+          "Quality Guarantee",
+          "Compliant with Korean online commerce law",
+          "Country of Origin",
+          "Korea",
+          "Color",
+          "White, black",
+          "Manufacturing date",
+          "Unable to provide"
+        ]
       }
     }
   },
@@ -131,16 +249,20 @@
     "category": "Special",
     "main_image_path": "/assets/images/nftFile/mainfolder/special200/200.png",
     "attributes": {
-      "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
-      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
-      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
-      "hero_list": [
-        "Tencel 70%와 면 30% 혼용 원단",
-        "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
-        "단독으로 착용하는 것은 물론이고 이너웨어로도 남녀노소 누구나 멋지게 어우러질 수 있는 다용성",
-        "LAC Nft의 스페셜 작품으로 오로지 소수의 특별한 사람들을 위한 한정판 제품으로 특별함을 추구하는 분들에게 완벽한 선택"
+      "short_description": "Premium Classic Crewneck T-shirt",
+      "long_description": [
+        "Looking for art that really stands out?",
+        "You’re in the right place––there’s a group of primates who’d love to meet you. ",
+        "Introducing the Lady Ape Club (LAC) Special NFTs!",
+        "An elite squad of just 10 among LAC’s 10,000 population, the Lady Ape Club Special NFTs are one girl gang you don’t want to miss!"
       ],
-      "list_description": "이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다.",
+      "hero_list": [
+        "Ultra-limited run Lady Ape Club NFT tee",
+        "Made using high-quality Japanese fabric",
+        "Lightweight blend of 70% Tencel and 30% cotton",
+        "Versatile, unisex design for styling alone or layering."
+      ],
+      "list_description": "Limited edition Lady Ape NFT crewneck tee. Made in Korea from Japanese fabric. Lightweight Tencel and cotton blend for superior comfort and style. ",
       "galery_image_path": [
         "/assets/images/nftFile/mainfolder/special200/gallery/200.png",
         "/assets/images/nftFile/mainfolder/special200/gallery/whiteone.png",
@@ -185,6 +307,61 @@
             "/assets/images/nftFile/mainfolder/special200/tshirts/dailybthree.png"
           ]
         }
+      },
+      "size_chart": {
+        "table_title": ["Total length", "Shoulder width", "Chest", "Waist"]
+      },
+      "look_more": { "title": "Look around more" },
+      "packages": {
+        "title": "What’s in the package?"
+      },
+      "material": {
+        "title": "Material"
+      },
+      "material_information": {
+        "title": "Material information",
+        "item": [
+          "Weight",
+          "Heavy",
+          "Medium",
+          "Light",
+          "",
+          "Shine(White Only)",
+          "High",
+          "Medium",
+          "Low",
+          "",
+          "Stretch",
+          "High",
+          "Medium",
+          "Low",
+          "Banding",
+          "Washing instructions",
+          "Handwash",
+          "Drey clean",
+          "Cold wash",
+          "Wash separately",
+          "",
+          "Do not use bleach",
+          "Do not iron",
+          "Laundry net recomended",
+          "Dryer not available"
+        ]
+      },
+      "product_impormation": {
+        "title": "Product information",
+        "item": [
+          "Made in Korea",
+          "Japanese fabric",
+          "Quality Guarantee",
+          "Compliant with Korean online commerce law",
+          "Country of Origin",
+          "Korea",
+          "Color",
+          "White, black",
+          "Manufacturing date",
+          "Unable to provide"
+        ]
       }
     }
   },
@@ -194,16 +371,20 @@
     "category": "Special",
     "main_image_path": "/assets/images/nftFile/mainfolder/special300/300.png",
     "attributes": {
-      "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
-      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
-      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
-      "hero_list": [
-        "Tencel 70%와 면 30% 혼용 원단",
-        "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
-        "단독으로 착용하는 것은 물론이고 이너웨어로도 남녀노소 누구나 멋지게 어우러질 수 있는 다용성",
-        "LAC Nft의 스페셜 작품으로 오로지 소수의 특별한 사람들을 위한 한정판 제품으로 특별함을 추구하는 분들에게 완벽한 선택"
+      "short_description": "Premium Classic Crewneck T-shirt",
+      "long_description": [
+        "Looking for art that really stands out?",
+        "You’re in the right place––there’s a group of primates who’d love to meet you. ",
+        "Introducing the Lady Ape Club (LAC) Special NFTs!",
+        "An elite squad of just 10 among LAC’s 10,000 population, the Lady Ape Club Special NFTs are one girl gang you don’t want to miss!"
       ],
-      "list_description": "이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다.",
+      "hero_list": [
+        "Ultra-limited run Lady Ape Club NFT tee",
+        "Made using high-quality Japanese fabric",
+        "Lightweight blend of 70% Tencel and 30% cotton",
+        "Versatile, unisex design for styling alone or layering."
+      ],
+      "list_description": "Limited edition Lady Ape NFT crewneck tee. Made in Korea from Japanese fabric. Lightweight Tencel and cotton blend for superior comfort and style. ",
       "galery_image_path": [
         "/assets/images/nftFile/mainfolder/special300/gallery/300.png",
         "/assets/images/nftFile/mainfolder/special300/gallery/whiteone.png",
@@ -248,6 +429,61 @@
             "/assets/images/nftFile/mainfolder/special300/tshirts/dailybthree.png"
           ]
         }
+      },
+      "size_chart": {
+        "table_title": ["Total length", "Shoulder width", "Chest", "Waist"]
+      },
+      "look_more": { "title": "Look around more" },
+      "packages": {
+        "title": "What’s in the package?"
+      },
+      "material": {
+        "title": "Material"
+      },
+      "material_information": {
+        "title": "Material information",
+        "item": [
+          "Weight",
+          "Heavy",
+          "Medium",
+          "Light",
+          "",
+          "Shine(White Only)",
+          "High",
+          "Medium",
+          "Low",
+          "",
+          "Stretch",
+          "High",
+          "Medium",
+          "Low",
+          "Banding",
+          "Washing instructions",
+          "Handwash",
+          "Drey clean",
+          "Cold wash",
+          "Wash separately",
+          "",
+          "Do not use bleach",
+          "Do not iron",
+          "Laundry net recomended",
+          "Dryer not available"
+        ]
+      },
+      "product_impormation": {
+        "title": "Product information",
+        "item": [
+          "Made in Korea",
+          "Japanese fabric",
+          "Quality Guarantee",
+          "Compliant with Korean online commerce law",
+          "Country of Origin",
+          "Korea",
+          "Color",
+          "White, black",
+          "Manufacturing date",
+          "Unable to provide"
+        ]
       }
     }
   },
@@ -257,16 +493,20 @@
     "category": "Special",
     "main_image_path": "/assets/images/nftFile/mainfolder/special9994/9994.png",
     "attributes": {
-      "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
-      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
-      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
-      "hero_list": [
-        "Tencel 70%와 면 30% 혼용 원단",
-        "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
-        "단독으로 착용하는 것은 물론이고 이너웨어로도 남녀노소 누구나 멋지게 어우러질 수 있는 다용성",
-        "LAC Nft의 스페셜 작품으로 오로지 소수의 특별한 사람들을 위한 한정판 제품으로 특별함을 추구하는 분들에게 완벽한 선택"
+      "short_description": "Premium Classic Crewneck T-shirt",
+      "long_description": [
+        "Looking for art that really stands out?",
+        "You’re in the right place––there’s a group of primates who’d love to meet you. ",
+        "Introducing the Lady Ape Club (LAC) Special NFTs!",
+        "An elite squad of just 10 among LAC’s 10,000 population, the Lady Ape Club Special NFTs are one girl gang you don’t want to miss!"
       ],
-      "list_description": "이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다.",
+      "hero_list": [
+        "Ultra-limited run Lady Ape Club NFT tee",
+        "Made using high-quality Japanese fabric",
+        "Lightweight blend of 70% Tencel and 30% cotton",
+        "Versatile, unisex design for styling alone or layering."
+      ],
+      "list_description": "Limited edition Lady Ape NFT crewneck tee. Made in Korea from Japanese fabric. Lightweight Tencel and cotton blend for superior comfort and style. ",
       "galery_image_path": [
         "/assets/images/nftFile/mainfolder/special9994/gallery/9994.png",
         "/assets/images/nftFile/mainfolder/special9994/gallery/whiteone.png",
@@ -311,6 +551,61 @@
             "/assets/images/nftFile/mainfolder/special9994/tshirts/dailybthree.png"
           ]
         }
+      },
+      "size_chart": {
+        "table_title": ["Total length", "Shoulder width", "Chest", "Waist"]
+      },
+      "look_more": { "title": "Look around more" },
+      "packages": {
+        "title": "What’s in the package?"
+      },
+      "material": {
+        "title": "Material"
+      },
+      "material_information": {
+        "title": "Material information",
+        "item": [
+          "Weight",
+          "Heavy",
+          "Medium",
+          "Light",
+          "",
+          "Shine(White Only)",
+          "High",
+          "Medium",
+          "Low",
+          "",
+          "Stretch",
+          "High",
+          "Medium",
+          "Low",
+          "Banding",
+          "Washing instructions",
+          "Handwash",
+          "Drey clean",
+          "Cold wash",
+          "Wash separately",
+          "",
+          "Do not use bleach",
+          "Do not iron",
+          "Laundry net recomended",
+          "Dryer not available"
+        ]
+      },
+      "product_impormation": {
+        "title": "Product information",
+        "item": [
+          "Made in Korea",
+          "Japanese fabric",
+          "Quality Guarantee",
+          "Compliant with Korean online commerce law",
+          "Country of Origin",
+          "Korea",
+          "Color",
+          "White, black",
+          "Manufacturing date",
+          "Unable to provide"
+        ]
       }
     }
   },
@@ -320,16 +615,20 @@
     "category": "Special",
     "main_image_path": "/assets/images/nftFile/mainfolder/special9995/9995.png",
     "attributes": {
-      "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
-      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
-      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
-      "hero_list": [
-        "Tencel 70%와 면 30% 혼용 원단",
-        "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
-        "단독으로 착용하는 것은 물론이고 이너웨어로도 남녀노소 누구나 멋지게 어우러질 수 있는 다용성",
-        "LAC Nft의 스페셜 작품으로 오로지 소수의 특별한 사람들을 위한 한정판 제품으로 특별함을 추구하는 분들에게 완벽한 선택"
+      "short_description": "Premium Classic Crewneck T-shirt",
+      "long_description": [
+        "Looking for art that really stands out?",
+        "You’re in the right place––there’s a group of primates who’d love to meet you. ",
+        "Introducing the Lady Ape Club (LAC) Special NFTs!",
+        "An elite squad of just 10 among LAC’s 10,000 population, the Lady Ape Club Special NFTs are one girl gang you don’t want to miss!"
       ],
-      "list_description": "이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다.",
+      "hero_list": [
+        "Ultra-limited run Lady Ape Club NFT tee",
+        "Made using high-quality Japanese fabric",
+        "Lightweight blend of 70% Tencel and 30% cotton",
+        "Versatile, unisex design for styling alone or layering."
+      ],
+      "list_description": "Limited edition Lady Ape NFT crewneck tee. Made in Korea from Japanese fabric. Lightweight Tencel and cotton blend for superior comfort and style. ",
       "galery_image_path": [
         "/assets/images/nftFile/mainfolder/special9995/gallery/9995.png",
         "/assets/images/nftFile/mainfolder/special9995/gallery/whiteone.png",
@@ -374,6 +673,61 @@
             "/assets/images/nftFile/mainfolder/special9995/tshirts/dailybthree.png"
           ]
         }
+      },
+      "size_chart": {
+        "table_title": ["Total length", "Shoulder width", "Chest", "Waist"]
+      },
+      "look_more": { "title": "Look around more" },
+      "packages": {
+        "title": "What’s in the package?"
+      },
+      "material": {
+        "title": "Material"
+      },
+      "material_information": {
+        "title": "Material information",
+        "item": [
+          "Weight",
+          "Heavy",
+          "Medium",
+          "Light",
+          "",
+          "Shine(White Only)",
+          "High",
+          "Medium",
+          "Low",
+          "",
+          "Stretch",
+          "High",
+          "Medium",
+          "Low",
+          "Banding",
+          "Washing instructions",
+          "Handwash",
+          "Drey clean",
+          "Cold wash",
+          "Wash separately",
+          "",
+          "Do not use bleach",
+          "Do not iron",
+          "Laundry net recomended",
+          "Dryer not available"
+        ]
+      },
+      "product_impormation": {
+        "title": "Product information",
+        "item": [
+          "Made in Korea",
+          "Japanese fabric",
+          "Quality Guarantee",
+          "Compliant with Korean online commerce law",
+          "Country of Origin",
+          "Korea",
+          "Color",
+          "White, black",
+          "Manufacturing date",
+          "Unable to provide"
+        ]
       }
     }
   },
@@ -383,16 +737,20 @@
     "category": "Special",
     "main_image_path": "/assets/images/nftFile/mainfolder/special9996/9996.png",
     "attributes": {
-      "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
-      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
-      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
-      "hero_list": [
-        "Tencel 70%와 면 30% 혼용 원단",
-        "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
-        "단독으로 착용하는 것은 물론이고 이너웨어로도 남녀노소 누구나 멋지게 어우러질 수 있는 다용성",
-        "LAC Nft의 스페셜 작품으로 오로지 소수의 특별한 사람들을 위한 한정판 제품으로 특별함을 추구하는 분들에게 완벽한 선택"
+      "short_description": "Premium Classic Crewneck T-shirt",
+      "long_description": [
+        "Looking for art that really stands out?",
+        "You’re in the right place––there’s a group of primates who’d love to meet you. ",
+        "Introducing the Lady Ape Club (LAC) Special NFTs!",
+        "An elite squad of just 10 among LAC’s 10,000 population, the Lady Ape Club Special NFTs are one girl gang you don’t want to miss!"
       ],
-      "list_description": "이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다.",
+      "hero_list": [
+        "Ultra-limited run Lady Ape Club NFT tee",
+        "Made using high-quality Japanese fabric",
+        "Lightweight blend of 70% Tencel and 30% cotton",
+        "Versatile, unisex design for styling alone or layering."
+      ],
+      "list_description": "Limited edition Lady Ape NFT crewneck tee. Made in Korea from Japanese fabric. Lightweight Tencel and cotton blend for superior comfort and style. ",
       "galery_image_path": [
         "/assets/images/nftFile/mainfolder/special9996/gallery/9996.png",
         "/assets/images/nftFile/mainfolder/special9996/gallery/whiteone.png",
@@ -437,6 +795,61 @@
             "/assets/images/nftFile/mainfolder/special9996/tshirts/dailybthree.png"
           ]
         }
+      },
+      "size_chart": {
+        "table_title": ["Total length", "Shoulder width", "Chest", "Waist"]
+      },
+      "look_more": { "title": "Look around more" },
+      "packages": {
+        "title": "What’s in the package?"
+      },
+      "material": {
+        "title": "Material"
+      },
+      "material_information": {
+        "title": "Material information",
+        "item": [
+          "Weight",
+          "Heavy",
+          "Medium",
+          "Light",
+          "",
+          "Shine(White Only)",
+          "High",
+          "Medium",
+          "Low",
+          "",
+          "Stretch",
+          "High",
+          "Medium",
+          "Low",
+          "Banding",
+          "Washing instructions",
+          "Handwash",
+          "Drey clean",
+          "Cold wash",
+          "Wash separately",
+          "",
+          "Do not use bleach",
+          "Do not iron",
+          "Laundry net recomended",
+          "Dryer not available"
+        ]
+      },
+      "product_impormation": {
+        "title": "Product information",
+        "item": [
+          "Made in Korea",
+          "Japanese fabric",
+          "Quality Guarantee",
+          "Compliant with Korean online commerce law",
+          "Country of Origin",
+          "Korea",
+          "Color",
+          "White, black",
+          "Manufacturing date",
+          "Unable to provide"
+        ]
       }
     }
   },
@@ -446,16 +859,20 @@
     "category": "Special",
     "main_image_path": "/assets/images/nftFile/mainfolder/special9997/9997.png",
     "attributes": {
-      "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
-      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
-      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
-      "hero_list": [
-        "Tencel 70%와 면 30% 혼용 원단",
-        "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
-        "단독으로 착용하는 것은 물론이고 이너웨어로도 남녀노소 누구나 멋지게 어우러질 수 있는 다용성",
-        "LAC Nft의 스페셜 작품으로 오로지 소수의 특별한 사람들을 위한 한정판 제품으로 특별함을 추구하는 분들에게 완벽한 선택"
+      "short_description": "Premium Classic Crewneck T-shirt",
+      "long_description": [
+        "Looking for art that really stands out?",
+        "You’re in the right place––there’s a group of primates who’d love to meet you. ",
+        "Introducing the Lady Ape Club (LAC) Special NFTs!",
+        "An elite squad of just 10 among LAC’s 10,000 population, the Lady Ape Club Special NFTs are one girl gang you don’t want to miss!"
       ],
-      "list_description": "이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다.",
+      "hero_list": [
+        "Ultra-limited run Lady Ape Club NFT tee",
+        "Made using high-quality Japanese fabric",
+        "Lightweight blend of 70% Tencel and 30% cotton",
+        "Versatile, unisex design for styling alone or layering."
+      ],
+      "list_description": "Limited edition Lady Ape NFT crewneck tee. Made in Korea from Japanese fabric. Lightweight Tencel and cotton blend for superior comfort and style. ",
       "galery_image_path": [
         "/assets/images/nftFile/mainfolder/special9997/gallery/9997.png",
         "/assets/images/nftFile/mainfolder/special9997/gallery/whiteone.png",
@@ -500,6 +917,61 @@
             "/assets/images/nftFile/mainfolder/special9997/tshirts/dailybthree.png"
           ]
         }
+      },
+      "size_chart": {
+        "table_title": ["Total length", "Shoulder width", "Chest", "Waist"]
+      },
+      "look_more": { "title": "Look around more" },
+      "packages": {
+        "title": "What’s in the package?"
+      },
+      "material": {
+        "title": "Material"
+      },
+      "material_information": {
+        "title": "Material information",
+        "item": [
+          "Weight",
+          "Heavy",
+          "Medium",
+          "Light",
+          "",
+          "Shine(White Only)",
+          "High",
+          "Medium",
+          "Low",
+          "",
+          "Stretch",
+          "High",
+          "Medium",
+          "Low",
+          "Banding",
+          "Washing instructions",
+          "Handwash",
+          "Drey clean",
+          "Cold wash",
+          "Wash separately",
+          "",
+          "Do not use bleach",
+          "Do not iron",
+          "Laundry net recomended",
+          "Dryer not available"
+        ]
+      },
+      "product_impormation": {
+        "title": "Product information",
+        "item": [
+          "Made in Korea",
+          "Japanese fabric",
+          "Quality Guarantee",
+          "Compliant with Korean online commerce law",
+          "Country of Origin",
+          "Korea",
+          "Color",
+          "White, black",
+          "Manufacturing date",
+          "Unable to provide"
+        ]
       }
     }
   },
@@ -509,16 +981,20 @@
     "category": "Special",
     "main_image_path": "/assets/images/nftFile/mainfolder/special9998/9998.png",
     "attributes": {
-      "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
-      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
-      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
-      "hero_list": [
-        "Tencel 70%와 면 30% 혼용 원단",
-        "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
-        "단독으로 착용하는 것은 물론이고 이너웨어로도 남녀노소 누구나 멋지게 어우러질 수 있는 다용성",
-        "LAC Nft의 스페셜 작품으로 오로지 소수의 특별한 사람들을 위한 한정판 제품으로 특별함을 추구하는 분들에게 완벽한 선택"
+      "short_description": "Premium Classic Crewneck T-shirt",
+      "long_description": [
+        "Looking for art that really stands out?",
+        "You’re in the right place––there’s a group of primates who’d love to meet you. ",
+        "Introducing the Lady Ape Club (LAC) Special NFTs!",
+        "An elite squad of just 10 among LAC’s 10,000 population, the Lady Ape Club Special NFTs are one girl gang you don’t want to miss!"
       ],
-      "list_description": "이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다.",
+      "hero_list": [
+        "Ultra-limited run Lady Ape Club NFT tee",
+        "Made using high-quality Japanese fabric",
+        "Lightweight blend of 70% Tencel and 30% cotton",
+        "Versatile, unisex design for styling alone or layering."
+      ],
+      "list_description": "Limited edition Lady Ape NFT crewneck tee. Made in Korea from Japanese fabric. Lightweight Tencel and cotton blend for superior comfort and style. ",
       "galery_image_path": [
         "/assets/images/nftFile/mainfolder/special9998/gallery/9998.png",
         "/assets/images/nftFile/mainfolder/special9998/gallery/whiteone.png",
@@ -563,6 +1039,61 @@
             "/assets/images/nftFile/mainfolder/special9998/tshirts/dailybthree.png"
           ]
         }
+      },
+      "size_chart": {
+        "table_title": ["Total length", "Shoulder width", "Chest", "Waist"]
+      },
+      "look_more": { "title": "Look around more" },
+      "packages": {
+        "title": "What’s in the package?"
+      },
+      "material": {
+        "title": "Material"
+      },
+      "material_information": {
+        "title": "Material information",
+        "item": [
+          "Weight",
+          "Heavy",
+          "Medium",
+          "Light",
+          "",
+          "Shine(White Only)",
+          "High",
+          "Medium",
+          "Low",
+          "",
+          "Stretch",
+          "High",
+          "Medium",
+          "Low",
+          "Banding",
+          "Washing instructions",
+          "Handwash",
+          "Drey clean",
+          "Cold wash",
+          "Wash separately",
+          "",
+          "Do not use bleach",
+          "Do not iron",
+          "Laundry net recomended",
+          "Dryer not available"
+        ]
+      },
+      "product_impormation": {
+        "title": "Product information",
+        "item": [
+          "Made in Korea",
+          "Japanese fabric",
+          "Quality Guarantee",
+          "Compliant with Korean online commerce law",
+          "Country of Origin",
+          "Korea",
+          "Color",
+          "White, black",
+          "Manufacturing date",
+          "Unable to provide"
+        ]
       }
     }
   },
@@ -572,16 +1103,20 @@
     "category": "Special",
     "main_image_path": "/assets/images/nftFile/mainfolder/special9999/9999.png",
     "attributes": {
-      "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
-      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
-      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
-      "hero_list": [
-        "Tencel 70%와 면 30% 혼용 원단",
-        "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
-        "단독으로 착용하는 것은 물론이고 이너웨어로도 남녀노소 누구나 멋지게 어우러질 수 있는 다용성",
-        "LAC Nft의 스페셜 작품으로 오로지 소수의 특별한 사람들을 위한 한정판 제품으로 특별함을 추구하는 분들에게 완벽한 선택"
+      "short_description": "Premium Classic Crewneck T-shirt",
+      "long_description": [
+        "Looking for art that really stands out?",
+        "You’re in the right place––there’s a group of primates who’d love to meet you. ",
+        "Introducing the Lady Ape Club (LAC) Special NFTs!",
+        "An elite squad of just 10 among LAC’s 10,000 population, the Lady Ape Club Special NFTs are one girl gang you don’t want to miss!"
       ],
-      "list_description": "이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다.",
+      "hero_list": [
+        "Ultra-limited run Lady Ape Club NFT tee",
+        "Made using high-quality Japanese fabric",
+        "Lightweight blend of 70% Tencel and 30% cotton",
+        "Versatile, unisex design for styling alone or layering."
+      ],
+      "list_description": "Limited edition Lady Ape NFT crewneck tee. Made in Korea from Japanese fabric. Lightweight Tencel and cotton blend for superior comfort and style. ",
       "galery_image_path": [
         "/assets/images/nftFile/mainfolder/special9999/gallery/9999.png",
         "/assets/images/nftFile/mainfolder/special9999/gallery/whiteone.png",
@@ -626,6 +1161,61 @@
             "/assets/images/nftFile/mainfolder/special9999/tshirts/dailybthree.png"
           ]
         }
+      },
+      "size_chart": {
+        "table_title": ["Total length", "Shoulder width", "Chest", "Waist"]
+      },
+      "look_more": { "title": "Look around more" },
+      "packages": {
+        "title": "What’s in the package?"
+      },
+      "material": {
+        "title": "Material"
+      },
+      "material_information": {
+        "title": "Material information",
+        "item": [
+          "Weight",
+          "Heavy",
+          "Medium",
+          "Light",
+          "",
+          "Shine(White Only)",
+          "High",
+          "Medium",
+          "Low",
+          "",
+          "Stretch",
+          "High",
+          "Medium",
+          "Low",
+          "Banding",
+          "Washing instructions",
+          "Handwash",
+          "Drey clean",
+          "Cold wash",
+          "Wash separately",
+          "",
+          "Do not use bleach",
+          "Do not iron",
+          "Laundry net recomended",
+          "Dryer not available"
+        ]
+      },
+      "product_impormation": {
+        "title": "제품 상세 정보",
+        "item": [
+          "Made in Korea",
+          "Japanese fabric",
+          "Quality Guarantee",
+          "Compliant with Korean online commerce law",
+          "Country of Origin",
+          "Korea",
+          "Color",
+          "White, black",
+          "Manufacturing date",
+          "Unable to provide"
+        ]
       }
     }
   }

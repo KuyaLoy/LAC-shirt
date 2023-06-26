@@ -6,8 +6,10 @@
     "main_image_path": "/assets/images/nftFile/mainfolder/special0/0.png",
     "attributes": {
       "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
-      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
-      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
+      "long_description": [
+        "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
+        " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!"
+      ],
       "hero_list": [
         "Tencel 70%와 면 30% 혼용 원단",
         "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
@@ -22,12 +24,21 @@
         "/assets/images/nftFile/mainfolder/special0/gallery/whitetwo.png",
         "/assets/images/nftFile/mainfolder/special0/gallery/blacktwo.png"
       ],
-      "buy_link": [
-        "https://amazon.com",
-        "https://amazon.com",
-        "https://amazon.com",
-        "https://amazon.com"
-      ],
+      "buy_link": {
+        "link1": ["https://www.amazon.ae/", "/assets/images/shops/amazon.png"],
+        "link2": [
+          "https://global.11st.co.kr/html/en/main_en.html",
+          "/assets/images/shops/11st.png"
+        ],
+        "link3": [
+          "http://global.gmarket.co.kr/Home/Main",
+          "/assets/images/shops/gmarket.png"
+        ],
+        "link4": [
+          "https://shopping.naver.com/home",
+          "/assets/images/shops/naver.png"
+        ]
+      },
       "sizes": ["XS", "S", "M", "L", "XL"],
       "shirt_image": {
         "color": {
@@ -50,6 +61,61 @@
             "/assets/images/nftFile/mainfolder/special0/tshirts/dailybthree.png"
           ]
         }
+      },
+      "size_chart": {
+        "table_title": ["총길이", "총길이", "총길이", "허리둘레"]
+      },
+      "look_more": { "title": "더 둘러보기" },
+      "packages": {
+        "title": "패키지 구성"
+      },
+      "material": {
+        "title": "재원"
+      },
+      "material_information": {
+        "title": "패브릭 정보",
+        "item": [
+          "두께감",
+          "두꺼움",
+          "중간",
+          "얇음",
+          "",
+          "비침 (화이트)",
+          "높음",
+          "중간",
+          "없음",
+          "",
+          "신축성",
+          "높음",
+          "중간",
+          "없음",
+          "밴딩",
+          "세탁방법",
+          "손세탁",
+          "드라이(클리닝)",
+          "찬물세탁",
+          "단독세탁",
+          "",
+          "건조기 사용불가",
+          "다림질 금지",
+          "세탁망 사용",
+          "건조기 사용불가"
+        ]
+      },
+      "product_impormation": {
+        "title": "asd",
+        "item": [
+          "원자제",
+          "일본",
+          "품질 보증기간",
+          "전자상거래법 준수",
+          "원산지",
+          "한국",
+          "색상",
+          "화이트, 블랙",
+          "제조일자",
+          "제공 불가"
+        ]
       }
     }
   },
@@ -60,8 +126,10 @@
     "main_image_path": "/assets/images/nftFile/mainfolder/special100/100.png",
     "attributes": {
       "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
-      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
-      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
+      "long_description": [
+        "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
+        " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!"
+      ],
       "hero_list": [
         "Tencel 70%와 면 30% 혼용 원단",
         "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
@@ -76,12 +144,21 @@
         "/assets/images/nftFile/mainfolder/special100/gallery/whitetwo.png",
         "/assets/images/nftFile/mainfolder/special100/gallery/blacktwo.png"
       ],
-      "buy_link": [
-        "https://amazon.com",
-        "https://amazon.com",
-        "https://amazon.com",
-        "https://amazon.com"
-      ],
+      "buy_link": {
+        "link1": ["https://www.amazon.ae/", "/assets/images/shops/amazon.png"],
+        "link2": [
+          "https://global.11st.co.kr/html/en/main_en.html",
+          "/assets/images/shops/11st.png"
+        ],
+        "link3": [
+          "http://global.gmarket.co.kr/Home/Main",
+          "/assets/images/shops/gmarket.png"
+        ],
+        "link4": [
+          "https://shopping.naver.com/home",
+          "/assets/images/shops/naver.png"
+        ]
+      },
       "sizes": ["XS", "S", "M", "L", "XL"],
       "shirt_image": {
         "color": {
@@ -104,6 +181,61 @@
             "/assets/images/nftFile/mainfolder/special100/tshirts/dailybthree.png"
           ]
         }
+      },
+      "size_chart": {
+        "table_title": ["총길이", "총길이", "총길이", "허리둘레"]
+      },
+      "look_more": { "title": "더 둘러보기" },
+      "packages": {
+        "title": "패키지 구성"
+      },
+      "material": {
+        "title": "재원"
+      },
+      "material_information": {
+        "title": "패브릭 정보",
+        "item": [
+          "두께감",
+          "두꺼움",
+          "중간",
+          "얇음",
+          "",
+          "비침 (화이트)",
+          "높음",
+          "중간",
+          "없음",
+          "",
+          "신축성",
+          "높음",
+          "중간",
+          "없음",
+          "밴딩",
+          "세탁방법",
+          "손세탁",
+          "드라이(클리닝)",
+          "찬물세탁",
+          "단독세탁",
+          "",
+          "건조기 사용불가",
+          "다림질 금지",
+          "세탁망 사용",
+          "건조기 사용불가"
+        ]
+      },
+      "product_impormation": {
+        "title": "asd",
+        "item": [
+          "원자제",
+          "일본",
+          "품질 보증기간",
+          "전자상거래법 준수",
+          "원산지",
+          "한국",
+          "색상",
+          "화이트, 블랙",
+          "제조일자",
+          "제공 불가"
+        ]
       }
     }
   },
@@ -114,8 +246,10 @@
     "main_image_path": "/assets/images/nftFile/mainfolder/special200/200.png",
     "attributes": {
       "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
-      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
-      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
+      "long_description": [
+        "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
+        " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!"
+      ],
       "hero_list": [
         "Tencel 70%와 면 30% 혼용 원단",
         "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
@@ -130,12 +264,21 @@
         "/assets/images/nftFile/mainfolder/special200/gallery/whitetwo.png",
         "/assets/images/nftFile/mainfolder/special200/gallery/blacktwo.png"
       ],
-      "buy_link": [
-        "https://amazon.com",
-        "https://amazon.com",
-        "https://amazon.com",
-        "https://amazon.com"
-      ],
+      "buy_link": {
+        "link1": ["https://www.amazon.ae/", "/assets/images/shops/amazon.png"],
+        "link2": [
+          "https://global.11st.co.kr/html/en/main_en.html",
+          "/assets/images/shops/11st.png"
+        ],
+        "link3": [
+          "http://global.gmarket.co.kr/Home/Main",
+          "/assets/images/shops/gmarket.png"
+        ],
+        "link4": [
+          "https://shopping.naver.com/home",
+          "/assets/images/shops/naver.png"
+        ]
+      },
       "sizes": ["XS", "S", "M", "L", "XL"],
       "shirt_image": {
         "color": {
@@ -158,6 +301,61 @@
             "/assets/images/nftFile/mainfolder/special200/tshirts/dailybthree.png"
           ]
         }
+      },
+      "size_chart": {
+        "table_title": ["총길이", "총길이", "총길이", "허리둘레"]
+      },
+      "look_more": { "title": "더 둘러보기" },
+      "packages": {
+        "title": "패키지 구성"
+      },
+      "material": {
+        "title": "재원"
+      },
+      "material_information": {
+        "title": "패브릭 정보",
+        "item": [
+          "두께감",
+          "두꺼움",
+          "중간",
+          "얇음",
+          "",
+          "비침 (화이트)",
+          "높음",
+          "중간",
+          "없음",
+          "",
+          "신축성",
+          "높음",
+          "중간",
+          "없음",
+          "밴딩",
+          "세탁방법",
+          "손세탁",
+          "드라이(클리닝)",
+          "찬물세탁",
+          "단독세탁",
+          "",
+          "건조기 사용불가",
+          "다림질 금지",
+          "세탁망 사용",
+          "건조기 사용불가"
+        ]
+      },
+      "product_impormation": {
+        "title": "asd",
+        "item": [
+          "원자제",
+          "일본",
+          "품질 보증기간",
+          "전자상거래법 준수",
+          "원산지",
+          "한국",
+          "색상",
+          "화이트, 블랙",
+          "제조일자",
+          "제공 불가"
+        ]
       }
     }
   },
@@ -168,8 +366,10 @@
     "main_image_path": "/assets/images/nftFile/mainfolder/special300/300.png",
     "attributes": {
       "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
-      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
-      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
+      "long_description": [
+        "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
+        " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!"
+      ],
       "hero_list": [
         "Tencel 70%와 면 30% 혼용 원단",
         "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
@@ -184,12 +384,21 @@
         "/assets/images/nftFile/mainfolder/special300/gallery/whitetwo.png",
         "/assets/images/nftFile/mainfolder/special300/gallery/blacktwo.png"
       ],
-      "buy_link": [
-        "https://amazon.com",
-        "https://amazon.com",
-        "https://amazon.com",
-        "https://amazon.com"
-      ],
+      "buy_link": {
+        "link1": ["https://www.amazon.ae/", "/assets/images/shops/amazon.png"],
+        "link2": [
+          "https://global.11st.co.kr/html/en/main_en.html",
+          "/assets/images/shops/11st.png"
+        ],
+        "link3": [
+          "http://global.gmarket.co.kr/Home/Main",
+          "/assets/images/shops/gmarket.png"
+        ],
+        "link4": [
+          "https://shopping.naver.com/home",
+          "/assets/images/shops/naver.png"
+        ]
+      },
       "sizes": ["XS", "S", "M", "L", "XL"],
       "shirt_image": {
         "color": {
@@ -212,6 +421,61 @@
             "/assets/images/nftFile/mainfolder/special300/tshirts/dailybthree.png"
           ]
         }
+      },
+      "size_chart": {
+        "table_title": ["총길이", "총길이", "총길이", "허리둘레"]
+      },
+      "look_more": { "title": "더 둘러보기" },
+      "packages": {
+        "title": "패키지 구성"
+      },
+      "material": {
+        "title": "재원"
+      },
+      "material_information": {
+        "title": "패브릭 정보",
+        "item": [
+          "두께감",
+          "두꺼움",
+          "중간",
+          "얇음",
+          "",
+          "비침 (화이트)",
+          "높음",
+          "중간",
+          "없음",
+          "",
+          "신축성",
+          "높음",
+          "중간",
+          "없음",
+          "밴딩",
+          "세탁방법",
+          "손세탁",
+          "드라이(클리닝)",
+          "찬물세탁",
+          "단독세탁",
+          "",
+          "건조기 사용불가",
+          "다림질 금지",
+          "세탁망 사용",
+          "건조기 사용불가"
+        ]
+      },
+      "product_impormation": {
+        "title": "asd",
+        "item": [
+          "원자제",
+          "일본",
+          "품질 보증기간",
+          "전자상거래법 준수",
+          "원산지",
+          "한국",
+          "색상",
+          "화이트, 블랙",
+          "제조일자",
+          "제공 불가"
+        ]
       }
     }
   },
@@ -222,8 +486,10 @@
     "main_image_path": "/assets/images/nftFile/mainfolder/special9994/9994.png",
     "attributes": {
       "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
-      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
-      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
+      "long_description": [
+        "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
+        " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!"
+      ],
       "hero_list": [
         "Tencel 70%와 면 30% 혼용 원단",
         "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
@@ -238,12 +504,21 @@
         "/assets/images/nftFile/mainfolder/special9994/gallery/whitetwo.png",
         "/assets/images/nftFile/mainfolder/special9994/gallery/blacktwo.png"
       ],
-      "buy_link": [
-        "https://amazon.com",
-        "https://amazon.com",
-        "https://amazon.com",
-        "https://amazon.com"
-      ],
+      "buy_link": {
+        "link1": ["https://www.amazon.ae/", "/assets/images/shops/amazon.png"],
+        "link2": [
+          "https://global.11st.co.kr/html/en/main_en.html",
+          "/assets/images/shops/11st.png"
+        ],
+        "link3": [
+          "http://global.gmarket.co.kr/Home/Main",
+          "/assets/images/shops/gmarket.png"
+        ],
+        "link4": [
+          "https://shopping.naver.com/home",
+          "/assets/images/shops/naver.png"
+        ]
+      },
       "sizes": ["XS", "S", "M", "L", "XL"],
       "shirt_image": {
         "color": {
@@ -266,6 +541,61 @@
             "/assets/images/nftFile/mainfolder/special9994/tshirts/dailybthree.png"
           ]
         }
+      },
+      "size_chart": {
+        "table_title": ["총길이", "총길이", "총길이", "허리둘레"]
+      },
+      "look_more": { "title": "더 둘러보기" },
+      "packages": {
+        "title": "패키지 구성"
+      },
+      "material": {
+        "title": "재원"
+      },
+      "material_information": {
+        "title": "패브릭 정보",
+        "item": [
+          "두께감",
+          "두꺼움",
+          "중간",
+          "얇음",
+          "",
+          "비침 (화이트)",
+          "높음",
+          "중간",
+          "없음",
+          "",
+          "신축성",
+          "높음",
+          "중간",
+          "없음",
+          "밴딩",
+          "세탁방법",
+          "손세탁",
+          "드라이(클리닝)",
+          "찬물세탁",
+          "단독세탁",
+          "",
+          "건조기 사용불가",
+          "다림질 금지",
+          "세탁망 사용",
+          "건조기 사용불가"
+        ]
+      },
+      "product_impormation": {
+        "title": "asd",
+        "item": [
+          "원자제",
+          "일본",
+          "품질 보증기간",
+          "전자상거래법 준수",
+          "원산지",
+          "한국",
+          "색상",
+          "화이트, 블랙",
+          "제조일자",
+          "제공 불가"
+        ]
       }
     }
   },
@@ -276,8 +606,10 @@
     "main_image_path": "/assets/images/nftFile/mainfolder/special9995/9995.png",
     "attributes": {
       "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
-      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
-      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
+      "long_description": [
+        "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
+        " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!"
+      ],
       "hero_list": [
         "Tencel 70%와 면 30% 혼용 원단",
         "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
@@ -292,12 +624,21 @@
         "/assets/images/nftFile/mainfolder/special9995/gallery/whitetwo.png",
         "/assets/images/nftFile/mainfolder/special9995/gallery/blacktwo.png"
       ],
-      "buy_link": [
-        "https://amazon.com",
-        "https://amazon.com",
-        "https://amazon.com",
-        "https://amazon.com"
-      ],
+      "buy_link": {
+        "link1": ["https://www.amazon.ae/", "/assets/images/shops/amazon.png"],
+        "link2": [
+          "https://global.11st.co.kr/html/en/main_en.html",
+          "/assets/images/shops/11st.png"
+        ],
+        "link3": [
+          "http://global.gmarket.co.kr/Home/Main",
+          "/assets/images/shops/gmarket.png"
+        ],
+        "link4": [
+          "https://shopping.naver.com/home",
+          "/assets/images/shops/naver.png"
+        ]
+      },
       "sizes": ["XS", "S", "M", "L", "XL"],
       "shirt_image": {
         "color": {
@@ -320,6 +661,61 @@
             "/assets/images/nftFile/mainfolder/special9995/tshirts/dailybthree.png"
           ]
         }
+      },
+      "size_chart": {
+        "table_title": ["총길이", "총길이", "총길이", "허리둘레"]
+      },
+      "look_more": { "title": "더 둘러보기" },
+      "packages": {
+        "title": "패키지 구성"
+      },
+      "material": {
+        "title": "재원"
+      },
+      "material_information": {
+        "title": "패브릭 정보",
+        "item": [
+          "두께감",
+          "두꺼움",
+          "중간",
+          "얇음",
+          "",
+          "비침 (화이트)",
+          "높음",
+          "중간",
+          "없음",
+          "",
+          "신축성",
+          "높음",
+          "중간",
+          "없음",
+          "밴딩",
+          "세탁방법",
+          "손세탁",
+          "드라이(클리닝)",
+          "찬물세탁",
+          "단독세탁",
+          "",
+          "건조기 사용불가",
+          "다림질 금지",
+          "세탁망 사용",
+          "건조기 사용불가"
+        ]
+      },
+      "product_impormation": {
+        "title": "asd",
+        "item": [
+          "원자제",
+          "일본",
+          "품질 보증기간",
+          "전자상거래법 준수",
+          "원산지",
+          "한국",
+          "색상",
+          "화이트, 블랙",
+          "제조일자",
+          "제공 불가"
+        ]
       }
     }
   },
@@ -330,8 +726,10 @@
     "main_image_path": "/assets/images/nftFile/mainfolder/special9996/9996.png",
     "attributes": {
       "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
-      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
-      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
+      "long_description": [
+        "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
+        " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!"
+      ],
       "hero_list": [
         "Tencel 70%와 면 30% 혼용 원단",
         "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
@@ -346,12 +744,21 @@
         "/assets/images/nftFile/mainfolder/special9996/gallery/whitetwo.png",
         "/assets/images/nftFile/mainfolder/special9996/gallery/blacktwo.png"
       ],
-      "buy_link": [
-        "https://amazon.com",
-        "https://amazon.com",
-        "https://amazon.com",
-        "https://amazon.com"
-      ],
+      "buy_link": {
+        "link1": ["https://www.amazon.ae/", "/assets/images/shops/amazon.png"],
+        "link2": [
+          "https://global.11st.co.kr/html/en/main_en.html",
+          "/assets/images/shops/11st.png"
+        ],
+        "link3": [
+          "http://global.gmarket.co.kr/Home/Main",
+          "/assets/images/shops/gmarket.png"
+        ],
+        "link4": [
+          "https://shopping.naver.com/home",
+          "/assets/images/shops/naver.png"
+        ]
+      },
       "sizes": ["XS", "S", "M", "L", "XL"],
       "shirt_image": {
         "color": {
@@ -374,6 +781,61 @@
             "/assets/images/nftFile/mainfolder/special9996/tshirts/dailybthree.png"
           ]
         }
+      },
+      "size_chart": {
+        "table_title": ["총길이", "총길이", "총길이", "허리둘레"]
+      },
+      "look_more": { "title": "더 둘러보기" },
+      "packages": {
+        "title": "패키지 구성"
+      },
+      "material": {
+        "title": "재원"
+      },
+      "material_information": {
+        "title": "패브릭 정보",
+        "item": [
+          "두께감",
+          "두꺼움",
+          "중간",
+          "얇음",
+          "",
+          "비침 (화이트)",
+          "높음",
+          "중간",
+          "없음",
+          "",
+          "신축성",
+          "높음",
+          "중간",
+          "없음",
+          "밴딩",
+          "세탁방법",
+          "손세탁",
+          "드라이(클리닝)",
+          "찬물세탁",
+          "단독세탁",
+          "",
+          "건조기 사용불가",
+          "다림질 금지",
+          "세탁망 사용",
+          "건조기 사용불가"
+        ]
+      },
+      "product_impormation": {
+        "title": "asd",
+        "item": [
+          "원자제",
+          "일본",
+          "품질 보증기간",
+          "전자상거래법 준수",
+          "원산지",
+          "한국",
+          "색상",
+          "화이트, 블랙",
+          "제조일자",
+          "제공 불가"
+        ]
       }
     }
   },
@@ -384,8 +846,10 @@
     "main_image_path": "/assets/images/nftFile/mainfolder/special9997/9997.png",
     "attributes": {
       "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
-      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
-      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
+      "long_description": [
+        "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
+        " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!"
+      ],
       "hero_list": [
         "Tencel 70%와 면 30% 혼용 원단",
         "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
@@ -400,12 +864,21 @@
         "/assets/images/nftFile/mainfolder/special9997/gallery/whitetwo.png",
         "/assets/images/nftFile/mainfolder/special9997/gallery/blacktwo.png"
       ],
-      "buy_link": [
-        "https://amazon.com",
-        "https://amazon.com",
-        "https://amazon.com",
-        "https://amazon.com"
-      ],
+      "buy_link": {
+        "link1": ["https://www.amazon.ae/", "/assets/images/shops/amazon.png"],
+        "link2": [
+          "https://global.11st.co.kr/html/en/main_en.html",
+          "/assets/images/shops/11st.png"
+        ],
+        "link3": [
+          "http://global.gmarket.co.kr/Home/Main",
+          "/assets/images/shops/gmarket.png"
+        ],
+        "link4": [
+          "https://shopping.naver.com/home",
+          "/assets/images/shops/naver.png"
+        ]
+      },
       "sizes": ["XS", "S", "M", "L", "XL"],
       "shirt_image": {
         "color": {
@@ -428,6 +901,61 @@
             "/assets/images/nftFile/mainfolder/special9997/tshirts/dailybthree.png"
           ]
         }
+      },
+      "size_chart": {
+        "table_title": ["총길이", "총길이", "총길이", "허리둘레"]
+      },
+      "look_more": { "title": "더 둘러보기" },
+      "packages": {
+        "title": "패키지 구성"
+      },
+      "material": {
+        "title": "재원"
+      },
+      "material_information": {
+        "title": "패브릭 정보",
+        "item": [
+          "두께감",
+          "두꺼움",
+          "중간",
+          "얇음",
+          "",
+          "비침 (화이트)",
+          "높음",
+          "중간",
+          "없음",
+          "",
+          "신축성",
+          "높음",
+          "중간",
+          "없음",
+          "밴딩",
+          "세탁방법",
+          "손세탁",
+          "드라이(클리닝)",
+          "찬물세탁",
+          "단독세탁",
+          "",
+          "건조기 사용불가",
+          "다림질 금지",
+          "세탁망 사용",
+          "건조기 사용불가"
+        ]
+      },
+      "product_impormation": {
+        "title": "asd",
+        "item": [
+          "원자제",
+          "일본",
+          "품질 보증기간",
+          "전자상거래법 준수",
+          "원산지",
+          "한국",
+          "색상",
+          "화이트, 블랙",
+          "제조일자",
+          "제공 불가"
+        ]
       }
     }
   },
@@ -438,8 +966,10 @@
     "main_image_path": "/assets/images/nftFile/mainfolder/special9998/9998.png",
     "attributes": {
       "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
-      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
-      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
+      "long_description": [
+        "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
+        " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!"
+      ],
       "hero_list": [
         "Tencel 70%와 면 30% 혼용 원단",
         "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
@@ -454,12 +984,21 @@
         "/assets/images/nftFile/mainfolder/special9998/gallery/whitetwo.png",
         "/assets/images/nftFile/mainfolder/special9998/gallery/blacktwo.png"
       ],
-      "buy_link": [
-        "https://amazon.com",
-        "https://amazon.com",
-        "https://amazon.com",
-        "https://amazon.com"
-      ],
+      "buy_link": {
+        "link1": ["https://www.amazon.ae/", "/assets/images/shops/amazon.png"],
+        "link2": [
+          "https://global.11st.co.kr/html/en/main_en.html",
+          "/assets/images/shops/11st.png"
+        ],
+        "link3": [
+          "http://global.gmarket.co.kr/Home/Main",
+          "/assets/images/shops/gmarket.png"
+        ],
+        "link4": [
+          "https://shopping.naver.com/home",
+          "/assets/images/shops/naver.png"
+        ]
+      },
       "sizes": ["XS", "S", "M", "L", "XL"],
       "shirt_image": {
         "color": {
@@ -482,6 +1021,61 @@
             "/assets/images/nftFile/mainfolder/special9998/tshirts/dailybthree.png"
           ]
         }
+      },
+      "size_chart": {
+        "table_title": ["총길이", "총길이", "총길이", "허리둘레"]
+      },
+      "look_more": { "title": "더 둘러보기" },
+      "packages": {
+        "title": "패키지 구성"
+      },
+      "material": {
+        "title": "재원"
+      },
+      "material_information": {
+        "title": "패브릭 정보",
+        "item": [
+          "두께감",
+          "두꺼움",
+          "중간",
+          "얇음",
+          "",
+          "비침 (화이트)",
+          "높음",
+          "중간",
+          "없음",
+          "",
+          "신축성",
+          "높음",
+          "중간",
+          "없음",
+          "밴딩",
+          "세탁방법",
+          "손세탁",
+          "드라이(클리닝)",
+          "찬물세탁",
+          "단독세탁",
+          "",
+          "건조기 사용불가",
+          "다림질 금지",
+          "세탁망 사용",
+          "건조기 사용불가"
+        ]
+      },
+      "product_impormation": {
+        "title": "asd",
+        "item": [
+          "원자제",
+          "일본",
+          "품질 보증기간",
+          "전자상거래법 준수",
+          "원산지",
+          "한국",
+          "색상",
+          "화이트, 블랙",
+          "제조일자",
+          "제공 불가"
+        ]
       }
     }
   },
@@ -492,8 +1086,10 @@
     "main_image_path": "/assets/images/nftFile/mainfolder/special9999/9999.png",
     "attributes": {
       "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
-      "long_description_1": "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
-      "long_description_2": " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!",
+      "long_description": [
+        "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
+        " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!"
+      ],
       "hero_list": [
         "Tencel 70%와 면 30% 혼용 원단",
         "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
@@ -508,12 +1104,21 @@
         "/assets/images/nftFile/mainfolder/special9999/gallery/whitetwo.png",
         "/assets/images/nftFile/mainfolder/special9999/gallery/blacktwo.png"
       ],
-      "buy_link": [
-        "https://amazon.com",
-        "https://amazon.com",
-        "https://amazon.com",
-        "https://amazon.com"
-      ],
+      "buy_link": {
+        "link1": ["https://www.amazon.ae/", "/assets/images/shops/amazon.png"],
+        "link2": [
+          "https://global.11st.co.kr/html/en/main_en.html",
+          "/assets/images/shops/11st.png"
+        ],
+        "link3": [
+          "http://global.gmarket.co.kr/Home/Main",
+          "/assets/images/shops/gmarket.png"
+        ],
+        "link4": [
+          "https://shopping.naver.com/home",
+          "/assets/images/shops/naver.png"
+        ]
+      },
       "sizes": ["XS", "S", "M", "L", "XL"],
       "shirt_image": {
         "color": {
@@ -536,6 +1141,61 @@
             "/assets/images/nftFile/mainfolder/special9999/tshirts/dailybthree.png"
           ]
         }
+      },
+      "size_chart": {
+        "table_title": ["총길이", "총길이", "총길이", "허리둘레"]
+      },
+      "look_more": { "title": "더 둘러보기" },
+      "packages": {
+        "title": "패키지 구성"
+      },
+      "material": {
+        "title": "재원"
+      },
+      "material_information": {
+        "title": "패브릭 정보",
+        "item": [
+          "두께감",
+          "두꺼움",
+          "중간",
+          "얇음",
+          "",
+          "비침 (화이트)",
+          "높음",
+          "중간",
+          "없음",
+          "",
+          "신축성",
+          "높음",
+          "중간",
+          "없음",
+          "밴딩",
+          "세탁방법",
+          "손세탁",
+          "드라이(클리닝)",
+          "찬물세탁",
+          "단독세탁",
+          "",
+          "건조기 사용불가",
+          "다림질 금지",
+          "세탁망 사용",
+          "건조기 사용불가"
+        ]
+      },
+      "product_impormation": {
+        "title": "제품 상세 정보",
+        "item": [
+          "원자제",
+          "일본",
+          "품질 보증기간",
+          "전자상거래법 준수",
+          "원산지",
+          "한국",
+          "색상",
+          "화이트, 블랙",
+          "제조일자",
+          "제공 불가"
+        ]
       }
     }
   }

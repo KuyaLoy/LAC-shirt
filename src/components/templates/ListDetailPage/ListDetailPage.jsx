@@ -7,14 +7,15 @@ import TshirtSectionWeb from "../../organisms/ListDetailSection/TshirtSectionWeb
 import TshirtSectionMobile from "../../organisms/ListDetailSection/TshirtSectionMobile/TshirtSectionMobile";
 import UnknownSection from "../../organisms/ListDetailSection/UnknownSection/UnknownSection";
 import SizeSection from "../../organisms/ListDetailSection/SizeSection/SizeSection";
-import TableChart from "../../molecules/TableChart/TableChart";
+import TableChart1 from "../../molecules/TableChart1/TableChart1";
 
-import TableChart1 from "../../../assets/img/detailPage/TableChart-1.png";
-import TableChart2 from "../../../assets/img/detailPage/TableChart-2.png";
+//import TableChart1 from "../../../assets/img/detailPage/TableChart-1.png";
+//import TableChart2 from "../../../assets/img/detailPage/TableChart-2.png";
 import ClothingSpecs from "../../organisms/ListDetailSection/ClothingSpecs/ClothingSpecs";
 import LacSlider from "../../organisms/ListDetailSection/LacSlider/LacSlider";
 import Footer from "../../organisms/Footer/Footer";
 import ExtraButton from "../../molecules/ExtraButton/ExtraButton";
+import TableChart2 from "../../molecules/TableChart2/TableChart2";
 
 const ListDetailPage = ({ data }) => {
   // console.log({ data });
@@ -71,22 +72,22 @@ const ListDetailPage = ({ data }) => {
       </div>
 
       <div className="CommonContainer">
-        <UnknownSection />
+        <UnknownSection data={item} />
       </div>
       <div className="CommonContainer">
-        <SizeSection />
+        <SizeSection data={item} />
       </div>
       <div className="CommonContainer">
-        <ClothingSpecs />
+        <ClothingSpecs data={item} />
       </div>
       <div className="CommonContainer">
-        <TableChart TableChart={TableChart1} Title="패브릭 정보" />
+        <TableChart1 TableChart={item} />
       </div>
       <div className="CommonContainer">
-        <TableChart TableChart={TableChart2} Title="제품 상세 정보" />
+        <TableChart2 TableChart={item} />
       </div>
       <div className="FullwidthContainer">
-        <LacSlider />
+        <LacSlider data={item} />
       </div>
       {showTopBtn && <ExtraButton data={item} onClick={goToTop} />}
 

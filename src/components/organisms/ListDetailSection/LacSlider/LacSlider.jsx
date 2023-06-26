@@ -6,11 +6,11 @@ import SlideData from "../../../../assets/json/meta.json";
 
 import "./LacSlider.scss";
 
-const LacSlider = () => {
+const LacSlider = ({ data }) => {
   return (
     <div className="LacSliderWrapper">
       <div className="LacHeading">
-        <H2 content="더 둘러보기" />
+        <H2 content={data.attributes.look_more.title} />
         <hr />
       </div>
       <SliderLink

@@ -10,10 +10,10 @@ import Warn2 from "../../../../assets/img/detailPage/warn-2.png";
 import Warn3 from "../../../../assets/img/detailPage/warn-3.png";
 import Warn4 from "../../../../assets/img/detailPage/warn-4.png";
 
-const ClothingSpecs = () => {
+const ClothingSpecs = ({ data }) => {
   return (
     <div className="ClothingSpecsWrapper">
-      <H2 content="재원" />
+      <H2 content={data.attributes.material.title} />
 
       <div className="ClothContent">
         <div className="CCinside">

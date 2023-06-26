@@ -1,0 +1,61 @@
+@use "../../../styles/utils/" as u;
+
+.TableChartWrapper2 {
+  @media (max-width: 1440px) and (min-width: 1023px) {
+    padding: 0 5%;
+  }
+  text-align: center;
+  color: white;
+  h2 {
+    font-family: "Gilroy-SemiBold";
+    font-size: clamp(
+      u.rem(30),
+      calc(1.25rem + ((1vw - 7.68px) * 2.6042)),
+      u.rem(50)
+    );
+    margin-bottom: u.rem(50);
+  }
+
+  .ChartWrapper2 {
+    .grid4 {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      grid-column-gap: 0px;
+      grid-row-gap: 0px;
+      border-bottom: #818181 1px solid;
+      &:first-child {
+        border-top: #fff 2px solid;
+      }
+
+      p {
+        @include u.breakpoint-max(medium) {
+          font-size: 16px !important;
+        }
+        @include u.breakpoint-max(small) {
+          font-size: 10px !important;
+        }
+        padding: u.rem(10) 0;
+        display: flex;
+        align-items: center;
+        &:nth-child(odd) {
+          font-size: u.rem(40);
+          color: #000000;
+          background-color: #d9d9d9;
+          justify-content: center;
+          font-family: "Gilroy-Regular";
+          text-align: center;
+        }
+        &:nth-child(even) {
+          text-align: left;
+          position: relative;
+          font-size: u.rem(35);
+          padding: u.rem(10) u.rem(10) u.rem(10) u.rem(50);
+          font-family: "Gilroy-Light";
+          @include u.breakpoint-max(small) {
+            padding: 10px;
+          }
+        }
+      }
+    }
+  }
+}
