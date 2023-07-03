@@ -131,7 +131,11 @@
         display: flex;
         align-items: center;
         justify-content: space-between;
-        gap: u.rem(30);
+        gap: u.rem(20);
+        flex-wrap: wrap;
+
+        width: 80%;
+        margin: 0 auto;
 
         @include u.breakpoint-max(small) {
           gap: u.rem(15);
@@ -140,7 +144,7 @@
         a {
           cursor: pointer;
           height: u.rem(50);
-          width: 25%;
+          width: 29%;
           border-radius: u.rem(10);
           border: none;
           background-color: white;

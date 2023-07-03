@@ -17,10 +17,10 @@
       "list_description": "이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다.",
       "galery_image_path": [
         "/assets/images/nftFile/mainfolder/special0/gallery/0.png",
-        "/assets/images/nftFile/mainfolder/special0/gallery/blackone.png",
-        "/assets/images/nftFile/mainfolder/special0/gallery/blacktwo.png",
         "/assets/images/nftFile/mainfolder/special0/gallery/whiteone.png",
-        "/assets/images/nftFile/mainfolder/special0/gallery/whitetwo.png"
+        "/assets/images/nftFile/mainfolder/special0/gallery/4.png",
+        "/assets/images/nftFile/mainfolder/special0/gallery/blacktwo.png",
+        "/assets/images/nftFile/mainfolder/special0/gallery/13.png"
       ],
       "buy_link": [
         "https://amazon.com",
@@ -32,22 +32,22 @@
       "shirt_image": {
         "color": {
           "white_image_path": [
-            "/assets/images/nftFile/mainfolder/special0/color/white.png",
-            "/assets/images/nftFile/mainfolder/special0/tshirts/whiteone.png",
-            "/assets/images/nftFile/mainfolder/special0/tshirts/whitetwo.png",
-            "/assets/images/nftFile/mainfolder/special0/tshirts/whitethree.png",
-            "/assets/images/nftFile/mainfolder/special0/tshirts/dailywone.png",
-            "/assets/images/nftFile/mainfolder/special0/tshirts/dailywtwo.png",
-            "/assets/images/nftFile/mainfolder/special0/tshirts/dailywthree.png"
+            "/assets/images/nftFile/mainfolder/special0/tshirts/1.png",
+            "/assets/images/nftFile/mainfolder/special0/tshirts/2.png",
+            "/assets/images/nftFile/mainfolder/special0/tshirts/3.png",
+            "/assets/images/nftFile/mainfolder/special0/tshirts/4.png",
+            "/assets/images/nftFile/mainfolder/special0/tshirts/5.png",
+            "/assets/images/nftFile/mainfolder/special0/tshirts/6.png",
+            "/assets/images/nftFile/mainfolder/special0/tshirts/7.png"
           ],
           "black_image_path": [
-            "/assets/images/nftFile/mainfolder/special0/color/black.png",
-            "/assets/images/nftFile/mainfolder/special0/tshirts/blackone.png",
-            "/assets/images/nftFile/mainfolder/special0/tshirts/blacktwo.png",
-            "/assets/images/nftFile/mainfolder/special0/tshirts/blackthree.png",
-            "/assets/images/nftFile/mainfolder/special0/tshirts/dailybone.png",
-            "/assets/images/nftFile/mainfolder/special0/tshirts/dailybtwo.png",
-            "/assets/images/nftFile/mainfolder/special0/tshirts/dailybthree.png"
+            "/assets/images/nftFile/mainfolder/special0/tshirts/8.png",
+            "/assets/images/nftFile/mainfolder/special0/tshirts/9.png",
+            "/assets/images/nftFile/mainfolder/special0/tshirts/10.png",
+            "/assets/images/nftFile/mainfolder/special0/tshirts/11.png",
+            "/assets/images/nftFile/mainfolder/special0/tshirts/12.png",
+            "/assets/images/nftFile/mainfolder/special0/tshirts/13.png",
+            "/assets/images/nftFile/mainfolder/special0/tshirts/14.png"
           ]
         }
       }

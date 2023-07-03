@@ -27,9 +27,9 @@ const TshirtSectionWeb = ({ data }) => {
             <Image
               src={data.attributes.shirt_image.color.white_image_path[2]}
             />
-            <Image
+            {/* <Image
               src={data.attributes.shirt_image.color.white_image_path[3]}
-            />
+            /> */}
           </div>
         </div>
         <div className="ICContent">
@@ -49,9 +49,9 @@ const TshirtSectionWeb = ({ data }) => {
             <Image
               src={data.attributes.shirt_image.color.black_image_path[2]}
             />
-            <Image
+            {/* <Image
               src={data.attributes.shirt_image.color.black_image_path[3]}
-            />
+            /> */}
           </div>
         </div>
       </div>
@@ -60,6 +60,9 @@ const TshirtSectionWeb = ({ data }) => {
       <div className="ImageColorContainer">
         <div className="ICContent">
           <div className="SquareContent right">
+            <Image
+              src={data.attributes.shirt_image.color.white_image_path[3]}
+            />
             <Image
               src={data.attributes.shirt_image.color.white_image_path[4]}
             />
@@ -73,6 +76,9 @@ const TshirtSectionWeb = ({ data }) => {
         </div>
         <div className="ICContent">
           <div className="SquareContent">
+            <Image
+              src={data.attributes.shirt_image.color.black_image_path[3]}
+            />
             <Image
               src={data.attributes.shirt_image.color.black_image_path[4]}
             />

@@ -56,7 +56,7 @@ const TableChart1 = ({ TableChart }) => {
           <p className="WithBox active">
             {TableChart.attributes.material_information.item[16]}
           </p>
-          <p className="WithBox active">
+          <p className="WithBox">
             {TableChart.attributes.material_information.item[17]}
           </p>
           <p className="WithBox">

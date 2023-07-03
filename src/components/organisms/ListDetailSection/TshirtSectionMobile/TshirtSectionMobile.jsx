@@ -52,6 +52,7 @@ const TshirtSectionMobile = ({ data }) => {
         }
         alt={data.name}
       />
+      <P content="Daily" />
       <Image
         src={
           selectedColor === "white"
@@ -60,7 +61,6 @@ const TshirtSectionMobile = ({ data }) => {
         }
         alt={data.name}
       />
-      <P content="Daily" />
 
       <Image
         src={

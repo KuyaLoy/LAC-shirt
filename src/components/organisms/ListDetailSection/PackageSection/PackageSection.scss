@@ -1,0 +1,58 @@
+@use "../../../../styles/utils/" as u;
+
+.PackageWrapper {
+  text-align: center;
+
+  h2 {
+    font-family: "Gilroy-SemiBold";
+    color: white;
+    font-size: clamp(
+      u.rem(30),
+      calc(1.25rem + ((1vw - 7.68px) * 2.6042)),
+      u.rem(50)
+    );
+
+    margin-bottom: u.rem(100);
+  }
+  .ImageContainer {
+    //min-height: 80vh;
+    max-width: u.rem(1140);
+    width: 100%;
+    margin: 0 auto;
+    background-color: white;
+
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    //grid-template-rows: repeat(2, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+
+    img {
+      width: 100%;
+      object-fit: cover;
+      object-position: center;
+      height: 30vh;
+      //border: 1px solid;
+      &:first-child {
+        grid-area: 1 / 1 / 2 / 3;
+        height: 70vh;
+      }
+
+      @include u.breakpoint-max(small) {
+        height: 15vh;
+        &:first-child {
+          grid-area: 1 / 1 / 2 / 3;
+          height: 30vh;
+        }
+      }
+    }
+
+    @include u.breakpoint-max(medium) {
+      max-width: 100%;
+      //min-height: 40vh;
+    }
+    // @include u.breakpoint-max(small) {
+    //   min-height: 30vh;
+    // }
+  }
+}

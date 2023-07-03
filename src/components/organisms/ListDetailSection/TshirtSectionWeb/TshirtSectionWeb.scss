@@ -39,13 +39,17 @@
       &:last-child {
         padding-left: u.rem(50);
         align-items: start;
+
+        .CircleContent {
+          padding: 0 u.rem(15);
+        }
       }
 
       .CircleContent {
         max-width: u.rem(300);
         width: 100%;
         img {
-          border-radius: 100%;
+          //border-radius: 100%;
           object-fit: contain;
           width: 100%;
         }

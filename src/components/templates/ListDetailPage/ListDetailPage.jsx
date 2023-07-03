@@ -5,7 +5,7 @@ import { useParams } from "react-router-dom";
 import SpotlightSection from "../../organisms/ListDetailSection/SpotlightSection/SpotlightSection";
 import TshirtSectionWeb from "../../organisms/ListDetailSection/TshirtSectionWeb/TshirtSectionWeb";
 import TshirtSectionMobile from "../../organisms/ListDetailSection/TshirtSectionMobile/TshirtSectionMobile";
-import UnknownSection from "../../organisms/ListDetailSection/UnknownSection/UnknownSection";
+import PackageSection from "../../organisms/ListDetailSection/PackageSection/PackageSection";
 import SizeSection from "../../organisms/ListDetailSection/SizeSection/SizeSection";
 import TableChart1 from "../../molecules/TableChart1/TableChart1";
 
@@ -72,7 +72,7 @@ const ListDetailPage = ({ data }) => {
       </div>
 
       <div className="CommonContainer">
-        <UnknownSection data={item} />
+        <PackageSection data={item} />
       </div>
       <div className="CommonContainer">
         <SizeSection data={item} />
