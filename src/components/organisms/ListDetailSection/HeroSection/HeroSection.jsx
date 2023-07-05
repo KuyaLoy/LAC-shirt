@@ -54,6 +54,7 @@ const HeroSection = ({ data }) => {
               key={index}
               link={data.attributes.buy_link[key][0]}
               src={data.attributes.buy_link[key][1]}
+              target={"_blank"}
             />
           ))}
         </div>

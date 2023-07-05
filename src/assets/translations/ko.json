@@ -25,7 +25,10 @@
         "/assets/images/nftFile/mainfolder/special0/gallery/4.png"
       ],
       "buy_link": {
-        "link1": ["https://www.amazon.ae/", "/assets/images/shops/amazon.png"],
+        "link1": [
+          "https://www.amazon.com/dp/B0CB5K2K19?ref=myi_title_dp",
+          "/assets/images/shops/amazon.png"
+        ],
         "link2": [
           "http://item.gmarket.co.kr/Item?goodscode=3032771989",
           "/assets/images/shops/gmarket.png"
@@ -158,7 +161,10 @@
         "/assets/images/nftFile/mainfolder/special100/gallery/4.png"
       ],
       "buy_link": {
-        "link1": ["https://www.amazon.ae/", "/assets/images/shops/amazon.png"],
+        "link1": [
+          "https://www.amazon.com/dp/B0CB5HLJS8?ref=myi_title_dp",
+          "/assets/images/shops/amazon.png"
+        ],
         "link2": [
           "http://item.gmarket.co.kr/Item?goodscode=3032788345",
           "/assets/images/shops/gmarket.png"
@@ -291,7 +297,10 @@
         "/assets/images/nftFile/mainfolder/special200/gallery/4.png"
       ],
       "buy_link": {
-        "link1": ["https://www.amazon.ae/", "/assets/images/shops/amazon.png"],
+        "link1": [
+          "https://www.amazon.com/dp/B0CB5K1356?ref=myi_title_dp",
+          "/assets/images/shops/amazon.png"
+        ],
         "link2": [
           "http://item.gmarket.co.kr/Item?goodscode=3032797984",
           "/assets/images/shops/gmarket.png"
@@ -424,7 +433,10 @@
         "/assets/images/nftFile/mainfolder/special300/gallery/4.png"
       ],
       "buy_link": {
-        "link1": ["https://www.amazon.ae/", "/assets/images/shops/amazon.png"],
+        "link1": [
+          "https://www.amazon.com/dp/B0CB5KGF4X?ref=myi_title_dp",
+          "/assets/images/shops/amazon.png"
+        ],
         "link2": [
           "http://item.gmarket.co.kr/Item?goodscode=3032941593",
           "/assets/images/shops/gmarket.png"
@@ -557,7 +569,10 @@
         "/assets/images/nftFile/mainfolder/special9994/gallery/4.png"
       ],
       "buy_link": {
-        "link1": ["https://www.amazon.ae/", "/assets/images/shops/amazon.png"],
+        "link1": [
+          "https://www.amazon.com/dp/B0CB5N6S48?ref=myi_title_dp",
+          "/assets/images/shops/amazon.png"
+        ],
         "link2": [
           "http://item.gmarket.co.kr/Item?goodscode=3032944851",
           "/assets/images/shops/gmarket.png"
@@ -690,7 +705,10 @@
         "/assets/images/nftFile/mainfolder/special9995/gallery/4.png"
       ],
       "buy_link": {
-        "link1": ["https://www.amazon.ae/", "/assets/images/shops/amazon.png"],
+        "link1": [
+          "https://www.amazon.com/dp/B0CB5P4VJC?ref=myi_title_dp",
+          "/assets/images/shops/amazon.png"
+        ],
         "link2": [
           "http://item.gmarket.co.kr/Item?goodscode=3032948834",
           "/assets/images/shops/gmarket.png"
@@ -823,7 +841,10 @@
         "/assets/images/nftFile/mainfolder/special9996/gallery/4.png"
       ],
       "buy_link": {
-        "link1": ["https://www.amazon.ae/", "/assets/images/shops/amazon.png"],
+        "link1": [
+          "https://www.amazon.com/dp/B0CB5QHS58?ref=myi_title_dp",
+          "/assets/images/shops/amazon.png"
+        ],
         "link2": [
           "http://item.gmarket.co.kr/Item?goodscode=3032951445",
           "/assets/images/shops/gmarket.png"
@@ -956,7 +977,10 @@
         "/assets/images/nftFile/mainfolder/special9997/gallery/4.png"
       ],
       "buy_link": {
-        "link1": ["https://www.amazon.ae/", "/assets/images/shops/amazon.png"],
+        "link1": [
+          "https://www.amazon.com/dp/B0CB5Q87DR?ref=myi_title_dp",
+          "/assets/images/shops/amazon.png"
+        ],
         "link2": [
           "http://item.gmarket.co.kr/Item?goodscode=3032954063",
           "/assets/images/shops/gmarket.png"
@@ -1089,7 +1113,10 @@
         "/assets/images/nftFile/mainfolder/special9998/gallery/4.png"
       ],
       "buy_link": {
-        "link1": ["https://www.amazon.ae/", "/assets/images/shops/amazon.png"],
+        "link1": [
+          "https://www.amazon.com/dp/B0CB5RFVQ1?ref=myi_title_dp",
+          "/assets/images/shops/amazon.png"
+        ],
         "link2": [
           "http://item.gmarket.co.kr/Item?goodscode=3032956467",
           "/assets/images/shops/gmarket.png"
@@ -1222,7 +1249,10 @@
         "/assets/images/nftFile/mainfolder/special9999/gallery/4.png"
       ],
       "buy_link": {
-        "link1": ["https://www.amazon.ae/", "/assets/images/shops/amazon.png"],
+        "link1": [
+          "https://www.amazon.com/dp/B0CB5R7MPP?ref=myi_title_dp",
+          "/assets/images/shops/amazon.png"
+        ],
         "link2": [
           "http://item.gmarket.co.kr/Item?goodscode=3032959111",
           "/assets/images/shops/gmarket.png"
