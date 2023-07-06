@@ -5,18 +5,20 @@
     "category": "Special",
     "main_image_path": "/assets/images/nftFile/mainfolder/special0/0.png",
     "attributes": {
-      "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
+      "short_description": "Premium Classic Crewneck T-shirt",
       "long_description": [
-        "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
-        " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!"
+        "Looking for art that really stands out?",
+        "You’re in the right place––there’s a group of primates who’d love to meet you. ",
+        "Introducing the Lady Ape Club (LAC) Special NFTs!",
+        "An elite squad of just 10 among LAC’s 10,000 population, the Lady Ape Club Special NFTs are one girl gang you don’t want to miss!"
       ],
       "hero_list": [
-        "Tencel 70%와 면 30% 혼용 원단",
-        "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
-        "단독으로 착용하는 것은 물론이고 이너웨어로도 남녀노소 누구나 멋지게 어우러질 수 있는 다용성",
-        "LAC Nft의 스페셜 작품으로 오로지 소수의 특별한 사람들을 위한 한정판 제품으로 특별함을 추구하는 분들에게 완벽한 선택"
+        "Ultra-limited run Lady Ape Club NFT tee",
+        "Made using high-quality Japanese fabric",
+        "Lightweight blend of 70% Tencel and 30% cotton",
+        "Versatile, unisex design for styling alone or layering."
       ],
-      "list_description": "이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다.",
+      "list_description": "Limited edition Lady Ape NFT crewneck tee. Made in Korea from Japanese fabric. Lightweight Tencel and cotton blend for superior comfort and style. ",
       "galery_image_path": [
         "/assets/images/nftFile/mainfolder/special0/gallery/0.png",
         "/assets/images/nftFile/mainfolder/special0/gallery/blacktwo.png",
@@ -25,25 +27,28 @@
         "/assets/images/nftFile/mainfolder/special0/gallery/4.png"
       ],
       "buy_link": {
-        "link1": ["https://www.amazon.ae/", "/assets/images/shops/amazon.png"],
+        "link1": [
+          "https://www.amazon.com/dp/B0CB5K2K19?ref=myi_title_dp",
+          "/assets/images/shops/amazon.png"
+        ],
         "link2": [
-          "http://global.gmarket.co.kr/Home/Main",
+          "http://item.gmarket.co.kr/Item?goodscode=3032771989",
           "/assets/images/shops/gmarket.png"
         ],
         "link3": [
-          "https://shopping.naver.com/home",
+          "https://smartstore.naver.com/tncart/products/8784018372",
           "/assets/images/shops/naver.png"
         ],
         "link4": [
-          "http://www.auction.co.kr/",
+          "http://itempage3.auction.co.kr/DetailView.aspx?ItemNo=D443531921&frm3=V2",
           "/assets/images/shops/auction.png"
         ],
         "link5": [
-          "https://www.coupang.com/",
+          "https://www.coupang.com/vp/products/7432411058?isAddedCart=",
           "/assets/images/shops/coupang.png"
         ],
         "link6": [
-          "https://global.11st.co.kr/html/en/main_en.html",
+          "https://www.11st.co.kr/products/5965566554",
           "/assets/images/shops/11st.png"
         ]
       },
@@ -71,58 +76,63 @@
         }
       },
       "size_chart": {
-        "table_title": ["총길이", "총길이", "총길이", "허리둘레"]
+        "table_title": ["Total length", "Shoulder width", "Chest", "Waist"]
       },
-      "look_more": { "title": "더 둘러보기" },
+      "look_more": { "title": "Look around more" },
       "packages": {
-        "title": "패키지 구성"
+        "title": "What’s in the package?",
+        "images": [
+          "/assets/images/nftFile/mainfolder/special0/package/1.jpg",
+          "/assets/images/nftFile/mainfolder/special0/package/2.jpg",
+          "/assets/images/nftFile/mainfolder/special0/package/3.jpg"
+        ]
       },
       "material": {
-        "title": "재원"
+        "title": "Material"
       },
       "material_information": {
-        "title": "패브릭 정보",
+        "title": "Material information",
         "item": [
-          "두께감",
-          "두꺼움",
-          "중간",
-          "얇음",
+          "Weight",
+          "Heavy",
+          "Medium",
+          "Light",
           "",
-          "비침 (화이트)",
-          "높음",
-          "중간",
-          "없음",
+          "Shine(White Only)",
+          "High",
+          "Medium",
+          "Low",
           "",
-          "신축성",
-          "높음",
-          "중간",
-          "없음",
-          "밴딩",
-          "세탁방법",
-          "손세탁",
-          "드라이(클리닝)",
-          "찬물세탁",
-          "단독세탁",
+          "Stretch",
+          "High",
+          "Medium",
+          "Low",
+          "Banding",
+          "Washing instructions",
+          "Handwash",
+          "Drey clean",
+          "Cold wash",
+          "Wash separately",
           "",
-          "건조기 사용불가",
-          "다림질 금지",
-          "세탁망 사용",
-          "건조기 사용불가"
+          "Do not use bleach",
+          "Do not iron",
+          "Laundry net recomended",
+          "Dryer not available"
         ]
       },
       "product_impormation": {
-        "title": "asd",
+        "title": "Product information",
         "item": [
-          "원자제",
-          "일본",
-          "품질 보증기간",
-          "전자상거래법 준수",
-          "원산지",
-          "한국",
-          "색상",
-          "화이트, 블랙",
-          "제조일자",
-          "제공 불가"
+          "Made in Korea",
+          "Japanese fabric",
+          "Quality Guarantee",
+          "Compliant with Korean online commerce law",
+          "Country of Origin",
+          "Korea",
+          "Color",
+          "White, black",
+          "Manufacturing date",
+          "Unable to provide"
         ]
       }
     }
@@ -133,18 +143,20 @@
     "category": "Special",
     "main_image_path": "/assets/images/nftFile/mainfolder/special100/100.png",
     "attributes": {
-      "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
+      "short_description": "Premium Classic Crewneck T-shirt",
       "long_description": [
-        "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
-        " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!"
+        "Looking for art that really stands out?",
+        "You’re in the right place––there’s a group of primates who’d love to meet you. ",
+        "Introducing the Lady Ape Club (LAC) Special NFTs!",
+        "An elite squad of just 10 among LAC’s 10,000 population, the Lady Ape Club Special NFTs are one girl gang you don’t want to miss!"
       ],
       "hero_list": [
-        "Tencel 70%와 면 30% 혼용 원단",
-        "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
-        "단독으로 착용하는 것은 물론이고 이너웨어로도 남녀노소 누구나 멋지게 어우러질 수 있는 다용성",
-        "LAC Nft의 스페셜 작품으로 오로지 소수의 특별한 사람들을 위한 한정판 제품으로 특별함을 추구하는 분들에게 완벽한 선택"
+        "Ultra-limited run Lady Ape Club NFT tee",
+        "Made using high-quality Japanese fabric",
+        "Lightweight blend of 70% Tencel and 30% cotton",
+        "Versatile, unisex design for styling alone or layering."
       ],
-      "list_description": "이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다.",
+      "list_description": "Limited edition Lady Ape NFT crewneck tee. Made in Korea from Japanese fabric. Lightweight Tencel and cotton blend for superior comfort and style. ",
       "galery_image_path": [
         "/assets/images/nftFile/mainfolder/special100/gallery/100.png",
         "/assets/images/nftFile/mainfolder/special100/gallery/blacktwo.png",
@@ -153,25 +165,28 @@
         "/assets/images/nftFile/mainfolder/special100/gallery/4.png"
       ],
       "buy_link": {
-        "link1": ["https://www.amazon.ae/", "/assets/images/shops/amazon.png"],
+        "link1": [
+          "https://www.amazon.com/dp/B0CB5HLJS8?ref=myi_title_dp",
+          "/assets/images/shops/amazon.png"
+        ],
         "link2": [
-          "http://global.gmarket.co.kr/Home/Main",
+          "http://item.gmarket.co.kr/Item?goodscode=3032788345",
           "/assets/images/shops/gmarket.png"
         ],
         "link3": [
-          "https://shopping.naver.com/home",
+          "https://smartstore.naver.com/tncart/products/8784046871",
           "/assets/images/shops/naver.png"
         ],
         "link4": [
-          "http://www.auction.co.kr/",
+          "http://itempage3.auction.co.kr/DetailView.aspx?ItemNo=D443548477&frm3=V2",
           "/assets/images/shops/auction.png"
         ],
         "link5": [
-          "https://www.coupang.com/",
+          "https://www.coupang.com/vp/products/7432409948?isAddedCart=",
           "/assets/images/shops/coupang.png"
         ],
         "link6": [
-          "https://global.11st.co.kr/html/en/main_en.html",
+          "https://www.11st.co.kr/products/5965572957",
           "/assets/images/shops/11st.png"
         ]
       },
@@ -199,58 +214,63 @@
         }
       },
       "size_chart": {
-        "table_title": ["총길이", "총길이", "총길이", "허리둘레"]
+        "table_title": ["Total length", "Shoulder width", "Chest", "Waist"]
       },
-      "look_more": { "title": "더 둘러보기" },
+      "look_more": { "title": "Look around more" },
       "packages": {
-        "title": "패키지 구성"
+        "title": "What’s in the package?",
+        "images": [
+          "/assets/images/nftFile/mainfolder/special100/package/1.jpg",
+          "/assets/images/nftFile/mainfolder/special100/package/2.jpg",
+          "/assets/images/nftFile/mainfolder/special100/package/3.jpg"
+        ]
       },
       "material": {
-        "title": "재원"
+        "title": "Material"
       },
       "material_information": {
-        "title": "패브릭 정보",
+        "title": "Material information",
         "item": [
-          "두께감",
-          "두꺼움",
-          "중간",
-          "얇음",
+          "Weight",
+          "Heavy",
+          "Medium",
+          "Light",
           "",
-          "비침 (화이트)",
-          "높음",
-          "중간",
-          "없음",
+          "Shine(White Only)",
+          "High",
+          "Medium",
+          "Low",
           "",
-          "신축성",
-          "높음",
-          "중간",
-          "없음",
-          "밴딩",
-          "세탁방법",
-          "손세탁",
-          "드라이(클리닝)",
-          "찬물세탁",
-          "단독세탁",
+          "Stretch",
+          "High",
+          "Medium",
+          "Low",
+          "Banding",
+          "Washing instructions",
+          "Handwash",
+          "Drey clean",
+          "Cold wash",
+          "Wash separately",
           "",
-          "건조기 사용불가",
-          "다림질 금지",
-          "세탁망 사용",
-          "건조기 사용불가"
+          "Do not use bleach",
+          "Do not iron",
+          "Laundry net recomended",
+          "Dryer not available"
         ]
       },
       "product_impormation": {
-        "title": "asd",
+        "title": "Product information",
         "item": [
-          "원자제",
-          "일본",
-          "품질 보증기간",
-          "전자상거래법 준수",
-          "원산지",
-          "한국",
-          "색상",
-          "화이트, 블랙",
-          "제조일자",
-          "제공 불가"
+          "Made in Korea",
+          "Japanese fabric",
+          "Quality Guarantee",
+          "Compliant with Korean online commerce law",
+          "Country of Origin",
+          "Korea",
+          "Color",
+          "White, black",
+          "Manufacturing date",
+          "Unable to provide"
         ]
       }
     }
@@ -261,18 +281,20 @@
     "category": "Special",
     "main_image_path": "/assets/images/nftFile/mainfolder/special200/200.png",
     "attributes": {
-      "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
+      "short_description": "Premium Classic Crewneck T-shirt",
       "long_description": [
-        "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
-        " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!"
+        "Looking for art that really stands out?",
+        "You’re in the right place––there’s a group of primates who’d love to meet you. ",
+        "Introducing the Lady Ape Club (LAC) Special NFTs!",
+        "An elite squad of just 10 among LAC’s 10,000 population, the Lady Ape Club Special NFTs are one girl gang you don’t want to miss!"
       ],
       "hero_list": [
-        "Tencel 70%와 면 30% 혼용 원단",
-        "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
-        "단독으로 착용하는 것은 물론이고 이너웨어로도 남녀노소 누구나 멋지게 어우러질 수 있는 다용성",
-        "LAC Nft의 스페셜 작품으로 오로지 소수의 특별한 사람들을 위한 한정판 제품으로 특별함을 추구하는 분들에게 완벽한 선택"
+        "Ultra-limited run Lady Ape Club NFT tee",
+        "Made using high-quality Japanese fabric",
+        "Lightweight blend of 70% Tencel and 30% cotton",
+        "Versatile, unisex design for styling alone or layering."
       ],
-      "list_description": "이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다.",
+      "list_description": "Limited edition Lady Ape NFT crewneck tee. Made in Korea from Japanese fabric. Lightweight Tencel and cotton blend for superior comfort and style. ",
       "galery_image_path": [
         "/assets/images/nftFile/mainfolder/special200/gallery/200.png",
         "/assets/images/nftFile/mainfolder/special200/gallery/blacktwo.png",
@@ -281,25 +303,28 @@
         "/assets/images/nftFile/mainfolder/special200/gallery/4.png"
       ],
       "buy_link": {
-        "link1": ["https://www.amazon.ae/", "/assets/images/shops/amazon.png"],
+        "link1": [
+          "https://www.amazon.com/dp/B0CB5K1356?ref=myi_title_dp",
+          "/assets/images/shops/amazon.png"
+        ],
         "link2": [
-          "http://global.gmarket.co.kr/Home/Main",
+          "http://item.gmarket.co.kr/Item?goodscode=3032797984",
           "/assets/images/shops/gmarket.png"
         ],
         "link3": [
-          "https://shopping.naver.com/home",
+          "https://smartstore.naver.com/tncart/products/8784063184",
           "/assets/images/shops/naver.png"
         ],
         "link4": [
-          "http://www.auction.co.kr/",
+          "http://itempage3.auction.co.kr/DetailView.aspx?ItemNo=D443557890&frm3=V2",
           "/assets/images/shops/auction.png"
         ],
         "link5": [
-          "https://www.coupang.com/",
+          "https://www.coupang.com/vp/products/7432408659?isAddedCart=",
           "/assets/images/shops/coupang.png"
         ],
         "link6": [
-          "https://global.11st.co.kr/html/en/main_en.html",
+          "https://www.11st.co.kr/products/5965582214",
           "/assets/images/shops/11st.png"
         ]
       },
@@ -327,58 +352,63 @@
         }
       },
       "size_chart": {
-        "table_title": ["총길이", "총길이", "총길이", "허리둘레"]
+        "table_title": ["Total length", "Shoulder width", "Chest", "Waist"]
       },
-      "look_more": { "title": "더 둘러보기" },
+      "look_more": { "title": "Look around more" },
       "packages": {
-        "title": "패키지 구성"
+        "title": "What’s in the package?",
+        "images": [
+          "/assets/images/nftFile/mainfolder/special0/package/1.jpg",
+          "/assets/images/nftFile/mainfolder/special0/package/2.jpg",
+          "/assets/images/nftFile/mainfolder/special0/package/3.jpg"
+        ]
       },
       "material": {
-        "title": "재원"
+        "title": "Material"
       },
       "material_information": {
-        "title": "패브릭 정보",
+        "title": "Material information",
         "item": [
-          "두께감",
-          "두꺼움",
-          "중간",
-          "얇음",
+          "Weight",
+          "Heavy",
+          "Medium",
+          "Light",
           "",
-          "비침 (화이트)",
-          "높음",
-          "중간",
-          "없음",
+          "Shine(White Only)",
+          "High",
+          "Medium",
+          "Low",
           "",
-          "신축성",
-          "높음",
-          "중간",
-          "없음",
-          "밴딩",
-          "세탁방법",
-          "손세탁",
-          "드라이(클리닝)",
-          "찬물세탁",
-          "단독세탁",
+          "Stretch",
+          "High",
+          "Medium",
+          "Low",
+          "Banding",
+          "Washing instructions",
+          "Handwash",
+          "Drey clean",
+          "Cold wash",
+          "Wash separately",
           "",
-          "건조기 사용불가",
-          "다림질 금지",
-          "세탁망 사용",
-          "건조기 사용불가"
+          "Do not use bleach",
+          "Do not iron",
+          "Laundry net recomended",
+          "Dryer not available"
         ]
       },
       "product_impormation": {
-        "title": "asd",
+        "title": "Product information",
         "item": [
-          "원자제",
-          "일본",
-          "품질 보증기간",
-          "전자상거래법 준수",
-          "원산지",
-          "한국",
-          "색상",
-          "화이트, 블랙",
-          "제조일자",
-          "제공 불가"
+          "Made in Korea",
+          "Japanese fabric",
+          "Quality Guarantee",
+          "Compliant with Korean online commerce law",
+          "Country of Origin",
+          "Korea",
+          "Color",
+          "White, black",
+          "Manufacturing date",
+          "Unable to provide"
         ]
       }
     }
@@ -389,18 +419,20 @@
     "category": "Special",
     "main_image_path": "/assets/images/nftFile/mainfolder/special300/300.png",
     "attributes": {
-      "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
+      "short_description": "Premium Classic Crewneck T-shirt",
       "long_description": [
-        "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
-        " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!"
+        "Looking for art that really stands out?",
+        "You’re in the right place––there’s a group of primates who’d love to meet you. ",
+        "Introducing the Lady Ape Club (LAC) Special NFTs!",
+        "An elite squad of just 10 among LAC’s 10,000 population, the Lady Ape Club Special NFTs are one girl gang you don’t want to miss!"
       ],
       "hero_list": [
-        "Tencel 70%와 면 30% 혼용 원단",
-        "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
-        "단독으로 착용하는 것은 물론이고 이너웨어로도 남녀노소 누구나 멋지게 어우러질 수 있는 다용성",
-        "LAC Nft의 스페셜 작품으로 오로지 소수의 특별한 사람들을 위한 한정판 제품으로 특별함을 추구하는 분들에게 완벽한 선택"
+        "Ultra-limited run Lady Ape Club NFT tee",
+        "Made using high-quality Japanese fabric",
+        "Lightweight blend of 70% Tencel and 30% cotton",
+        "Versatile, unisex design for styling alone or layering."
       ],
-      "list_description": "이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다.",
+      "list_description": "Limited edition Lady Ape NFT crewneck tee. Made in Korea from Japanese fabric. Lightweight Tencel and cotton blend for superior comfort and style. ",
       "galery_image_path": [
         "/assets/images/nftFile/mainfolder/special300/gallery/300.png",
         "/assets/images/nftFile/mainfolder/special300/gallery/blacktwo.png",
@@ -409,25 +441,28 @@
         "/assets/images/nftFile/mainfolder/special300/gallery/4.png"
       ],
       "buy_link": {
-        "link1": ["https://www.amazon.ae/", "/assets/images/shops/amazon.png"],
+        "link1": [
+          "https://www.amazon.com/dp/B0CB5KGF4X?ref=myi_title_dp",
+          "/assets/images/shops/amazon.png"
+        ],
         "link2": [
-          "http://global.gmarket.co.kr/Home/Main",
+          "http://item.gmarket.co.kr/Item?goodscode=3032941593",
           "/assets/images/shops/gmarket.png"
         ],
         "link3": [
-          "https://shopping.naver.com/home",
+          "https://smartstore.naver.com/tncart/products/8784072370",
           "/assets/images/shops/naver.png"
         ],
         "link4": [
-          "http://www.auction.co.kr/",
+          "http://itempage3.auction.co.kr/DetailView.aspx?ItemNo=D443705403&frm3=V2",
           "/assets/images/shops/auction.png"
         ],
         "link5": [
-          "https://www.coupang.com/",
+          "https://www.coupang.com/vp/products/7432407655?isAddedCart=",
           "/assets/images/shops/coupang.png"
         ],
         "link6": [
-          "https://global.11st.co.kr/html/en/main_en.html",
+          "https://www.11st.co.kr/products/5965586976",
           "/assets/images/shops/11st.png"
         ]
       },
@@ -455,58 +490,63 @@
         }
       },
       "size_chart": {
-        "table_title": ["총길이", "총길이", "총길이", "허리둘레"]
+        "table_title": ["Total length", "Shoulder width", "Chest", "Waist"]
       },
-      "look_more": { "title": "더 둘러보기" },
+      "look_more": { "title": "Look around more" },
       "packages": {
-        "title": "패키지 구성"
+        "title": "What’s in the package?",
+        "images": [
+          "/assets/images/nftFile/mainfolder/special0/package/1.jpg",
+          "/assets/images/nftFile/mainfolder/special0/package/2.jpg",
+          "/assets/images/nftFile/mainfolder/special0/package/3.jpg"
+        ]
       },
       "material": {
-        "title": "재원"
+        "title": "Material"
       },
       "material_information": {
-        "title": "패브릭 정보",
+        "title": "Material information",
         "item": [
-          "두께감",
-          "두꺼움",
-          "중간",
-          "얇음",
+          "Weight",
+          "Heavy",
+          "Medium",
+          "Light",
           "",
-          "비침 (화이트)",
-          "높음",
-          "중간",
-          "없음",
+          "Shine(White Only)",
+          "High",
+          "Medium",
+          "Low",
           "",
-          "신축성",
-          "높음",
-          "중간",
-          "없음",
-          "밴딩",
-          "세탁방법",
-          "손세탁",
-          "드라이(클리닝)",
-          "찬물세탁",
-          "단독세탁",
+          "Stretch",
+          "High",
+          "Medium",
+          "Low",
+          "Banding",
+          "Washing instructions",
+          "Handwash",
+          "Drey clean",
+          "Cold wash",
+          "Wash separately",
           "",
-          "건조기 사용불가",
-          "다림질 금지",
-          "세탁망 사용",
-          "건조기 사용불가"
+          "Do not use bleach",
+          "Do not iron",
+          "Laundry net recomended",
+          "Dryer not available"
         ]
       },
       "product_impormation": {
-        "title": "asd",
+        "title": "Product information",
         "item": [
-          "원자제",
-          "일본",
-          "품질 보증기간",
-          "전자상거래법 준수",
-          "원산지",
-          "한국",
-          "색상",
-          "화이트, 블랙",
-          "제조일자",
-          "제공 불가"
+          "Made in Korea",
+          "Japanese fabric",
+          "Quality Guarantee",
+          "Compliant with Korean online commerce law",
+          "Country of Origin",
+          "Korea",
+          "Color",
+          "White, black",
+          "Manufacturing date",
+          "Unable to provide"
         ]
       }
     }
@@ -517,18 +557,20 @@
     "category": "Special",
     "main_image_path": "/assets/images/nftFile/mainfolder/special9994/9994.png",
     "attributes": {
-      "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
+      "short_description": "Premium Classic Crewneck T-shirt",
       "long_description": [
-        "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
-        " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!"
+        "Looking for art that really stands out?",
+        "You’re in the right place––there’s a group of primates who’d love to meet you. ",
+        "Introducing the Lady Ape Club (LAC) Special NFTs!",
+        "An elite squad of just 10 among LAC’s 10,000 population, the Lady Ape Club Special NFTs are one girl gang you don’t want to miss!"
       ],
       "hero_list": [
-        "Tencel 70%와 면 30% 혼용 원단",
-        "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
-        "단독으로 착용하는 것은 물론이고 이너웨어로도 남녀노소 누구나 멋지게 어우러질 수 있는 다용성",
-        "LAC Nft의 스페셜 작품으로 오로지 소수의 특별한 사람들을 위한 한정판 제품으로 특별함을 추구하는 분들에게 완벽한 선택"
+        "Ultra-limited run Lady Ape Club NFT tee",
+        "Made using high-quality Japanese fabric",
+        "Lightweight blend of 70% Tencel and 30% cotton",
+        "Versatile, unisex design for styling alone or layering."
       ],
-      "list_description": "이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다.",
+      "list_description": "Limited edition Lady Ape NFT crewneck tee. Made in Korea from Japanese fabric. Lightweight Tencel and cotton blend for superior comfort and style. ",
       "galery_image_path": [
         "/assets/images/nftFile/mainfolder/special9994/gallery/9994.png",
         "/assets/images/nftFile/mainfolder/special9994/gallery/blacktwo.png",
@@ -537,25 +579,28 @@
         "/assets/images/nftFile/mainfolder/special9994/gallery/4.png"
       ],
       "buy_link": {
-        "link1": ["https://www.amazon.ae/", "/assets/images/shops/amazon.png"],
+        "link1": [
+          "https://www.amazon.com/dp/B0CB5N6S48?ref=myi_title_dp",
+          "/assets/images/shops/amazon.png"
+        ],
         "link2": [
-          "http://global.gmarket.co.kr/Home/Main",
+          "http://item.gmarket.co.kr/Item?goodscode=3032944851",
           "/assets/images/shops/gmarket.png"
         ],
         "link3": [
-          "https://shopping.naver.com/home",
+          "https://smartstore.naver.com/tncart/products/8784084066",
           "/assets/images/shops/naver.png"
         ],
         "link4": [
-          "http://www.auction.co.kr/",
+          "http://itempage3.auction.co.kr/DetailView.aspx?ItemNo=D443708444&frm3=V2",
           "/assets/images/shops/auction.png"
         ],
         "link5": [
-          "https://www.coupang.com/",
+          "https://www.coupang.com/vp/products/7432406609?isAddedCart=",
           "/assets/images/shops/coupang.png"
         ],
         "link6": [
-          "https://global.11st.co.kr/html/en/main_en.html",
+          "https://www.11st.co.kr/products/5965592589",
           "/assets/images/shops/11st.png"
         ]
       },
@@ -583,58 +628,63 @@
         }
       },
       "size_chart": {
-        "table_title": ["총길이", "총길이", "총길이", "허리둘레"]
+        "table_title": ["Total length", "Shoulder width", "Chest", "Waist"]
       },
-      "look_more": { "title": "더 둘러보기" },
+      "look_more": { "title": "Look around more" },
       "packages": {
-        "title": "패키지 구성"
+        "title": "What’s in the package?",
+        "images": [
+          "/assets/images/nftFile/mainfolder/special0/package/1.jpg",
+          "/assets/images/nftFile/mainfolder/special0/package/2.jpg",
+          "/assets/images/nftFile/mainfolder/special0/package/3.jpg"
+        ]
       },
       "material": {
-        "title": "재원"
+        "title": "Material"
       },
       "material_information": {
-        "title": "패브릭 정보",
+        "title": "Material information",
         "item": [
-          "두께감",
-          "두꺼움",
-          "중간",
-          "얇음",
+          "Weight",
+          "Heavy",
+          "Medium",
+          "Light",
           "",
-          "비침 (화이트)",
-          "높음",
-          "중간",
-          "없음",
+          "Shine(White Only)",
+          "High",
+          "Medium",
+          "Low",
           "",
-          "신축성",
-          "높음",
-          "중간",
-          "없음",
-          "밴딩",
-          "세탁방법",
-          "손세탁",
-          "드라이(클리닝)",
-          "찬물세탁",
-          "단독세탁",
+          "Stretch",
+          "High",
+          "Medium",
+          "Low",
+          "Banding",
+          "Washing instructions",
+          "Handwash",
+          "Drey clean",
+          "Cold wash",
+          "Wash separately",
           "",
-          "건조기 사용불가",
-          "다림질 금지",
-          "세탁망 사용",
-          "건조기 사용불가"
+          "Do not use bleach",
+          "Do not iron",
+          "Laundry net recomended",
+          "Dryer not available"
         ]
       },
       "product_impormation": {
-        "title": "asd",
+        "title": "Product information",
         "item": [
-          "원자제",
-          "일본",
-          "품질 보증기간",
-          "전자상거래법 준수",
-          "원산지",
-          "한국",
-          "색상",
-          "화이트, 블랙",
-          "제조일자",
-          "제공 불가"
+          "Made in Korea",
+          "Japanese fabric",
+          "Quality Guarantee",
+          "Compliant with Korean online commerce law",
+          "Country of Origin",
+          "Korea",
+          "Color",
+          "White, black",
+          "Manufacturing date",
+          "Unable to provide"
         ]
       }
     }
@@ -645,18 +695,20 @@
     "category": "Special",
     "main_image_path": "/assets/images/nftFile/mainfolder/special9995/9995.png",
     "attributes": {
-      "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
+      "short_description": "Premium Classic Crewneck T-shirt",
       "long_description": [
-        "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
-        " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!"
+        "Looking for art that really stands out?",
+        "You’re in the right place––there’s a group of primates who’d love to meet you. ",
+        "Introducing the Lady Ape Club (LAC) Special NFTs!",
+        "An elite squad of just 10 among LAC’s 10,000 population, the Lady Ape Club Special NFTs are one girl gang you don’t want to miss!"
       ],
       "hero_list": [
-        "Tencel 70%와 면 30% 혼용 원단",
-        "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
-        "단독으로 착용하는 것은 물론이고 이너웨어로도 남녀노소 누구나 멋지게 어우러질 수 있는 다용성",
-        "LAC Nft의 스페셜 작품으로 오로지 소수의 특별한 사람들을 위한 한정판 제품으로 특별함을 추구하는 분들에게 완벽한 선택"
+        "Ultra-limited run Lady Ape Club NFT tee",
+        "Made using high-quality Japanese fabric",
+        "Lightweight blend of 70% Tencel and 30% cotton",
+        "Versatile, unisex design for styling alone or layering."
       ],
-      "list_description": "이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다.",
+      "list_description": "Limited edition Lady Ape NFT crewneck tee. Made in Korea from Japanese fabric. Lightweight Tencel and cotton blend for superior comfort and style. ",
       "galery_image_path": [
         "/assets/images/nftFile/mainfolder/special9995/gallery/9995.png",
         "/assets/images/nftFile/mainfolder/special9995/gallery/blacktwo.png",
@@ -665,25 +717,28 @@
         "/assets/images/nftFile/mainfolder/special9995/gallery/4.png"
       ],
       "buy_link": {
-        "link1": ["https://www.amazon.ae/", "/assets/images/shops/amazon.png"],
+        "link1": [
+          "https://www.amazon.com/dp/B0CB5P4VJC?ref=myi_title_dp",
+          "/assets/images/shops/amazon.png"
+        ],
         "link2": [
-          "http://global.gmarket.co.kr/Home/Main",
+          "http://item.gmarket.co.kr/Item?goodscode=3032948834",
           "/assets/images/shops/gmarket.png"
         ],
         "link3": [
-          "https://shopping.naver.com/home",
+          "https://smartstore.naver.com/tncart/products/8784094571",
           "/assets/images/shops/naver.png"
         ],
         "link4": [
-          "http://www.auction.co.kr/",
+          "http://itempage3.auction.co.kr/DetailView.aspx?ItemNo=D443712300&frm3=V2",
           "/assets/images/shops/auction.png"
         ],
         "link5": [
-          "https://www.coupang.com/",
+          "https://www.coupang.com/vp/products/7432405565?isAddedCart=",
           "/assets/images/shops/coupang.png"
         ],
         "link6": [
-          "https://global.11st.co.kr/html/en/main_en.html",
+          "https://www.11st.co.kr/products/5965596283",
           "/assets/images/shops/11st.png"
         ]
       },
@@ -711,58 +766,63 @@
         }
       },
       "size_chart": {
-        "table_title": ["총길이", "총길이", "총길이", "허리둘레"]
+        "table_title": ["Total length", "Shoulder width", "Chest", "Waist"]
       },
-      "look_more": { "title": "더 둘러보기" },
+      "look_more": { "title": "Look around more" },
       "packages": {
-        "title": "패키지 구성"
+        "title": "What’s in the package?",
+        "images": [
+          "/assets/images/nftFile/mainfolder/special0/package/1.jpg",
+          "/assets/images/nftFile/mainfolder/special0/package/2.jpg",
+          "/assets/images/nftFile/mainfolder/special0/package/3.jpg"
+        ]
       },
       "material": {
-        "title": "재원"
+        "title": "Material"
       },
       "material_information": {
-        "title": "패브릭 정보",
+        "title": "Material information",
         "item": [
-          "두께감",
-          "두꺼움",
-          "중간",
-          "얇음",
+          "Weight",
+          "Heavy",
+          "Medium",
+          "Light",
           "",
-          "비침 (화이트)",
-          "높음",
-          "중간",
-          "없음",
+          "Shine(White Only)",
+          "High",
+          "Medium",
+          "Low",
           "",
-          "신축성",
-          "높음",
-          "중간",
-          "없음",
-          "밴딩",
-          "세탁방법",
-          "손세탁",
-          "드라이(클리닝)",
-          "찬물세탁",
-          "단독세탁",
+          "Stretch",
+          "High",
+          "Medium",
+          "Low",
+          "Banding",
+          "Washing instructions",
+          "Handwash",
+          "Drey clean",
+          "Cold wash",
+          "Wash separately",
           "",
-          "건조기 사용불가",
-          "다림질 금지",
-          "세탁망 사용",
-          "건조기 사용불가"
+          "Do not use bleach",
+          "Do not iron",
+          "Laundry net recomended",
+          "Dryer not available"
         ]
       },
       "product_impormation": {
-        "title": "asd",
+        "title": "Product information",
         "item": [
-          "원자제",
-          "일본",
-          "품질 보증기간",
-          "전자상거래법 준수",
-          "원산지",
-          "한국",
-          "색상",
-          "화이트, 블랙",
-          "제조일자",
-          "제공 불가"
+          "Made in Korea",
+          "Japanese fabric",
+          "Quality Guarantee",
+          "Compliant with Korean online commerce law",
+          "Country of Origin",
+          "Korea",
+          "Color",
+          "White, black",
+          "Manufacturing date",
+          "Unable to provide"
         ]
       }
     }
@@ -773,18 +833,20 @@
     "category": "Special",
     "main_image_path": "/assets/images/nftFile/mainfolder/special9996/9996.png",
     "attributes": {
-      "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
+      "short_description": "Premium Classic Crewneck T-shirt",
       "long_description": [
-        "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
-        " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!"
+        "Looking for art that really stands out?",
+        "You’re in the right place––there’s a group of primates who’d love to meet you. ",
+        "Introducing the Lady Ape Club (LAC) Special NFTs!",
+        "An elite squad of just 10 among LAC’s 10,000 population, the Lady Ape Club Special NFTs are one girl gang you don’t want to miss!"
       ],
       "hero_list": [
-        "Tencel 70%와 면 30% 혼용 원단",
-        "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
-        "단독으로 착용하는 것은 물론이고 이너웨어로도 남녀노소 누구나 멋지게 어우러질 수 있는 다용성",
-        "LAC Nft의 스페셜 작품으로 오로지 소수의 특별한 사람들을 위한 한정판 제품으로 특별함을 추구하는 분들에게 완벽한 선택"
+        "Ultra-limited run Lady Ape Club NFT tee",
+        "Made using high-quality Japanese fabric",
+        "Lightweight blend of 70% Tencel and 30% cotton",
+        "Versatile, unisex design for styling alone or layering."
       ],
-      "list_description": "이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다.",
+      "list_description": "Limited edition Lady Ape NFT crewneck tee. Made in Korea from Japanese fabric. Lightweight Tencel and cotton blend for superior comfort and style. ",
       "galery_image_path": [
         "/assets/images/nftFile/mainfolder/special9996/gallery/9996.png",
         "/assets/images/nftFile/mainfolder/special9996/gallery/blacktwo.png",
@@ -793,25 +855,28 @@
         "/assets/images/nftFile/mainfolder/special9996/gallery/4.png"
       ],
       "buy_link": {
-        "link1": ["https://www.amazon.ae/", "/assets/images/shops/amazon.png"],
+        "link1": [
+          "https://www.amazon.com/dp/B0CB5QHS58?ref=myi_title_dp",
+          "/assets/images/shops/amazon.png"
+        ],
         "link2": [
-          "http://global.gmarket.co.kr/Home/Main",
+          "http://item.gmarket.co.kr/Item?goodscode=3032951445",
           "/assets/images/shops/gmarket.png"
         ],
         "link3": [
-          "https://shopping.naver.com/home",
+          "https://smartstore.naver.com/tncart/products/8784104655",
           "/assets/images/shops/naver.png"
         ],
         "link4": [
-          "http://www.auction.co.kr/",
+          "http://itempage3.auction.co.kr/DetailView.aspx?ItemNo=D443714660&frm3=V2",
           "/assets/images/shops/auction.png"
         ],
         "link5": [
-          "https://www.coupang.com/",
+          "https://www.coupang.com/vp/products/7432401176?isAddedCart=",
           "/assets/images/shops/coupang.png"
         ],
         "link6": [
-          "https://global.11st.co.kr/html/en/main_en.html",
+          "https://www.11st.co.kr/products/5965600631",
           "/assets/images/shops/11st.png"
         ]
       },
@@ -839,58 +904,63 @@
         }
       },
       "size_chart": {
-        "table_title": ["총길이", "총길이", "총길이", "허리둘레"]
+        "table_title": ["Total length", "Shoulder width", "Chest", "Waist"]
       },
-      "look_more": { "title": "더 둘러보기" },
+      "look_more": { "title": "Look around more" },
       "packages": {
-        "title": "패키지 구성"
+        "title": "What’s in the package?",
+        "images": [
+          "/assets/images/nftFile/mainfolder/special0/package/1.jpg",
+          "/assets/images/nftFile/mainfolder/special0/package/2.jpg",
+          "/assets/images/nftFile/mainfolder/special0/package/3.jpg"
+        ]
       },
       "material": {
-        "title": "재원"
+        "title": "Material"
       },
       "material_information": {
-        "title": "패브릭 정보",
+        "title": "Material information",
         "item": [
-          "두께감",
-          "두꺼움",
-          "중간",
-          "얇음",
+          "Weight",
+          "Heavy",
+          "Medium",
+          "Light",
           "",
-          "비침 (화이트)",
-          "높음",
-          "중간",
-          "없음",
+          "Shine(White Only)",
+          "High",
+          "Medium",
+          "Low",
           "",
-          "신축성",
-          "높음",
-          "중간",
-          "없음",
-          "밴딩",
-          "세탁방법",
-          "손세탁",
-          "드라이(클리닝)",
-          "찬물세탁",
-          "단독세탁",
+          "Stretch",
+          "High",
+          "Medium",
+          "Low",
+          "Banding",
+          "Washing instructions",
+          "Handwash",
+          "Drey clean",
+          "Cold wash",
+          "Wash separately",
           "",
-          "건조기 사용불가",
-          "다림질 금지",
-          "세탁망 사용",
-          "건조기 사용불가"
+          "Do not use bleach",
+          "Do not iron",
+          "Laundry net recomended",
+          "Dryer not available"
         ]
       },
       "product_impormation": {
-        "title": "asd",
+        "title": "Product information",
         "item": [
-          "원자제",
-          "일본",
-          "품질 보증기간",
-          "전자상거래법 준수",
-          "원산지",
-          "한국",
-          "색상",
-          "화이트, 블랙",
-          "제조일자",
-          "제공 불가"
+          "Made in Korea",
+          "Japanese fabric",
+          "Quality Guarantee",
+          "Compliant with Korean online commerce law",
+          "Country of Origin",
+          "Korea",
+          "Color",
+          "White, black",
+          "Manufacturing date",
+          "Unable to provide"
         ]
       }
     }
@@ -901,18 +971,20 @@
     "category": "Special",
     "main_image_path": "/assets/images/nftFile/mainfolder/special9997/9997.png",
     "attributes": {
-      "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
+      "short_description": "Premium Classic Crewneck T-shirt",
       "long_description": [
-        "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
-        " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!"
+        "Looking for art that really stands out?",
+        "You’re in the right place––there’s a group of primates who’d love to meet you. ",
+        "Introducing the Lady Ape Club (LAC) Special NFTs!",
+        "An elite squad of just 10 among LAC’s 10,000 population, the Lady Ape Club Special NFTs are one girl gang you don’t want to miss!"
       ],
       "hero_list": [
-        "Tencel 70%와 면 30% 혼용 원단",
-        "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
-        "단독으로 착용하는 것은 물론이고 이너웨어로도 남녀노소 누구나 멋지게 어우러질 수 있는 다용성",
-        "LAC Nft의 스페셜 작품으로 오로지 소수의 특별한 사람들을 위한 한정판 제품으로 특별함을 추구하는 분들에게 완벽한 선택"
+        "Ultra-limited run Lady Ape Club NFT tee",
+        "Made using high-quality Japanese fabric",
+        "Lightweight blend of 70% Tencel and 30% cotton",
+        "Versatile, unisex design for styling alone or layering."
       ],
-      "list_description": "이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다.",
+      "list_description": "Limited edition Lady Ape NFT crewneck tee. Made in Korea from Japanese fabric. Lightweight Tencel and cotton blend for superior comfort and style. ",
       "galery_image_path": [
         "/assets/images/nftFile/mainfolder/special9997/gallery/9997.png",
         "/assets/images/nftFile/mainfolder/special9997/gallery/blacktwo.png",
@@ -921,25 +993,28 @@
         "/assets/images/nftFile/mainfolder/special9997/gallery/4.png"
       ],
       "buy_link": {
-        "link1": ["https://www.amazon.ae/", "/assets/images/shops/amazon.png"],
+        "link1": [
+          "https://www.amazon.com/dp/B0CB5Q87DR?ref=myi_title_dp",
+          "/assets/images/shops/amazon.png"
+        ],
         "link2": [
-          "http://global.gmarket.co.kr/Home/Main",
+          "http://item.gmarket.co.kr/Item?goodscode=3032954063",
           "/assets/images/shops/gmarket.png"
         ],
         "link3": [
-          "https://shopping.naver.com/home",
+          "https://smartstore.naver.com/tncart/products/8784113578",
           "/assets/images/shops/naver.png"
         ],
         "link4": [
-          "http://www.auction.co.kr/",
+          "http://itempage3.auction.co.kr/DetailView.aspx?ItemNo=D443717294&frm3=V2",
           "/assets/images/shops/auction.png"
         ],
         "link5": [
-          "https://www.coupang.com/",
+          "https://www.coupang.com/vp/products/7432399340?isAddedCart=",
           "/assets/images/shops/coupang.png"
         ],
         "link6": [
-          "https://global.11st.co.kr/html/en/main_en.html",
+          "https://www.11st.co.kr/products/5965603052",
           "/assets/images/shops/11st.png"
         ]
       },
@@ -967,58 +1042,63 @@
         }
       },
       "size_chart": {
-        "table_title": ["총길이", "총길이", "총길이", "허리둘레"]
+        "table_title": ["Total length", "Shoulder width", "Chest", "Waist"]
       },
-      "look_more": { "title": "더 둘러보기" },
+      "look_more": { "title": "Look around more" },
       "packages": {
-        "title": "패키지 구성"
+        "title": "What’s in the package?",
+        "images": [
+          "/assets/images/nftFile/mainfolder/special0/package/1.jpg",
+          "/assets/images/nftFile/mainfolder/special0/package/2.jpg",
+          "/assets/images/nftFile/mainfolder/special0/package/3.jpg"
+        ]
       },
       "material": {
-        "title": "재원"
+        "title": "Material"
       },
       "material_information": {
-        "title": "패브릭 정보",
+        "title": "Material information",
         "item": [
-          "두께감",
-          "두꺼움",
-          "중간",
-          "얇음",
+          "Weight",
+          "Heavy",
+          "Medium",
+          "Light",
           "",
-          "비침 (화이트)",
-          "높음",
-          "중간",
-          "없음",
+          "Shine(White Only)",
+          "High",
+          "Medium",
+          "Low",
           "",
-          "신축성",
-          "높음",
-          "중간",
-          "없음",
-          "밴딩",
-          "세탁방법",
-          "손세탁",
-          "드라이(클리닝)",
-          "찬물세탁",
-          "단독세탁",
+          "Stretch",
+          "High",
+          "Medium",
+          "Low",
+          "Banding",
+          "Washing instructions",
+          "Handwash",
+          "Drey clean",
+          "Cold wash",
+          "Wash separately",
           "",
-          "건조기 사용불가",
-          "다림질 금지",
-          "세탁망 사용",
-          "건조기 사용불가"
+          "Do not use bleach",
+          "Do not iron",
+          "Laundry net recomended",
+          "Dryer not available"
         ]
       },
       "product_impormation": {
-        "title": "asd",
+        "title": "Product information",
         "item": [
-          "원자제",
-          "일본",
-          "품질 보증기간",
-          "전자상거래법 준수",
-          "원산지",
-          "한국",
-          "색상",
-          "화이트, 블랙",
-          "제조일자",
-          "제공 불가"
+          "Made in Korea",
+          "Japanese fabric",
+          "Quality Guarantee",
+          "Compliant with Korean online commerce law",
+          "Country of Origin",
+          "Korea",
+          "Color",
+          "White, black",
+          "Manufacturing date",
+          "Unable to provide"
         ]
       }
     }
@@ -1029,18 +1109,20 @@
     "category": "Special",
     "main_image_path": "/assets/images/nftFile/mainfolder/special9998/9998.png",
     "attributes": {
-      "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
+      "short_description": "Premium Classic Crewneck T-shirt",
       "long_description": [
-        "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
-        " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!"
+        "Looking for art that really stands out?",
+        "You’re in the right place––there’s a group of primates who’d love to meet you. ",
+        "Introducing the Lady Ape Club (LAC) Special NFTs!",
+        "An elite squad of just 10 among LAC’s 10,000 population, the Lady Ape Club Special NFTs are one girl gang you don’t want to miss!"
       ],
       "hero_list": [
-        "Tencel 70%와 면 30% 혼용 원단",
-        "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
-        "단독으로 착용하는 것은 물론이고 이너웨어로도 남녀노소 누구나 멋지게 어우러질 수 있는 다용성",
-        "LAC Nft의 스페셜 작품으로 오로지 소수의 특별한 사람들을 위한 한정판 제품으로 특별함을 추구하는 분들에게 완벽한 선택"
+        "Ultra-limited run Lady Ape Club NFT tee",
+        "Made using high-quality Japanese fabric",
+        "Lightweight blend of 70% Tencel and 30% cotton",
+        "Versatile, unisex design for styling alone or layering."
       ],
-      "list_description": "이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다.",
+      "list_description": "Limited edition Lady Ape NFT crewneck tee. Made in Korea from Japanese fabric. Lightweight Tencel and cotton blend for superior comfort and style. ",
       "galery_image_path": [
         "/assets/images/nftFile/mainfolder/special9998/gallery/9998.png",
         "/assets/images/nftFile/mainfolder/special9998/gallery/blacktwo.png",
@@ -1049,25 +1131,28 @@
         "/assets/images/nftFile/mainfolder/special9998/gallery/4.png"
       ],
       "buy_link": {
-        "link1": ["https://www.amazon.ae/", "/assets/images/shops/amazon.png"],
+        "link1": [
+          "https://www.amazon.com/dp/B0CB5RFVQ1?ref=myi_title_dp",
+          "/assets/images/shops/amazon.png"
+        ],
         "link2": [
-          "http://global.gmarket.co.kr/Home/Main",
+          "http://item.gmarket.co.kr/Item?goodscode=3032956467",
           "/assets/images/shops/gmarket.png"
         ],
         "link3": [
-          "https://shopping.naver.com/home",
+          "https://smartstore.naver.com/tncart/products/8784122707",
           "/assets/images/shops/naver.png"
         ],
         "link4": [
-          "http://www.auction.co.kr/",
+          "http://itempage3.auction.co.kr/DetailView.aspx?ItemNo=D443719800&frm3=V2",
           "/assets/images/shops/auction.png"
         ],
         "link5": [
-          "https://www.coupang.com/",
+          "https://www.coupang.com/vp/products/7432397725?isAddedCart=",
           "/assets/images/shops/coupang.png"
         ],
         "link6": [
-          "https://global.11st.co.kr/html/en/main_en.html",
+          "https://www.11st.co.kr/products/5965605588",
           "/assets/images/shops/11st.png"
         ]
       },
@@ -1095,58 +1180,63 @@
         }
       },
       "size_chart": {
-        "table_title": ["총길이", "총길이", "총길이", "허리둘레"]
+        "table_title": ["Total length", "Shoulder width", "Chest", "Waist"]
       },
-      "look_more": { "title": "더 둘러보기" },
+      "look_more": { "title": "Look around more" },
       "packages": {
-        "title": "패키지 구성"
+        "title": "What’s in the package?",
+        "images": [
+          "/assets/images/nftFile/mainfolder/special0/package/1.jpg",
+          "/assets/images/nftFile/mainfolder/special0/package/2.jpg",
+          "/assets/images/nftFile/mainfolder/special0/package/3.jpg"
+        ]
       },
       "material": {
-        "title": "재원"
+        "title": "Material"
       },
       "material_information": {
-        "title": "패브릭 정보",
+        "title": "Material information",
         "item": [
-          "두께감",
-          "두꺼움",
-          "중간",
-          "얇음",
+          "Weight",
+          "Heavy",
+          "Medium",
+          "Light",
           "",
-          "비침 (화이트)",
-          "높음",
-          "중간",
-          "없음",
+          "Shine(White Only)",
+          "High",
+          "Medium",
+          "Low",
           "",
-          "신축성",
-          "높음",
-          "중간",
-          "없음",
-          "밴딩",
-          "세탁방법",
-          "손세탁",
-          "드라이(클리닝)",
-          "찬물세탁",
-          "단독세탁",
+          "Stretch",
+          "High",
+          "Medium",
+          "Low",
+          "Banding",
+          "Washing instructions",
+          "Handwash",
+          "Drey clean",
+          "Cold wash",
+          "Wash separately",
           "",
-          "건조기 사용불가",
-          "다림질 금지",
-          "세탁망 사용",
-          "건조기 사용불가"
+          "Do not use bleach",
+          "Do not iron",
+          "Laundry net recomended",
+          "Dryer not available"
         ]
       },
       "product_impormation": {
-        "title": "asd",
+        "title": "Product information",
         "item": [
-          "원자제",
-          "일본",
-          "품질 보증기간",
-          "전자상거래법 준수",
-          "원산지",
-          "한국",
-          "색상",
-          "화이트, 블랙",
-          "제조일자",
-          "제공 불가"
+          "Made in Korea",
+          "Japanese fabric",
+          "Quality Guarantee",
+          "Compliant with Korean online commerce law",
+          "Country of Origin",
+          "Korea",
+          "Color",
+          "White, black",
+          "Manufacturing date",
+          "Unable to provide"
         ]
       }
     }
@@ -1157,18 +1247,20 @@
     "category": "Special",
     "main_image_path": "/assets/images/nftFile/mainfolder/special9999/9999.png",
     "attributes": {
-      "short_description": "섬세하게 더해진 클래식한 크루넥 디자인 T",
+      "short_description": "Premium Classic Crewneck T-shirt",
       "long_description": [
-        "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
-        " 1만 명의 레이디 에이프 클럽 중 10명밖에 되지 않는 특별하고 멋진 여성들을 만나보세요!"
+        "Looking for art that really stands out?",
+        "You’re in the right place––there’s a group of primates who’d love to meet you. ",
+        "Introducing the Lady Ape Club (LAC) Special NFTs!",
+        "An elite squad of just 10 among LAC’s 10,000 population, the Lady Ape Club Special NFTs are one girl gang you don’t want to miss!"
       ],
       "hero_list": [
-        "Tencel 70%와 면 30% 혼용 원단",
-        "일본에서 세심한 솜씨로 만들어진 최고급 품질의 원단으로 감각적으로 얇고 가벼운 특성",
-        "단독으로 착용하는 것은 물론이고 이너웨어로도 남녀노소 누구나 멋지게 어우러질 수 있는 다용성",
-        "LAC Nft의 스페셜 작품으로 오로지 소수의 특별한 사람들을 위한 한정판 제품으로 특별함을 추구하는 분들에게 완벽한 선택"
+        "Ultra-limited run Lady Ape Club NFT tee",
+        "Made using high-quality Japanese fabric",
+        "Lightweight blend of 70% Tencel and 30% cotton",
+        "Versatile, unisex design for styling alone or layering."
       ],
-      "list_description": "이 티셔츠는 높은 품질의 원단과 섬세한 디자인으로 제작되어 탁월한 착용 경험과 편안한 스타일을 선사합니다.",
+      "list_description": "Limited edition Lady Ape NFT crewneck tee. Made in Korea from Japanese fabric. Lightweight Tencel and cotton blend for superior comfort and style. ",
       "galery_image_path": [
         "/assets/images/nftFile/mainfolder/special9999/gallery/9999.png",
         "/assets/images/nftFile/mainfolder/special9999/gallery/blacktwo.png",
@@ -1177,25 +1269,28 @@
         "/assets/images/nftFile/mainfolder/special9999/gallery/4.png"
       ],
       "buy_link": {
-        "link1": ["https://www.amazon.ae/", "/assets/images/shops/amazon.png"],
+        "link1": [
+          "https://www.amazon.com/dp/B0CB5R7MPP?ref=myi_title_dp",
+          "/assets/images/shops/amazon.png"
+        ],
         "link2": [
-          "http://global.gmarket.co.kr/Home/Main",
+          "http://item.gmarket.co.kr/Item?goodscode=3032959111",
           "/assets/images/shops/gmarket.png"
         ],
         "link3": [
-          "https://shopping.naver.com/home",
+          "https://smartstore.naver.com/tncart/products/8784131624",
           "/assets/images/shops/naver.png"
         ],
         "link4": [
-          "http://www.auction.co.kr/",
+          "http://itempage3.auction.co.kr/DetailView.aspx?ItemNo=D443722264&frm3=V2",
           "/assets/images/shops/auction.png"
         ],
         "link5": [
-          "https://www.coupang.com/",
+          "https://www.coupang.com/vp/products/7432397324?isAddedCart=",
           "/assets/images/shops/coupang.png"
         ],
         "link6": [
-          "https://global.11st.co.kr/html/en/main_en.html",
+          "https://www.11st.co.kr/products/5965609355",
           "/assets/images/shops/11st.png"
         ]
       },
@@ -1223,58 +1318,63 @@
         }
       },
       "size_chart": {
-        "table_title": ["총길이", "총길이", "총길이", "허리둘레"]
+        "table_title": ["Total length", "Shoulder width", "Chest", "Waist"]
       },
-      "look_more": { "title": "더 둘러보기" },
+      "look_more": { "title": "Look around more" },
       "packages": {
-        "title": "패키지 구성"
+        "title": "What’s in the package?",
+        "images": [
+          "/assets/images/nftFile/mainfolder/special0/package/1.jpg",
+          "/assets/images/nftFile/mainfolder/special0/package/2.jpg",
+          "/assets/images/nftFile/mainfolder/special0/package/3.jpg"
+        ]
       },
       "material": {
-        "title": "재원"
+        "title": "Material"
       },
       "material_information": {
-        "title": "패브릭 정보",
+        "title": "Material information",
         "item": [
-          "두께감",
-          "두꺼움",
-          "중간",
-          "얇음",
+          "Weight",
+          "Heavy",
+          "Medium",
+          "Light",
           "",
-          "비침 (화이트)",
-          "높음",
-          "중간",
-          "없음",
+          "Shine(White Only)",
+          "High",
+          "Medium",
+          "Low",
           "",
-          "신축성",
-          "높음",
-          "중간",
-          "없음",
-          "밴딩",
-          "세탁방법",
-          "손세탁",
-          "드라이(클리닝)",
-          "찬물세탁",
-          "단독세탁",
+          "Stretch",
+          "High",
+          "Medium",
+          "Low",
+          "Banding",
+          "Washing instructions",
+          "Handwash",
+          "Drey clean",
+          "Cold wash",
+          "Wash separately",
           "",
-          "건조기 사용불가",
-          "다림질 금지",
-          "세탁망 사용",
-          "건조기 사용불가"
+          "Do not use bleach",
+          "Do not iron",
+          "Laundry net recomended",
+          "Dryer not available"
         ]
       },
       "product_impormation": {
         "title": "제품 상세 정보",
         "item": [
-          "원자제",
-          "일본",
-          "품질 보증기간",
-          "전자상거래법 준수",
-          "원산지",
-          "한국",
-          "색상",
-          "화이트, 블랙",
-          "제조일자",
-          "제공 불가"
+          "Made in Korea",
+          "Japanese fabric",
+          "Quality Guarantee",
+          "Compliant with Korean online commerce law",
+          "Country of Origin",
+          "Korea",
+          "Color",
+          "White, black",
+          "Manufacturing date",
+          "Unable to provide"
         ]
       }
     }

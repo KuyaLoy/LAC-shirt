@@ -1,0 +1,10 @@
+export { default as f1 } from "./1.json";
+export { default as f2 } from "./2.json";
+export { default as f3 } from "./3.json";
+export { default as f4 } from "./4.json";
+export { default as f5 } from "./5.json";
+export { default as f6 } from "./6.json";
+export { default as f7 } from "./7.json";
+export { default as f8 } from "./8.json";
+export { default as f9 } from "./9.json";
+export { default as f10 } from "./10.json";

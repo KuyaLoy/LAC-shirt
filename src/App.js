@@ -4,9 +4,9 @@ import Header from "./components/organisms/Header/Header";
 import ListingPage from "./components/templates/ListingPage/ListingPage";
 import ListDetailPage from "./components/templates/ListDetailPage/ListDetailPage";
 
-import enTranslations from "./assets/translations/en.json";
-import koTranslations from "./assets/translations/ko.json";
-import jpTranslations from "./assets/translations/jp.json";
+import enTranslations from "./assets/translations/en";
+import koTranslations from "./assets/translations/ko";
+import jpTranslations from "./assets/translations/jp";
 
 import "./App.css";
 

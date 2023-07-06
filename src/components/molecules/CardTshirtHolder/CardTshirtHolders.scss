@@ -1,0 +1,35 @@
+@use "../../../styles/utils" as u;
+
+.frameWrapper {
+  color: white;
+  width: 17.7%;
+  cursor: pointer;
+  text-decoration: none;
+
+  @media (max-width: 1024px) {
+    width: 21%;
+  }
+  @include u.breakpoint-max(large) {
+    width: 30%;
+  }
+
+  @include u.breakpoint-max(small) {
+    width: 45%;
+  }
+  .frame {
+    padding: u.rem(10) u.rem(10) u.rem(10) u.rem(10);
+    border: solid 1px white;
+    img {
+      width: 100%;
+    }
+    .testClass {
+      border: solid red;
+      padding: 48px 0;
+    }
+    h2 {
+      text-align: center;
+      font-size: u.rem(25);
+      font-family: "Gilroy-SemiBold";
+    }
+  }
+}
