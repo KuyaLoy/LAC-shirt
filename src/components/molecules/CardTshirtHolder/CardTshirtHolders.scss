@@ -30,6 +30,60 @@
       text-align: center;
       font-size: u.rem(25);
       font-family: "Gilroy-SemiBold";
+
+      @include u.breakpoint-max(medium) {
+        font-size: u.rem(22);
+      }
+      @include u.breakpoint-max(small) {
+        font-size: u.rem(18);
+      }
+    }
+  }
+  .ColorBox {
+    display: flex;
+    margin-top: u.rem(15);
+    span {
+      display: block;
+      width: u.rem(28);
+      height: u.rem(28);
+      margin-right: u.rem(10);
+      border: 1px solid white;
+
+      &:first-child {
+        background-color: white;
+      }
+      &:last-child {
+        background-color: black;
+      }
+    }
+  }
+  .Price {
+    font-size: u.rem(25);
+    font-family: "Gilroy-Regular";
+    margin-top: u.rem(10);
+
+    @include u.breakpoint-max(medium) {
+      font-size: u.rem(22);
+    }
+    @include u.breakpoint-max(small) {
+      font-size: u.rem(18);
+    }
+  }
+  .Sizes {
+    p {
+      font-size: u.rem(24);
+      font-family: "Gilroy-Light";
+      margin-top: u.rem(5);
+      display: inline-block;
+      margin-right: u.rem(5);
+      color: #a19fa6;
+
+      @include u.breakpoint-max(medium) {
+        font-size: u.rem(20);
+      }
+      @include u.breakpoint-max(small) {
+        font-size: u.rem(16);
+      }
     }
   }
 }

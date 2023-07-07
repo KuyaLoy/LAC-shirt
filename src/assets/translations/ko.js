@@ -1,14 +1,3 @@
-import f1 from "../json/lottie/nft/1.json";
-import f2 from "../json/lottie/nft/2.json";
-import f3 from "../json/lottie/nft/3.json";
-import f4 from "../json/lottie/nft/4.json";
-import f5 from "../json/lottie/nft/5.json";
-import f6 from "../json/lottie/nft/6.json";
-import f7 from "../json/lottie/nft/7.json";
-import f8 from "../json/lottie/nft/8.json";
-import f9 from "../json/lottie/nft/9.json";
-import f10 from "../json/lottie/nft/10.json";
-
 let ko = [
   {
     id: 1,
@@ -17,8 +6,16 @@ let ko = [
     price: "$385",
     main_image_path: "/assets/images/nftFile/mainfolder/special0/0.png",
     frame_path: "/assets/images/nftFile/mainfolder/special0/f0.png",
-    frame_lottie: f1,
+    frame_gif: "/assets/Lottie/nft/0.gif",
     attributes: {
+      lac_home: {
+        tab: ["LAC Special", "MyCustom"],
+        title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
+        description:
+          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+        price: "$98",
+        button_text: "커스터마이징",
+      },
       short_description: "섬세하게 더해진 클래식한 크루넥 디자인 T",
       long_description: [
         "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
@@ -157,8 +154,16 @@ let ko = [
     price: "$385",
     main_image_path: "/assets/images/nftFile/mainfolder/special100/100.png",
     frame_path: "/assets/images/nftFile/mainfolder/special100/f100.png",
-    frame_lottie: f2,
+    frame_gif: "/assets/Lottie/nft/100.gif",
     attributes: {
+      lac_home: {
+        tab: ["LAC Special", "MyCustom"],
+        title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
+        description:
+          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+        price: "$98",
+        button_text: "커스터마이징",
+      },
       short_description: "섬세하게 더해진 클래식한 크루넥 디자인 T",
       long_description: [
         "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
@@ -297,8 +302,16 @@ let ko = [
     price: "$385",
     main_image_path: "/assets/images/nftFile/mainfolder/special200/200.png",
     frame_path: "/assets/images/nftFile/mainfolder/special200/f200.png",
-    frame_lottie: f3,
+    frame_gif: "/assets/Lottie/nft/200.gif",
     attributes: {
+      lac_home: {
+        tab: ["LAC Special", "MyCustom"],
+        title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
+        description:
+          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+        price: "$98",
+        button_text: "커스터마이징",
+      },
       short_description: "섬세하게 더해진 클래식한 크루넥 디자인 T",
       long_description: [
         "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
@@ -437,8 +450,16 @@ let ko = [
     price: "$385",
     main_image_path: "/assets/images/nftFile/mainfolder/special300/300.png",
     frame_path: "/assets/images/nftFile/mainfolder/special300/f300.png",
-    frame_lottie: f4,
+    frame_gif: "/assets/Lottie/nft/300.gif",
     attributes: {
+      lac_home: {
+        tab: ["LAC Special", "MyCustom"],
+        title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
+        description:
+          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+        price: "$98",
+        button_text: "커스터마이징",
+      },
       short_description: "섬세하게 더해진 클래식한 크루넥 디자인 T",
       long_description: [
         "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
@@ -577,8 +598,16 @@ let ko = [
     price: "$385",
     main_image_path: "/assets/images/nftFile/mainfolder/special9994/9994.png",
     frame_path: "/assets/images/nftFile/mainfolder/special9994/f9994.png",
-    frame_lottie: f5,
+    frame_gif: "/assets/Lottie/nft/9994.gif",
     attributes: {
+      lac_home: {
+        tab: ["LAC Special", "MyCustom"],
+        title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
+        description:
+          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+        price: "$98",
+        button_text: "커스터마이징",
+      },
       short_description: "섬세하게 더해진 클래식한 크루넥 디자인 T",
       long_description: [
         "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
@@ -717,8 +746,16 @@ let ko = [
     price: "$385",
     main_image_path: "/assets/images/nftFile/mainfolder/special9995/9995.png",
     frame_path: "/assets/images/nftFile/mainfolder/special9995/f9995.png",
-    frame_lottie: f6,
+    frame_gif: "/assets/Lottie/nft/9995.gif",
     attributes: {
+      lac_home: {
+        tab: ["LAC Special", "MyCustom"],
+        title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
+        description:
+          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+        price: "$98",
+        button_text: "커스터마이징",
+      },
       short_description: "섬세하게 더해진 클래식한 크루넥 디자인 T",
       long_description: [
         "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
@@ -857,8 +894,16 @@ let ko = [
     price: "$385",
     main_image_path: "/assets/images/nftFile/mainfolder/special9996/9996.png",
     frame_path: "/assets/images/nftFile/mainfolder/special9996/f9996.png",
-    frame_lottie: f7,
+    frame_gif: "/assets/Lottie/nft/9996.gif",
     attributes: {
+      lac_home: {
+        tab: ["LAC Special", "MyCustom"],
+        title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
+        description:
+          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+        price: "$98",
+        button_text: "커스터마이징",
+      },
       short_description: "섬세하게 더해진 클래식한 크루넥 디자인 T",
       long_description: [
         "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
@@ -997,8 +1042,16 @@ let ko = [
     price: "$385",
     main_image_path: "/assets/images/nftFile/mainfolder/special9997/9997.png",
     frame_path: "/assets/images/nftFile/mainfolder/special9997/f9997.png",
-    frame_lottie: f8,
+    frame_gif: "/assets/Lottie/nft/9997.gif",
     attributes: {
+      lac_home: {
+        tab: ["LAC Special", "MyCustom"],
+        title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
+        description:
+          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+        price: "$98",
+        button_text: "커스터마이징",
+      },
       short_description: "섬세하게 더해진 클래식한 크루넥 디자인 T",
       long_description: [
         "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
@@ -1137,8 +1190,16 @@ let ko = [
     price: "$385",
     main_image_path: "/assets/images/nftFile/mainfolder/special9998/9998.png",
     frame_path: "/assets/images/nftFile/mainfolder/special9998/f9998.png",
-    frame_lottie: f9,
+    frame_gif: "/assets/Lottie/nft/9998.gif",
     attributes: {
+      lac_home: {
+        tab: ["LAC Special", "MyCustom"],
+        title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
+        description:
+          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+        price: "$98",
+        button_text: "커스터마이징",
+      },
       short_description: "섬세하게 더해진 클래식한 크루넥 디자인 T",
       long_description: [
         "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
@@ -1277,8 +1338,16 @@ let ko = [
     price: "$385",
     main_image_path: "/assets/images/nftFile/mainfolder/special9999/9999.png",
     frame_path: "/assets/images/nftFile/mainfolder/special9999/f9999.png",
-    frame_lottie: f10,
+    frame_gif: "/assets/Lottie/nft/9999.gif",
     attributes: {
+      lac_home: {
+        tab: ["LAC Special", "MyCustom"],
+        title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
+        description:
+          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+        price: "$98",
+        button_text: "커스터마이징",
+      },
       short_description: "섬세하게 더해진 클래식한 크루넥 디자인 T",
       long_description: [
         "당신이 특별하고 독특한 작품을 원한다면 당신을 위해 특별히 준비된 여자들이 있습니다 레이디 에이프 클럽 (LAC) 스페셜 NFT!",
