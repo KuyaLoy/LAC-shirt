@@ -11,7 +11,7 @@ import jpTranslations from "./assets/translations/jp";
 import "./App.css";
 
 const App = () => {
-  const defaultLanguage = "ko";
+  const defaultLanguage = "en";
   const storedLanguage = localStorage.getItem("selectedLanguage");
   const [currentLanguage, setCurrentLanguage] = useState(
     storedLanguage || defaultLanguage
@@ -32,7 +32,7 @@ const App = () => {
         selectedTranslations = jpTranslations;
         break;
       default:
-        selectedTranslations = koTranslations;
+        selectedTranslations = enTranslations;
     }
     setTranslations(selectedTranslations);
   }, [currentLanguage]);

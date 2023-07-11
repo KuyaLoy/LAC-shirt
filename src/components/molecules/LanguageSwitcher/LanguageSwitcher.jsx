@@ -10,6 +10,7 @@ const LanguageSwitcher = ({ changeLanguage }) => {
 
   const handleLanguageChange = (language) => {
     changeLanguage(language);
+    setDpActive(false);
   };
   return (
     <div className={`LanguageSwitchWrapper ${dpActive ? "active" : ""}`}>
@@ -19,8 +20,8 @@ const LanguageSwitcher = ({ changeLanguage }) => {
         onClick={() => setDpActive(!dpActive)}
       />
       <div className="langDp">
-        <Button content={"KR"} onclick={() => handleLanguageChange("ko")} />
         <Button content={"EN"} onclick={() => handleLanguageChange("en")} />
+        <Button content={"KR"} onclick={() => handleLanguageChange("ko")} />
         <Button content={"JP"} onclick={() => handleLanguageChange("jp")} />
       </div>
     </div>

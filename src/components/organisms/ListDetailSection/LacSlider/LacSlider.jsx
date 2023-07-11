@@ -2,7 +2,7 @@ import React from "react";
 import SliderLink from "../../../molecules/SliderLac/SliderLink";
 import H2 from "../../../atoms/H2/H2";
 
-import SlideData from "../../../../assets/json/meta.json";
+import SlideData from "../../../../assets/translations/en.js";
 
 import "./LacSlider.scss";
 

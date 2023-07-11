@@ -19,15 +19,15 @@
   & > div {
     width: calc(100% / 3);
     .logo {
-      width: u.rem(67);
+      width: u.rem(120);
       object-fit: cover;
       display: block;
       @include u.breakpoint-max(medium) {
-        width: u.rem(50);
+        width: u.rem(100);
       }
 
       @include u.breakpoint-max(small) {
-        width: u.rem(34);
+        width: u.rem(80);
       }
       img {
         width: 100%;

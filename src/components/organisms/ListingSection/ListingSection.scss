@@ -30,11 +30,21 @@
     grid-row-gap: u.rem(30);
     padding: 3%;
 
+    //transition: 500ms ease-in-out;
+
     position: relative;
     margin-top: u.rem(100);
 
     &.active {
-      background-color: hsl(0, 0%, 0%);
+      //background-color: hsl(0, 0%, 0%);
+      // max-width: u.rem(1290);
+      width: 100%;
+      padding: u.rem(20);
+      padding-top: u.rem(10);
+
+      @include u.breakpoint-max(medium) {
+        max-width: 90%;
+      }
     }
 
     @media (max-width: u.rem(1024)) {
@@ -64,7 +74,9 @@
       }
 
       button {
-        width: 30%;
+        //width: 30%;
+        max-width: u.rem(550);
+        width: 100%;
         border: 3px solid #fdd23e;
         color: #a19fa6;
 
@@ -76,6 +88,7 @@
 
         &:first-child {
           border-radius: u.rem(24) 0 0 0;
+          border-right: none;
         }
         &:last-child {
           border-radius: 0 u.rem(24) 0 0;

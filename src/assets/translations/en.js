@@ -9,12 +9,12 @@ let en = [
     frame_gif: "/assets/Lottie/nft/0.gif",
     attributes: {
       lac_home: {
-        tab: ["LAC Special", "MyCustom"],
-        title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
+        tab: ["LAC Special", "My Custom"],
+        title: "Create your own custom LAC NFT t-shirt",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "Choose an NFT from your STRMNFT collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
         price: "$98",
-        button_text: "커스터마이징",
+        button_text: "Customize",
       },
       short_description: "Premium Classic Crewneck T-shirt",
       long_description: [
@@ -65,6 +65,7 @@ let en = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      size_image_lang: "/assets/images/sizes/size-en.png",
       shirt_image: {
         color: {
           white_image_path: [
@@ -129,7 +130,7 @@ let en = [
           "Do not use bleach",
           "Do not iron",
           "Laundry net recomended",
-          "Dryer not available",
+          "No tumble drying",
         ],
       },
       product_impormation: {
@@ -159,12 +160,12 @@ let en = [
     frame_gif: "/assets/Lottie/nft/100.gif",
     attributes: {
       lac_home: {
-        tab: ["LAC Special", "MyCustom"],
-        title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
+        tab: ["LAC Special", "My Custom"],
+        title: "Create your own custom LAC NFT t-shirt",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "Choose an NFT from your STRMNFT collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
         price: "$98",
-        button_text: "커스터마이징",
+        button_text: "Customize",
       },
       short_description: "Premium Classic Crewneck T-shirt",
       long_description: [
@@ -215,6 +216,7 @@ let en = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      size_image_lang: "/assets/images/sizes/size-en.png",
       shirt_image: {
         color: {
           white_image_path: [
@@ -279,7 +281,7 @@ let en = [
           "Do not use bleach",
           "Do not iron",
           "Laundry net recomended",
-          "Dryer not available",
+          "No tumble drying",
         ],
       },
       product_impormation: {
@@ -309,12 +311,12 @@ let en = [
     frame_gif: "/assets/Lottie/nft/200.gif",
     attributes: {
       lac_home: {
-        tab: ["LAC Special", "MyCustom"],
-        title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
+        tab: ["LAC Special", "My Custom"],
+        title: "Create your own custom LAC NFT t-shirt",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "Choose an NFT from your STRMNFT collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
         price: "$98",
-        button_text: "커스터마이징",
+        button_text: "Customize",
       },
       short_description: "Premium Classic Crewneck T-shirt",
       long_description: [
@@ -365,6 +367,7 @@ let en = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      size_image_lang: "/assets/images/sizes/size-en.png",
       shirt_image: {
         color: {
           white_image_path: [
@@ -429,7 +432,7 @@ let en = [
           "Do not use bleach",
           "Do not iron",
           "Laundry net recomended",
-          "Dryer not available",
+          "No tumble drying",
         ],
       },
       product_impormation: {
@@ -459,12 +462,12 @@ let en = [
     frame_gif: "/assets/Lottie/nft/300.gif",
     attributes: {
       lac_home: {
-        tab: ["LAC Special", "MyCustom"],
-        title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
+        tab: ["LAC Special", "My Custom"],
+        title: "Create your own custom LAC NFT t-shirt",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "Choose an NFT from your STRMNFT collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!!",
         price: "$98",
-        button_text: "커스터마이징",
+        button_text: "Customize",
       },
       short_description: "Premium Classic Crewneck T-shirt",
       long_description: [
@@ -515,6 +518,7 @@ let en = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      size_image_lang: "/assets/images/sizes/size-en.png",
       shirt_image: {
         color: {
           white_image_path: [
@@ -579,7 +583,7 @@ let en = [
           "Do not use bleach",
           "Do not iron",
           "Laundry net recomended",
-          "Dryer not available",
+          "No tumble drying",
         ],
       },
       product_impormation: {
@@ -609,12 +613,12 @@ let en = [
     frame_gif: "/assets/Lottie/nft/9994.gif",
     attributes: {
       lac_home: {
-        tab: ["LAC Special", "MyCustom"],
-        title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
+        tab: ["LAC Special", "My Custom"],
+        title: "Create your own custom LAC NFT t-shirt",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "Choose an NFT from your STRMNFT collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
         price: "$98",
-        button_text: "커스터마이징",
+        button_text: "Customize",
       },
       short_description: "Premium Classic Crewneck T-shirt",
       long_description: [
@@ -665,6 +669,7 @@ let en = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      size_image_lang: "/assets/images/sizes/size-en.png",
       shirt_image: {
         color: {
           white_image_path: [
@@ -729,7 +734,7 @@ let en = [
           "Do not use bleach",
           "Do not iron",
           "Laundry net recomended",
-          "Dryer not available",
+          "No tumble drying",
         ],
       },
       product_impormation: {
@@ -759,12 +764,12 @@ let en = [
     frame_gif: "/assets/Lottie/nft/9995.gif",
     attributes: {
       lac_home: {
-        tab: ["LAC Special", "MyCustom"],
-        title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
+        tab: ["LAC Special", "My Custom"],
+        title: "Create your own custom LAC NFT t-shirt",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "Choose an NFT from your STRMNFT collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
         price: "$98",
-        button_text: "커스터마이징",
+        button_text: "Customize",
       },
       short_description: "Premium Classic Crewneck T-shirt",
       long_description: [
@@ -815,6 +820,7 @@ let en = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      size_image_lang: "/assets/images/sizes/size-en.png",
       shirt_image: {
         color: {
           white_image_path: [
@@ -879,7 +885,7 @@ let en = [
           "Do not use bleach",
           "Do not iron",
           "Laundry net recomended",
-          "Dryer not available",
+          "No tumble drying",
         ],
       },
       product_impormation: {
@@ -909,12 +915,12 @@ let en = [
     frame_gif: "/assets/Lottie/nft/9996.gif",
     attributes: {
       lac_home: {
-        tab: ["LAC Special", "MyCustom"],
-        title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
+        tab: ["LAC Special", "My Custom"],
+        title: "Create your own custom LAC NFT t-shirt",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "Choose an NFT from your STRMNFT collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
         price: "$98",
-        button_text: "커스터마이징",
+        button_text: "Customize",
       },
       short_description: "Premium Classic Crewneck T-shirt",
       long_description: [
@@ -965,6 +971,7 @@ let en = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      size_image_lang: "/assets/images/sizes/size-en.png",
       shirt_image: {
         color: {
           white_image_path: [
@@ -1029,7 +1036,7 @@ let en = [
           "Do not use bleach",
           "Do not iron",
           "Laundry net recomended",
-          "Dryer not available",
+          "No tumble drying",
         ],
       },
       product_impormation: {
@@ -1059,12 +1066,12 @@ let en = [
     frame_gif: "/assets/Lottie/nft/9997.gif",
     attributes: {
       lac_home: {
-        tab: ["LAC Special", "MyCustom"],
-        title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
+        tab: ["LAC Special", "My Custom"],
+        title: "Create your own custom LAC NFT t-shirt",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "Choose an NFT from your STRMNFT collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
         price: "$98",
-        button_text: "커스터마이징",
+        button_text: "Customize",
       },
       short_description: "Premium Classic Crewneck T-shirt",
       long_description: [
@@ -1115,6 +1122,7 @@ let en = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      size_image_lang: "/assets/images/sizes/size-en.png",
       shirt_image: {
         color: {
           white_image_path: [
@@ -1179,7 +1187,7 @@ let en = [
           "Do not use bleach",
           "Do not iron",
           "Laundry net recomended",
-          "Dryer not available",
+          "No tumble drying",
         ],
       },
       product_impormation: {
@@ -1209,12 +1217,12 @@ let en = [
     frame_gif: "/assets/Lottie/nft/9998.gif",
     attributes: {
       lac_home: {
-        tab: ["LAC Special", "MyCustom"],
-        title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
+        tab: ["LAC Special", "My Custom"],
+        title: "Create your own custom LAC NFT t-shirt",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "Choose an NFT from your STRMNFT collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
         price: "$98",
-        button_text: "커스터마이징",
+        button_text: "Customize",
       },
       short_description: "Premium Classic Crewneck T-shirt",
       long_description: [
@@ -1265,6 +1273,7 @@ let en = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      size_image_lang: "/assets/images/sizes/size-en.png",
       shirt_image: {
         color: {
           white_image_path: [
@@ -1329,7 +1338,7 @@ let en = [
           "Do not use bleach",
           "Do not iron",
           "Laundry net recomended",
-          "Dryer not available",
+          "No tumble drying",
         ],
       },
       product_impormation: {
@@ -1359,12 +1368,12 @@ let en = [
     frame_gif: "/assets/Lottie/nft/9999.gif",
     attributes: {
       lac_home: {
-        tab: ["LAC Special", "MyCustom"],
-        title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
+        tab: ["LAC Special", "My Custom"],
+        title: "Create your own custom LAC NFT t-shirt",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "Choose an NFT from your STRMNFT collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
         price: "$98",
-        button_text: "커스터마이징",
+        button_text: "Customize",
       },
       short_description: "Premium Classic Crewneck T-shirt",
       long_description: [
@@ -1415,6 +1424,7 @@ let en = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      size_image_lang: "/assets/images/sizes/size-en.png",
       shirt_image: {
         color: {
           white_image_path: [
@@ -1479,11 +1489,11 @@ let en = [
           "Do not use bleach",
           "Do not iron",
           "Laundry net recomended",
-          "Dryer not available",
+          "No tumble drying",
         ],
       },
       product_impormation: {
-        title: "제품 상세 정보",
+        title: "Product details",
         item: [
           "Made in Korea",
           "Japanese fabric",

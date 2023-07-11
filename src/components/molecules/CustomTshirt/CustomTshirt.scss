@@ -31,27 +31,32 @@
     }
   }
 
-  video {
+  video,
+  img {
     margin-top: u.rem(24);
-    width: 100%;
+    width: 60%;
+
+    @include u.breakpoint-max(medium) {
+      width: 100%;
+    }
   }
 
   p.Price {
     text-align: center;
-    font-size: u.rem(56);
+    font-size: u.rem(50);
     font-family: "Gilroy-Medium";
 
-    margin-top: u.rem(56);
-    margin-bottom: u.rem(56);
+    margin-top: u.rem(40);
+    margin-bottom: u.rem(40);
 
     @include u.breakpoint-max(medium) {
-      font-size: u.rem(40);
+      font-size: u.rem(35);
     }
     @include u.breakpoint-max(small) {
-      font-size: u.rem(30);
+      font-size: u.rem(25);
     }
   }
-  a {
+  .but-shop {
     display: inline-block;
     position: relative;
     background-color: #760660;
@@ -60,9 +65,10 @@
     text-decoration: none;
     border: 1px solid white;
     border-radius: u.rem(100);
-    padding: u.rem(20) u.rem(20) u.rem(10) u.rem(20);
+    padding: u.rem(10) u.rem(20) u.rem(10) u.rem(20);
     transition: all 500ms;
     // box-shadow: 10px 10px 5px 0px rgba(255, 255, 255, 1);
+    cursor: pointer;
 
     @include u.breakpoint-max(medium) {
       font-size: u.rem(30);
@@ -74,6 +80,56 @@
     &:hover {
       margin-left: u.rem(-10);
       box-shadow: rgb(255, 255, 255) u.rem(10) u.rem(10) 0px;
+    }
+  }
+
+  .coming-soon {
+    position: fixed;
+    //background: rgba(0, 0, 0, 0.8);
+    //backdrop-filter: blur(u.rem(6));
+    width: 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    height: 0;
+
+    display: none;
+    transition: all 0.5s ease;
+    align-items: center;
+    justify-content: center;
+
+    &.show {
+      display: flex;
+      height: 100%;
+    }
+
+    .text-wrapper {
+      position: relative;
+      padding: 2.5% 10%;
+
+      border: 3px solid #fdd23e;
+      box-shadow: 0rem 0rem 0.9375rem #ffffff;
+      background-color: hsla(246, 62%, 13%, 0.95);
+
+      button {
+        position: absolute;
+        right: -15px;
+        top: -15px;
+        background: #fdd23e;
+        height: 30px;
+        width: 30px;
+        border-radius: 50%;
+        border: 1px solid white;
+        cursor: pointer;
+        z-index: 1;
+      }
+      h2 {
+        font-family: "Gilroy-SemiBold";
+        font-size: u.rem(35);
+        text-shadow: 0px 0px 10px #cbcbcb;
+        color: white;
+      }
     }
   }
 }

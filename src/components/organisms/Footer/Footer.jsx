@@ -1,6 +1,6 @@
 import React from "react";
 import LinkImage from "../../atoms/Link/LinkImage/LinkImage";
-import logo from "../../../assets/img/lac-special-logo.png";
+import logo from "../../../assets/img/logo.svg";
 import "./Footer.scss";
 
 const Footer = () => {

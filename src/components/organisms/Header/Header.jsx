@@ -6,7 +6,7 @@ import { useLocation } from "react-router-dom";
 
 import "./Header.scss";
 
-import logo from "../../../assets/img/lac-special-logo.png";
+import logo from "../../../assets/img/logo.svg";
 //import ButtonImage from "../../atoms/Button/ButtonImage/ButtonImage";
 import LinkImage from "../../atoms/Link/LinkImage/LinkImage";
 //import LangIcon from "../../../assets/img/lang-icon.png";
@@ -30,7 +30,7 @@ const Header = ({ changeLanguage }) => {
         )}
       </div>
       <div>
-        <H1 className="MainTitle" content="LAC Special" />
+        <H1 className="MainTitle" content="LAC Shop" />
       </div>
       <div>
         {/* <ButtonImage className="LanguageButton" src={LangIcon} /> */}
