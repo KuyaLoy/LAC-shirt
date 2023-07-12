@@ -67,6 +67,17 @@
           margin-bottom: u.rem(10);
         }
       }
+      .email-us {
+        font-size: clamp(1rem, 1rem + (1vw - 7.68px) * 0.3472, 1.25rem);
+        font-family: "Gilroy-Light";
+        margin-bottom: 0.3125rem;
+        line-height: 1.875rem;
+        margin-top: 1.875rem;
+        span {
+          text-decoration: none;
+          color: #fdd23e;
+        }
+      }
 
       p.ListDescription {
         font-size: clamp(

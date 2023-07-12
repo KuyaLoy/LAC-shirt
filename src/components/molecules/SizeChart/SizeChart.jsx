@@ -8,8 +8,8 @@ const SizeChart = ({ data }) => {
     <div className="SizeTableWrapper">
       <div className="grid5x6">
         <p>In CM</p>
-        {data.attributes.size_chart.table_title.map((data) => (
-          <P content={data} />
+        {data.attributes.size_chart.table_title.map((data, index) => (
+          <P content={data} key={index} />
         ))}
       </div>
       <div className="grid5x6">

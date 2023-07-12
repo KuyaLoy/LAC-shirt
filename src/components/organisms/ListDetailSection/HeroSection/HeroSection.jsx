@@ -28,15 +28,18 @@ const HeroSection = ({ data }) => {
           listStyle="disc"
           list={data.attributes.hero_list}
         />
+
+        {data.attributes.email_us}
+
         <P
           className="ListDescription"
           content={data.attributes.list_description}
         />
 
         <div className="SizeWrapper">
-          <P content="SIZE" />
+          <P content={data.attributes.sizes_label} />
 
-          <div class="SelectionSize">
+          <div className="SelectionSize">
             {data.attributes.sizes.map((size, index) => (
               <ButtonTooltipImage
                 content={size}
@@ -47,7 +50,7 @@ const HeroSection = ({ data }) => {
           </div>
         </div>
         <hr />
-        <P className="BuyTitle" content="BUY TO LINK" />
+        <P className="BuyTitle" content={data.attributes.buy_label} />
         <div className="BuyLink">
           {Object.keys(data.attributes.buy_link).map((key, index) => (
             <LinkImage

@@ -1,9 +1,11 @@
-import React from 'react'
+import React from "react";
 
-const P = ({className, content}) => {
+const P = ({ className, content }) => {
   return (
-    <><p className={className}>{content}</p></>
-  )
-}
+    <>
+      <p className={className}>{content}</p>
+    </>
+  );
+};
 
-export default P
+export default P;

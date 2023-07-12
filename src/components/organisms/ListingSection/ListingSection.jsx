@@ -22,6 +22,9 @@ const ListingSection = ({ data }) => {
 
   // Access only the first object from the data array
   const firstObject = data.length > 0 ? data[0] : null;
+
+  const emailUs = firstObject.attributes.email_us;
+
   return (
     <section className="LacListContainer">
       <div
@@ -45,6 +48,7 @@ const ListingSection = ({ data }) => {
         </div>
         {showDiv1 && (
           <>
+            {emailUs}
             {data.map((data) => (
               <CardTshirtHolder data={data} key={data.id} />
             ))}

@@ -113,6 +113,34 @@
       }
     }
 
+    .email-us {
+      width: 100%;
+      p {
+        max-width: 75%;
+        width: 100%;
+        margin: 0 auto;
+        color: white;
+        line-height: u.rem(40);
+        span {
+          text-decoration: none;
+          color: #fdd23e;
+        }
+
+        text-align: center;
+        font-size: u.rem(28);
+        font-family: "Gilroy-SemiBold";
+
+        @include u.breakpoint-max(medium) {
+          font-size: u.rem(18);
+          max-width: 100%;
+          line-height: u.rem(20);
+        }
+        @include u.breakpoint-max(small) {
+          font-size: u.rem(12);
+        }
+      }
+    }
+
     // .LacCard {
     //   color: white;
     //   width: 15%;

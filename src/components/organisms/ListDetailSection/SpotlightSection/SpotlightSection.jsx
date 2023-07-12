@@ -13,9 +13,9 @@ const SpotlightSection = ({ data }) => {
       <div className="SpotlightContent">
         <Image src={data.main_image_path} className="SpotlightImage" />
         <H2 content={data.category + " " + data.name} />
-        {data.attributes.long_description.map((data) => (
+        {data.attributes.long_description.map((data, index) => (
           <>
-            <P content={data} />
+            <P content={data} key={index} />
             <br />
           </>
         ))}

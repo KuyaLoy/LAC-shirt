@@ -8,11 +8,20 @@ let en = [
     frame_path: "/assets/images/nftFile/mainfolder/special0/f0.png",
     frame_gif: "/assets/Lottie/nft/0.gif",
     attributes: {
+      email_us: (
+        <div className="email-us">
+          <p>
+            LACNFTの保有者ですか？ 購入決済後、STRMMNFTに登録したeメールで
+            <span> support@ladyapeclub.com </span>にお問い合わせください。
+            保有者であることが確認されましたら購入決済金額の50%がキャッシュバックされます。
+          </p>
+        </div>
+      ),
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "自分が持っているLAC作品をカスタマイズして購入してください。",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "あなたのレディーエイプとベビーエイプのstrmnftコレクションの中から、公式LACグッズに印刷するnftを選んで下さい！",
         price: "$98",
         button_text: "カスタマイズ",
       },
@@ -64,6 +73,8 @@ let en = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      sizes_label: "SIZE",
+      buy_label: "BUY TO LINK",
       size_image_lang: "/assets/images/sizes/size-jp.png",
       shirt_image: {
         color: {
@@ -158,11 +169,20 @@ let en = [
     frame_path: "/assets/images/nftFile/mainfolder/special100/f100.png",
     frame_gif: "/assets/Lottie/nft/100.gif",
     attributes: {
+      email_us: (
+        <div className="email-us">
+          <p>
+            LACNFTの保有者ですか？ 購入決済後、STRMMNFTに登録したeメールで
+            support@ladyapeclub.com にお問い合わせください。
+            保有者であることが確認されましたら購入決済金額の50%がキャッシュバックされます。
+          </p>
+        </div>
+      ),
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "自分が持っているLAC作品をカスタマイズして購入してください。",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "あなたのレディーエイプとベビーエイプのstrmnftコレクションの中から、公式LACグッズに印刷するnftを選んで下さい！",
         price: "$98",
         button_text: "カスタマイズ",
       },
@@ -214,6 +234,8 @@ let en = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      sizes_label: "SIZE",
+      buy_label: "BUY TO LINK",
       size_image_lang: "/assets/images/sizes/size-jp.png",
       shirt_image: {
         color: {
@@ -308,11 +330,20 @@ let en = [
     frame_path: "/assets/images/nftFile/mainfolder/special200/f200.png",
     frame_gif: "/assets/Lottie/nft/200.gif",
     attributes: {
+      email_us: (
+        <div className="email-us">
+          <p>
+            LACNFTの保有者ですか？ 購入決済後、STRMMNFTに登録したeメールで
+            support@ladyapeclub.com にお問い合わせください。
+            保有者であることが確認されましたら購入決済金額の50%がキャッシュバックされます。
+          </p>
+        </div>
+      ),
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "自分が持っているLAC作品をカスタマイズして購入してください。",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "あなたのレディーエイプとベビーエイプのstrmnftコレクションの中から、公式LACグッズに印刷するnftを選んで下さい！",
         price: "$98",
         button_text: "カスタマイズ",
       },
@@ -364,6 +395,8 @@ let en = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      sizes_label: "SIZE",
+      buy_label: "BUY TO LINK",
       size_image_lang: "/assets/images/sizes/size-jp.png",
       shirt_image: {
         color: {
@@ -458,11 +491,20 @@ let en = [
     frame_path: "/assets/images/nftFile/mainfolder/special300/f300.png",
     frame_gif: "/assets/Lottie/nft/300.gif",
     attributes: {
+      email_us: (
+        <div className="email-us">
+          <p>
+            LACNFTの保有者ですか？ 購入決済後、STRMMNFTに登録したeメールで
+            support@ladyapeclub.com にお問い合わせください。
+            保有者であることが確認されましたら購入決済金額の50%がキャッシュバックされます。
+          </p>
+        </div>
+      ),
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "自分が持っているLAC作品をカスタマイズして購入してください。",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "あなたのレディーエイプとベビーエイプのstrmnftコレクションの中から、公式LACグッズに印刷するnftを選んで下さい！",
         price: "$98",
         button_text: "カスタマイズ",
       },
@@ -514,6 +556,8 @@ let en = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      sizes_label: "SIZE",
+      buy_label: "BUY TO LINK",
       size_image_lang: "/assets/images/sizes/size-jp.png",
       shirt_image: {
         color: {
@@ -608,11 +652,20 @@ let en = [
     frame_path: "/assets/images/nftFile/mainfolder/special9994/f9994.png",
     frame_gif: "/assets/Lottie/nft/9994.gif",
     attributes: {
+      email_us: (
+        <div className="email-us">
+          <p>
+            LACNFTの保有者ですか？ 購入決済後、STRMMNFTに登録したeメールで
+            support@ladyapeclub.com にお問い合わせください。
+            保有者であることが確認されましたら購入決済金額の50%がキャッシュバックされます。
+          </p>
+        </div>
+      ),
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "自分が持っているLAC作品をカスタマイズして購入してください。",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "あなたのレディーエイプとベビーエイプのstrmnftコレクションの中から、公式LACグッズに印刷するnftを選んで下さい！",
         price: "$98",
         button_text: "カスタマイズ",
       },
@@ -664,6 +717,8 @@ let en = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      sizes_label: "SIZE",
+      buy_label: "BUY TO LINK",
       size_image_lang: "/assets/images/sizes/size-jp.png",
       shirt_image: {
         color: {
@@ -758,11 +813,20 @@ let en = [
     frame_path: "/assets/images/nftFile/mainfolder/special9995/f9995.png",
     frame_gif: "/assets/Lottie/nft/9995.gif",
     attributes: {
+      email_us: (
+        <div className="email-us">
+          <p>
+            LACNFTの保有者ですか？ 購入決済後、STRMMNFTに登録したeメールで
+            support@ladyapeclub.com にお問い合わせください。
+            保有者であることが確認されましたら購入決済金額の50%がキャッシュバックされます。
+          </p>
+        </div>
+      ),
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "自分が持っているLAC作品をカスタマイズして購入してください。",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "あなたのレディーエイプとベビーエイプのstrmnftコレクションの中から、公式LACグッズに印刷するnftを選んで下さい！",
         price: "$98",
         button_text: "カスタマイズ",
       },
@@ -814,6 +878,8 @@ let en = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      sizes_label: "SIZE",
+      buy_label: "BUY TO LINK",
       size_image_lang: "/assets/images/sizes/size-jp.png",
       shirt_image: {
         color: {
@@ -908,11 +974,20 @@ let en = [
     frame_path: "/assets/images/nftFile/mainfolder/special9996/f9996.png",
     frame_gif: "/assets/Lottie/nft/9996.gif",
     attributes: {
+      email_us: (
+        <div className="email-us">
+          <p>
+            LACNFTの保有者ですか？ 購入決済後、STRMMNFTに登録したeメールで
+            support@ladyapeclub.com にお問い合わせください。
+            保有者であることが確認されましたら購入決済金額の50%がキャッシュバックされます。
+          </p>
+        </div>
+      ),
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "自分が持っているLAC作品をカスタマイズして購入してください。",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "あなたのレディーエイプとベビーエイプのstrmnftコレクションの中から、公式LACグッズに印刷するnftを選んで下さい！",
         price: "$98",
         button_text: "カスタマイズ",
       },
@@ -964,6 +1039,8 @@ let en = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      sizes_label: "SIZE",
+      buy_label: "BUY TO LINK",
       size_image_lang: "/assets/images/sizes/size-jp.png",
       shirt_image: {
         color: {
@@ -1058,11 +1135,20 @@ let en = [
     frame_path: "/assets/images/nftFile/mainfolder/special9997/f9997.png",
     frame_gif: "/assets/Lottie/nft/9997.gif",
     attributes: {
+      email_us: (
+        <div className="email-us">
+          <p>
+            LACNFTの保有者ですか？ 購入決済後、STRMMNFTに登録したeメールで
+            support@ladyapeclub.com にお問い合わせください。
+            保有者であることが確認されましたら購入決済金額の50%がキャッシュバックされます。
+          </p>
+        </div>
+      ),
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "自分が持っているLAC作品をカスタマイズして購入してください。",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "あなたのレディーエイプとベビーエイプのstrmnftコレクションの中から、公式LACグッズに印刷するnftを選んで下さい！",
         price: "$98",
         button_text: "カスタマイズ",
       },
@@ -1114,6 +1200,8 @@ let en = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      sizes_label: "SIZE",
+      buy_label: "BUY TO LINK",
       size_image_lang: "/assets/images/sizes/size-jp.png",
       shirt_image: {
         color: {
@@ -1208,11 +1296,20 @@ let en = [
     frame_path: "/assets/images/nftFile/mainfolder/special9998/f9998.png",
     frame_gif: "/assets/Lottie/nft/9998.gif",
     attributes: {
+      email_us: (
+        <div className="email-us">
+          <p>
+            LACNFTの保有者ですか？ 購入決済後、STRMMNFTに登録したeメールで
+            support@ladyapeclub.com にお問い合わせください。
+            保有者であることが確認されましたら購入決済金額の50%がキャッシュバックされます。
+          </p>
+        </div>
+      ),
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "自分が持っているLAC作品をカスタマイズして購入してください。",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "あなたのレディーエイプとベビーエイプのstrmnftコレクションの中から、公式LACグッズに印刷するnftを選んで下さい！",
         price: "$98",
         button_text: "カスタマイズ",
       },
@@ -1264,6 +1361,8 @@ let en = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      sizes_label: "SIZE",
+      buy_label: "BUY TO LINK",
       size_image_lang: "/assets/images/sizes/size-jp.png",
       shirt_image: {
         color: {
@@ -1358,11 +1457,20 @@ let en = [
     frame_path: "/assets/images/nftFile/mainfolder/special9999/f9999.png",
     frame_gif: "/assets/Lottie/nft/9999.gif",
     attributes: {
+      email_us: (
+        <div className="email-us">
+          <p>
+            LACNFTの保有者ですか？ 購入決済後、STRMMNFTに登録したeメールで
+            support@ladyapeclub.com にお問い合わせください。
+            保有者であることが確認されましたら購入決済金額の50%がキャッシュバックされます。
+          </p>
+        </div>
+      ),
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "自分が持っているLAC作品をカスタマイズして購入してください。",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "あなたのレディーエイプとベビーエイプのstrmnftコレクションの中から、公式LACグッズに印刷するnftを選んで下さい！",
         price: "$98",
         button_text: "カスタマイズ",
       },
@@ -1414,6 +1522,8 @@ let en = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      sizes_label: "SIZE",
+      buy_label: "BUY TO LINK",
       size_image_lang: "/assets/images/sizes/size-jp.png",
       shirt_image: {
         color: {

@@ -129,6 +129,13 @@
         font-size: u.rem(35);
         text-shadow: 0px 0px 10px #cbcbcb;
         color: white;
+
+        @include u.breakpoint-max(medium) {
+          font-size: u.rem(30);
+        }
+        @include u.breakpoint-max(small) {
+          font-size: u.rem(25);
+        }
       }
     }
   }

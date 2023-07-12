@@ -8,6 +8,15 @@ let ko = [
     frame_path: "/assets/images/nftFile/mainfolder/special0/f0.png",
     frame_gif: "/assets/Lottie/nft/0.gif",
     attributes: {
+      email_us: (
+        <div className="email-us">
+          <p>
+            LAC NFT 소유자 이신가요? 구매 결제 후 STRMNFT에 가입된 이메일로
+            <span> support@ladyapeclub.com </span>으로 문의하십시요. 소유자임이
+            확인되면 구매 결제 금액의 50%가 캐쉬백 됩니다.
+          </p>
+        </div>
+      ),
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
@@ -63,6 +72,8 @@ let ko = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      sizes_label: "사이즈",
+      buy_label: "구매하기",
       size_image_lang: "/assets/images/sizes/size-ko.png",
       shirt_image: {
         color: {
@@ -157,6 +168,15 @@ let ko = [
     frame_path: "/assets/images/nftFile/mainfolder/special100/f100.png",
     frame_gif: "/assets/Lottie/nft/100.gif",
     attributes: {
+      email_us: (
+        <div className="email-us">
+          <p>
+            LAC NFT 소유자 이신가요? 구매 결제 후 STRMNFT에 가입된 이메일로
+            <span> support@ladyapeclub.com </span>으로 문의하십시요. 소유자임이
+            확인되면 구매 결제 금액의 50%가 캐쉬백 됩니다.
+          </p>
+        </div>
+      ),
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
@@ -212,6 +232,8 @@ let ko = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      sizes_label: "사이즈",
+      buy_label: "구매하기",
       size_image_lang: "/assets/images/sizes/size-ko.png",
       shirt_image: {
         color: {
@@ -306,6 +328,15 @@ let ko = [
     frame_path: "/assets/images/nftFile/mainfolder/special200/f200.png",
     frame_gif: "/assets/Lottie/nft/200.gif",
     attributes: {
+      email_us: (
+        <div className="email-us">
+          <p>
+            LAC NFT 소유자 이신가요? 구매 결제 후 STRMNFT에 가입된 이메일로
+            <span> support@ladyapeclub.com </span>으로 문의하십시요. 소유자임이
+            확인되면 구매 결제 금액의 50%가 캐쉬백 됩니다.
+          </p>
+        </div>
+      ),
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
@@ -361,6 +392,8 @@ let ko = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      sizes_label: "사이즈",
+      buy_label: "구매하기",
       size_image_lang: "/assets/images/sizes/size-ko.png",
       shirt_image: {
         color: {
@@ -455,6 +488,15 @@ let ko = [
     frame_path: "/assets/images/nftFile/mainfolder/special300/f300.png",
     frame_gif: "/assets/Lottie/nft/300.gif",
     attributes: {
+      email_us: (
+        <div className="email-us">
+          <p>
+            LAC NFT 소유자 이신가요? 구매 결제 후 STRMNFT에 가입된 이메일로
+            <span> support@ladyapeclub.com </span>으로 문의하십시요. 소유자임이
+            확인되면 구매 결제 금액의 50%가 캐쉬백 됩니다.
+          </p>
+        </div>
+      ),
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
@@ -510,6 +552,8 @@ let ko = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      sizes_label: "사이즈",
+      buy_label: "구매하기",
       size_image_lang: "/assets/images/sizes/size-ko.png",
       shirt_image: {
         color: {
@@ -604,6 +648,15 @@ let ko = [
     frame_path: "/assets/images/nftFile/mainfolder/special9994/f9994.png",
     frame_gif: "/assets/Lottie/nft/9994.gif",
     attributes: {
+      email_us: (
+        <div className="email-us">
+          <p>
+            LAC NFT 소유자 이신가요? 구매 결제 후 STRMNFT에 가입된 이메일로
+            <span> support@ladyapeclub.com </span>으로 문의하십시요. 소유자임이
+            확인되면 구매 결제 금액의 50%가 캐쉬백 됩니다.
+          </p>
+        </div>
+      ),
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
@@ -659,6 +712,8 @@ let ko = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      sizes_label: "사이즈",
+      buy_label: "구매하기",
       size_image_lang: "/assets/images/sizes/size-ko.png",
       shirt_image: {
         color: {
@@ -753,6 +808,15 @@ let ko = [
     frame_path: "/assets/images/nftFile/mainfolder/special9995/f9995.png",
     frame_gif: "/assets/Lottie/nft/9995.gif",
     attributes: {
+      email_us: (
+        <div className="email-us">
+          <p>
+            LAC NFT 소유자 이신가요? 구매 결제 후 STRMNFT에 가입된 이메일로
+            <span> support@ladyapeclub.com </span>으로 문의하십시요. 소유자임이
+            확인되면 구매 결제 금액의 50%가 캐쉬백 됩니다.
+          </p>
+        </div>
+      ),
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
@@ -808,6 +872,8 @@ let ko = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      sizes_label: "사이즈",
+      buy_label: "구매하기",
       size_image_lang: "/assets/images/sizes/size-ko.png",
       shirt_image: {
         color: {
@@ -902,6 +968,15 @@ let ko = [
     frame_path: "/assets/images/nftFile/mainfolder/special9996/f9996.png",
     frame_gif: "/assets/Lottie/nft/9996.gif",
     attributes: {
+      email_us: (
+        <div className="email-us">
+          <p>
+            LAC NFT 소유자 이신가요? 구매 결제 후 STRMNFT에 가입된 이메일로
+            <span> support@ladyapeclub.com </span>으로 문의하십시요. 소유자임이
+            확인되면 구매 결제 금액의 50%가 캐쉬백 됩니다.
+          </p>
+        </div>
+      ),
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
@@ -957,6 +1032,8 @@ let ko = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      sizes_label: "사이즈",
+      buy_label: "구매하기",
       size_image_lang: "/assets/images/sizes/size-ko.png",
       shirt_image: {
         color: {
@@ -1051,6 +1128,15 @@ let ko = [
     frame_path: "/assets/images/nftFile/mainfolder/special9997/f9997.png",
     frame_gif: "/assets/Lottie/nft/9997.gif",
     attributes: {
+      email_us: (
+        <div className="email-us">
+          <p>
+            LAC NFT 소유자 이신가요? 구매 결제 후 STRMNFT에 가입된 이메일로
+            <span> support@ladyapeclub.com </span>으로 문의하십시요. 소유자임이
+            확인되면 구매 결제 금액의 50%가 캐쉬백 됩니다.
+          </p>
+        </div>
+      ),
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
@@ -1106,6 +1192,8 @@ let ko = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      sizes_label: "사이즈",
+      buy_label: "구매하기",
       size_image_lang: "/assets/images/sizes/size-ko.png",
       shirt_image: {
         color: {
@@ -1200,6 +1288,15 @@ let ko = [
     frame_path: "/assets/images/nftFile/mainfolder/special9998/f9998.png",
     frame_gif: "/assets/Lottie/nft/9998.gif",
     attributes: {
+      email_us: (
+        <div className="email-us">
+          <p>
+            LAC NFT 소유자 이신가요? 구매 결제 후 STRMNFT에 가입된 이메일로
+            <span> support@ladyapeclub.com </span>으로 문의하십시요. 소유자임이
+            확인되면 구매 결제 금액의 50%가 캐쉬백 됩니다.
+          </p>
+        </div>
+      ),
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
@@ -1255,6 +1352,8 @@ let ko = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      sizes_label: "사이즈",
+      buy_label: "구매하기",
       size_image_lang: "/assets/images/sizes/size-ko.png",
       shirt_image: {
         color: {
@@ -1349,6 +1448,15 @@ let ko = [
     frame_path: "/assets/images/nftFile/mainfolder/special9999/f9999.png",
     frame_gif: "/assets/Lottie/nft/9999.gif",
     attributes: {
+      email_us: (
+        <div className="email-us">
+          <p>
+            LAC NFT 소유자 이신가요? 구매 결제 후 STRMNFT에 가입된 이메일로
+            <span> support@ladyapeclub.com </span>으로 문의하십시요. 소유자임이
+            확인되면 구매 결제 금액의 50%가 캐쉬백 됩니다.
+          </p>
+        </div>
+      ),
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
@@ -1404,6 +1512,8 @@ let ko = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      sizes_label: "사이즈",
+      buy_label: "구매하기",
       size_image_lang: "/assets/images/sizes/size-ko.png",
       shirt_image: {
         color: {

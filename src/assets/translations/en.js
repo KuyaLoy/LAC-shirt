@@ -8,6 +8,15 @@ let en = [
     frame_path: "/assets/images/nftFile/mainfolder/special0/f0.png",
     frame_gif: "/assets/Lottie/nft/0.gif",
     attributes: {
+      email_us: (
+        <div className="email-us">
+          <p>
+            LAC NFT holder? Get a 50% cashback by emailing
+            <span> support@ladyapeclub.com </span>from your STRMNFT registered
+            email.
+          </p>
+        </div>
+      ),
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "Create your own custom LAC NFT t-shirt",
@@ -65,6 +74,8 @@ let en = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      sizes_label: "SIZE",
+      buy_label: "BUY TO LINK",
       size_image_lang: "/assets/images/sizes/size-en.png",
       shirt_image: {
         color: {
@@ -159,6 +170,15 @@ let en = [
     frame_path: "/assets/images/nftFile/mainfolder/special100/f100.png",
     frame_gif: "/assets/Lottie/nft/100.gif",
     attributes: {
+      email_us: (
+        <div className="email-us">
+          <p>
+            LAC NFT holder? Get a 50% cashback by emailing
+            <span> support@ladyapeclub.com </span>from your STRMNFT registered
+            email.
+          </p>
+        </div>
+      ),
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "Create your own custom LAC NFT t-shirt",
@@ -216,6 +236,8 @@ let en = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      sizes_label: "SIZE",
+      buy_label: "BUY TO LINK",
       size_image_lang: "/assets/images/sizes/size-en.png",
       shirt_image: {
         color: {
@@ -310,6 +332,15 @@ let en = [
     frame_path: "/assets/images/nftFile/mainfolder/special200/f200.png",
     frame_gif: "/assets/Lottie/nft/200.gif",
     attributes: {
+      email_us: (
+        <div className="email-us">
+          <p>
+            LAC NFT holder? Get a 50% cashback by emailing
+            <span> support@ladyapeclub.com </span>from your STRMNFT registered
+            email.
+          </p>
+        </div>
+      ),
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "Create your own custom LAC NFT t-shirt",
@@ -367,6 +398,8 @@ let en = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      sizes_label: "SIZE",
+      buy_label: "BUY TO LINK",
       size_image_lang: "/assets/images/sizes/size-en.png",
       shirt_image: {
         color: {
@@ -461,6 +494,15 @@ let en = [
     frame_path: "/assets/images/nftFile/mainfolder/special300/f300.png",
     frame_gif: "/assets/Lottie/nft/300.gif",
     attributes: {
+      email_us: (
+        <div className="email-us">
+          <p>
+            LAC NFT holder? Get a 50% cashback by emailing
+            <span> support@ladyapeclub.com </span>from your STRMNFT registered
+            email.
+          </p>
+        </div>
+      ),
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "Create your own custom LAC NFT t-shirt",
@@ -518,6 +560,8 @@ let en = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      sizes_label: "SIZE",
+      buy_label: "BUY TO LINK",
       size_image_lang: "/assets/images/sizes/size-en.png",
       shirt_image: {
         color: {
@@ -612,6 +656,15 @@ let en = [
     frame_path: "/assets/images/nftFile/mainfolder/special9994/f9994.png",
     frame_gif: "/assets/Lottie/nft/9994.gif",
     attributes: {
+      email_us: (
+        <div className="email-us">
+          <p>
+            LAC NFT holder? Get a 50% cashback by emailing
+            <span> support@ladyapeclub.com </span>from your STRMNFT registered
+            email.
+          </p>
+        </div>
+      ),
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "Create your own custom LAC NFT t-shirt",
@@ -669,6 +722,8 @@ let en = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      sizes_label: "SIZE",
+      buy_label: "BUY TO LINK",
       size_image_lang: "/assets/images/sizes/size-en.png",
       shirt_image: {
         color: {
@@ -763,6 +818,15 @@ let en = [
     frame_path: "/assets/images/nftFile/mainfolder/special9995/f9995.png",
     frame_gif: "/assets/Lottie/nft/9995.gif",
     attributes: {
+      email_us: (
+        <div className="email-us">
+          <p>
+            LAC NFT holder? Get a 50% cashback by emailing
+            <span> support@ladyapeclub.com </span>from your STRMNFT registered
+            email.
+          </p>
+        </div>
+      ),
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "Create your own custom LAC NFT t-shirt",
@@ -820,6 +884,8 @@ let en = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      sizes_label: "SIZE",
+      buy_label: "BUY TO LINK",
       size_image_lang: "/assets/images/sizes/size-en.png",
       shirt_image: {
         color: {
@@ -914,6 +980,15 @@ let en = [
     frame_path: "/assets/images/nftFile/mainfolder/special9996/f9996.png",
     frame_gif: "/assets/Lottie/nft/9996.gif",
     attributes: {
+      email_us: (
+        <div className="email-us">
+          <p>
+            LAC NFT holder? Get a 50% cashback by emailing
+            <span> support@ladyapeclub.com </span>from your STRMNFT registered
+            email.
+          </p>
+        </div>
+      ),
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "Create your own custom LAC NFT t-shirt",
@@ -971,6 +1046,8 @@ let en = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      sizes_label: "SIZE",
+      buy_label: "BUY TO LINK",
       size_image_lang: "/assets/images/sizes/size-en.png",
       shirt_image: {
         color: {
@@ -1065,6 +1142,15 @@ let en = [
     frame_path: "/assets/images/nftFile/mainfolder/special9997/f9997.png",
     frame_gif: "/assets/Lottie/nft/9997.gif",
     attributes: {
+      email_us: (
+        <div className="email-us">
+          <p>
+            LAC NFT holder? Get a 50% cashback by emailing
+            <span> support@ladyapeclub.com </span>from your STRMNFT registered
+            email.
+          </p>
+        </div>
+      ),
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "Create your own custom LAC NFT t-shirt",
@@ -1122,6 +1208,8 @@ let en = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      sizes_label: "SIZE",
+      buy_label: "BUY TO LINK",
       size_image_lang: "/assets/images/sizes/size-en.png",
       shirt_image: {
         color: {
@@ -1216,6 +1304,15 @@ let en = [
     frame_path: "/assets/images/nftFile/mainfolder/special9998/f9998.png",
     frame_gif: "/assets/Lottie/nft/9998.gif",
     attributes: {
+      email_us: (
+        <div className="email-us">
+          <p>
+            LAC NFT holder? Get a 50% cashback by emailing
+            <span> support@ladyapeclub.com </span>from your STRMNFT registered
+            email.
+          </p>
+        </div>
+      ),
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "Create your own custom LAC NFT t-shirt",
@@ -1273,6 +1370,8 @@ let en = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      sizes_label: "SIZE",
+      buy_label: "BUY TO LINK",
       size_image_lang: "/assets/images/sizes/size-en.png",
       shirt_image: {
         color: {
@@ -1367,6 +1466,15 @@ let en = [
     frame_path: "/assets/images/nftFile/mainfolder/special9999/f9999.png",
     frame_gif: "/assets/Lottie/nft/9999.gif",
     attributes: {
+      email_us: (
+        <div className="email-us">
+          <p>
+            LAC NFT holder? Get a 50% cashback by emailing
+            <span> support@ladyapeclub.com </span>from your STRMNFT registered
+            email.
+          </p>
+        </div>
+      ),
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "Create your own custom LAC NFT t-shirt",
@@ -1424,6 +1532,8 @@ let en = [
         ],
       },
       sizes: ["XS", "S", "M", "L", "XL"],
+      sizes_label: "SIZE",
+      buy_label: "BUY TO LINK",
       size_image_lang: "/assets/images/sizes/size-en.png",
       shirt_image: {
         color: {
