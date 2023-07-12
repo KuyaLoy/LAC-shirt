@@ -49,6 +49,10 @@
       margin-right: u.rem(10);
       border: 1px solid white;
 
+      &.active {
+        border: 1px solid #fdd23e;
+      }
+
       &:first-child {
         background-color: white;
       }
