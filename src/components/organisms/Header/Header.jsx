@@ -7,6 +7,7 @@ import { useLocation } from "react-router-dom";
 import "./Header.scss";
 
 import logo from "../../../assets/img/logo.svg";
+import home from "../../../assets/img/home.svg";
 //import ButtonImage from "../../atoms/Button/ButtonImage/ButtonImage";
 import LinkImage from "../../atoms/Link/LinkImage/LinkImage";
 //import LangIcon from "../../../assets/img/lang-icon.png";
@@ -34,6 +35,9 @@ const Header = ({ changeLanguage }) => {
       </div>
       <div>
         {/* <ButtonImage className="LanguageButton" src={LangIcon} /> */}
+        <a href="https://ladyapeclub.com/" className="homeButton">
+          <img src={home} alt="home-page" />
+        </a>
         <LanguageSwitcher changeLanguage={changeLanguage} />
       </div>
     </div>

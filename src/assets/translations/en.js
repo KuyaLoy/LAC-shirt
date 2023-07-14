@@ -6,6 +6,7 @@ let en = [
     price: "$385",
     main_image_path: "/assets/images/nftFile/mainfolder/special0/0.png",
     frame_path: "/assets/images/nftFile/mainfolder/special0/f0.png",
+    frame_path_2: "/assets/images/nftFile/mainfolder/special0/fw0.png",
     frame_gif: "/assets/Lottie/nft/0.gif",
     attributes: {
       email_us: (
@@ -168,6 +169,7 @@ let en = [
     price: "$385",
     main_image_path: "/assets/images/nftFile/mainfolder/special100/100.png",
     frame_path: "/assets/images/nftFile/mainfolder/special100/f100.png",
+    frame_path_2: "/assets/images/nftFile/mainfolder/special100/fw100.png",
     frame_gif: "/assets/Lottie/nft/100.gif",
     attributes: {
       email_us: (
@@ -330,6 +332,7 @@ let en = [
     price: "$385",
     main_image_path: "/assets/images/nftFile/mainfolder/special200/200.png",
     frame_path: "/assets/images/nftFile/mainfolder/special200/f200.png",
+    frame_path_2: "/assets/images/nftFile/mainfolder/special200/fw200.png",
     frame_gif: "/assets/Lottie/nft/200.gif",
     attributes: {
       email_us: (
@@ -492,6 +495,7 @@ let en = [
     price: "$385",
     main_image_path: "/assets/images/nftFile/mainfolder/special300/300.png",
     frame_path: "/assets/images/nftFile/mainfolder/special300/f300.png",
+    frame_path_2: "/assets/images/nftFile/mainfolder/special300/fw300.png",
     frame_gif: "/assets/Lottie/nft/300.gif",
     attributes: {
       email_us: (
@@ -654,6 +658,7 @@ let en = [
     price: "$385",
     main_image_path: "/assets/images/nftFile/mainfolder/special9994/9994.png",
     frame_path: "/assets/images/nftFile/mainfolder/special9994/f9994.png",
+    frame_path_2: "/assets/images/nftFile/mainfolder/special9994/fw9994.png",
     frame_gif: "/assets/Lottie/nft/9994.gif",
     attributes: {
       email_us: (
@@ -815,7 +820,8 @@ let en = [
     category: "Special",
     price: "$385",
     main_image_path: "/assets/images/nftFile/mainfolder/special9995/9995.png",
-    frame_path: "/assets/images/nftFile/mainfolder/special9995/f9995.png",
+    frame_path: "/assets/images/nftFile/mainfolder/special9994/f9994.png",
+    frame_path_2: "/assets/images/nftFile/mainfolder/special9994/fw9994.png",
     frame_gif: "/assets/Lottie/nft/9995.gif",
     attributes: {
       email_us: (
@@ -978,6 +984,7 @@ let en = [
     price: "$385",
     main_image_path: "/assets/images/nftFile/mainfolder/special9996/9996.png",
     frame_path: "/assets/images/nftFile/mainfolder/special9996/f9996.png",
+    frame_path_2: "/assets/images/nftFile/mainfolder/special9996/fw9996.png",
     frame_gif: "/assets/Lottie/nft/9996.gif",
     attributes: {
       email_us: (
@@ -1140,6 +1147,7 @@ let en = [
     price: "$385",
     main_image_path: "/assets/images/nftFile/mainfolder/special9997/9997.png",
     frame_path: "/assets/images/nftFile/mainfolder/special9997/f9997.png",
+    frame_path_2: "/assets/images/nftFile/mainfolder/special9997/fw9997.png",
     frame_gif: "/assets/Lottie/nft/9997.gif",
     attributes: {
       email_us: (
@@ -1302,6 +1310,7 @@ let en = [
     price: "$385",
     main_image_path: "/assets/images/nftFile/mainfolder/special9998/9998.png",
     frame_path: "/assets/images/nftFile/mainfolder/special9998/f9998.png",
+    frame_path_2: "/assets/images/nftFile/mainfolder/special9998/fw9998.png",
     frame_gif: "/assets/Lottie/nft/9998.gif",
     attributes: {
       email_us: (
@@ -1464,6 +1473,7 @@ let en = [
     price: "$385",
     main_image_path: "/assets/images/nftFile/mainfolder/special9999/9999.png",
     frame_path: "/assets/images/nftFile/mainfolder/special9999/f9999.png",
+    frame_path_2: "/assets/images/nftFile/mainfolder/special9999/fw9999.png",
     frame_gif: "/assets/Lottie/nft/9999.gif",
     attributes: {
       email_us: (

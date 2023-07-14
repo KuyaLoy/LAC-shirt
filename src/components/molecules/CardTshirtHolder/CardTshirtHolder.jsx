@@ -7,6 +7,7 @@ const CardTshirtHolder = ({ data }) => {
   const [isMobile, setIsMobile] = useState(false);
   const [activeColor, setActiveColor] = useState("black");
   const [activeImage, setActiveImage] = useState(data.frame_path);
+  const [isImageLoaded, setIsImageLoaded] = useState(false);
   const navigate = useNavigate();
 
   useEffect(() => {
@@ -19,6 +20,21 @@ const CardTshirtHolder = ({ data }) => {
     window.addEventListener("resize", handleResize);
     return () => window.removeEventListener("resize", handleResize);
   }, []);
+
+  useEffect(() => {
+    const preloadImage = (url) => {
+      const img = new Image();
+      img.src = url;
+      img.onload = () => setIsImageLoaded(true);
+    };
+
+    if (isMobile) {
+      preloadImage(data.frame_path);
+      preloadImage(data.frame_path_2);
+    } else {
+      setIsImageLoaded(true); // Set the image as loaded in the web view
+    }
+  }, [data.frame_path, data.frame_path_2, isMobile]);
 
   const handleMouseEnter = () => {
     if (!isMobile) {
@@ -52,10 +68,12 @@ const CardTshirtHolder = ({ data }) => {
         className={`frame ${isHovered && !isMobile ? "hovered" : ""}`}
         onClick={isMobile ? handleClickFrame : undefined}
       >
-        <img
-          src={isHovered && !isMobile ? data.frame_gif : activeImage}
-          alt=""
-        />
+        {isImageLoaded ? (
+          <img
+            src={isHovered && !isMobile ? data.frame_gif : activeImage}
+            alt=""
+          />
+        ) : null}
         <h2>{`${data.category} ${data.name}`}</h2>
       </div>
       <div className="ColorBox">
@@ -63,12 +81,7 @@ const CardTshirtHolder = ({ data }) => {
           className={`white ${
             isMobile && activeColor === "white" ? "active" : ""
           }`}
-          onClick={() =>
-            handleClickColor(
-              "white",
-              data.attributes.shirt_image.color.white_image_path[1]
-            )
-          }
+          onClick={() => handleClickColor("white", data.frame_path_2)}
         ></span>
         <span
           className={`black ${
