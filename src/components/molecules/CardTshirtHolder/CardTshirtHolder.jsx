@@ -2,11 +2,11 @@ import React, { useState, useEffect } from "react";
 import "./CardTshirtHolders.scss";
 import { useNavigate } from "react-router-dom";
 
-const CardTshirtHolder = ({ data }) => {
+const CardTshirtHolder = ({ data, index }) => {
   const [isHovered, setIsHovered] = useState(false);
   const [isMobile, setIsMobile] = useState(false);
-  const [activeColor, setActiveColor] = useState("black");
-  const [activeImage, setActiveImage] = useState(data.frame_path);
+  const [activeColor, setActiveColor] = useState("");
+  const [activeImage, setActiveImage] = useState("");
   const [isImageLoaded, setIsImageLoaded] = useState(false);
   const navigate = useNavigate();
 
@@ -23,34 +23,69 @@ const CardTshirtHolder = ({ data }) => {
 
   useEffect(() => {
     const preloadImage = (url) => {
-      const img = new Image();
-      img.src = url;
-      img.onload = () => setIsImageLoaded(true);
+      return new Promise((resolve, reject) => {
+        const img = new Image();
+        img.src = url;
+        img.onload = resolve;
+        img.onerror = reject;
+      });
     };
 
-    if (isMobile) {
-      preloadImage(data.frame_path);
-      preloadImage(data.frame_path_2);
-    } else {
-      setIsImageLoaded(true); // Set the image as loaded in the web view
-    }
-  }, [data.frame_path, data.frame_path_2, isMobile]);
+    const getActiveImagePath = (cardIndex) => {
+      if (isMobile) {
+        if (
+          cardIndex === 2 ||
+          cardIndex === 3 ||
+          cardIndex === 6 ||
+          cardIndex === 7
+        ) {
+          setActiveColor("white");
+          return data.frame_path_2;
+        } else {
+          setActiveColor("black");
+          return data.frame_path;
+        }
+      } else {
+        setActiveColor("black");
+        if (cardIndex === 0) {
+          return data.frame_path;
+        } else {
+          return cardIndex % 2 === 0 ? data.frame_path : data.frame_path_2;
+        }
+      }
+    };
+
+    const activeImagePath = getActiveImagePath(index);
+
+    const loadImages = async () => {
+      try {
+        setIsImageLoaded(false);
+        await Promise.all([
+          preloadImage(activeImagePath),
+          preloadImage(data.frame_path),
+          preloadImage(data.frame_path_2),
+        ]);
+        setIsImageLoaded(true);
+      } catch (error) {
+        console.error("Failed to load image:", error);
+      }
+    };
+
+    loadImages();
+    setActiveImage(activeImagePath);
+  }, [data.frame_path, data.frame_path_2, isMobile, index]);
 
   const handleMouseEnter = () => {
-    if (!isMobile) {
-      setIsHovered(true);
-    }
+    setIsHovered(true);
   };
 
   const handleMouseLeave = () => {
-    if (!isMobile) {
-      setIsHovered(false);
-    }
+    setIsHovered(false);
   };
 
   const handleClickColor = (color, imagePath) => {
     setActiveColor(color);
-    setActiveImage(imagePath);
+    setActiveImage(color === "white" ? data.frame_path_2 : data.frame_path);
   };
 
   const handleClickFrame = () => {
@@ -77,18 +112,48 @@ const CardTshirtHolder = ({ data }) => {
         <h2>{`${data.category} ${data.name}`}</h2>
       </div>
       <div className="ColorBox">
-        <span
-          className={`white ${
-            isMobile && activeColor === "white" ? "active" : ""
-          }`}
-          onClick={() => handleClickColor("white", data.frame_path_2)}
-        ></span>
-        <span
-          className={`black ${
-            isMobile && activeColor === "black" ? "active" : ""
-          }`}
-          onClick={() => handleClickColor("black", data.frame_path)}
-        ></span>
+        {isMobile ? (
+          <>
+            {index === 2 || index === 3 || index === 6 || index === 7 ? (
+              <>
+                <span
+                  className={`white ${activeColor === "white" ? "active" : ""}`}
+                  onClick={() => handleClickColor("white", data.frame_path_2)}
+                ></span>
+                <span
+                  className={`black ${activeColor === "black" ? "active" : ""}`}
+                  onClick={() => handleClickColor("black", data.frame_path)}
+                ></span>
+              </>
+            ) : (
+              <>
+                <span
+                  className={`black ${activeColor === "black" ? "active" : ""}`}
+                  onClick={() => handleClickColor("black", data.frame_path)}
+                ></span>
+                <span
+                  className={`white ${activeColor === "white" ? "active" : ""}`}
+                  onClick={() => handleClickColor("white", data.frame_path_2)}
+                ></span>
+              </>
+            )}
+          </>
+        ) : (
+          <>
+            <span
+              className={`black ${
+                isMobile && activeColor === "black" ? "active" : ""
+              }`}
+              onClick={() => handleClickColor("black", data.frame_path)}
+            ></span>
+            <span
+              className={`white ${
+                isMobile && activeColor === "white" ? "active" : ""
+              }`}
+              onClick={() => handleClickColor("white", data.frame_path_2)}
+            ></span>
+          </>
+        )}
       </div>
       <div className="Price">{data.price}</div>
       <div className="Sizes">

@@ -39,5 +39,75 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+    <!-- <script type="text/javascript" id="zsiqchat">
+      var $zoho = $zoho || {};
+      $zoho.salesiq = $zoho.salesiq || {
+        widgetcode:
+          "siq3a1744226ca0bba834ab1ea6c72d74b2af152c4881f59c3c03647fde1a02e77b",
+        values: {},
+        ready: function () {},
+      };
+      var d = document;
+      s = d.createElement("script");
+      s.type = "text/javascript";
+      s.id = "zsiqscript";
+      s.defer = true;
+      s.src = "https://salesiq.zoho.com/widget";
+      t = d.getElementsByTagName("script")[0];
+      t.parentNode.insertBefore(s, t);
+      $zoho.salesiq.ready = function (embedinfo) {
+        $zoho.salesiq.customfield.add({
+          name: "_default.name",
+          hint: "Enter your name (required)",
+          required: "true",
+        });
+        $zoho.salesiq.customfield.add({
+          name: "_default.email",
+          hint: "Enter your STRMNFT email (required)",
+          required: "true",
+        });
+
+        $zoho.salesiq.customfield.add({
+          name: "_default.department",
+          hint: "Select language",
+          required: "true",
+        });
+      };
+    </script> -->
+    <script type="text/javascript" id="zsiqchat">
+      var $zoho = $zoho || {};
+      $zoho.salesiq = $zoho.salesiq || {
+        widgetcode:
+          "siq3a1744226ca0bba834ab1ea6c72d74b2af152c4881f59c3c03647fde1a02e77b",
+        values: {},
+        ready: function () {},
+      };
+      var d = document;
+      s = d.createElement("script");
+      s.type = "text/javascript";
+      s.id = "zsiqscript";
+      s.defer = true;
+      s.src = "https://salesiq.zoho.com/widget";
+      t = d.getElementsByTagName("script")[0];
+      t.parentNode.insertBefore(s, t);
+      $zoho.salesiq.ready = function (embedinfo) {
+        $zoho.salesiq.customfield.add({
+          name: "_default.name",
+          hint: "Enter your name (required)",
+          required: "true",
+        });
+        $zoho.salesiq.customfield.add({
+          name: "_default.email",
+          hint: "Enter your STRMNFT email (required)",
+          required: "true",
+        });
+
+        $zoho.salesiq.customfield.add({
+          name: "_default.department",
+          hint: "Select language",
+          required: "true",
+        });
+      };
+    </script>
   </body>
 </html>

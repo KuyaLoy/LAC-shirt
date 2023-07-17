@@ -1,6 +1,7 @@
 import React from "react";
 import ListingSection from "../../organisms/ListingSection/ListingSection";
 import "./ListingPage.scss";
+import Footer from "../../organisms/Footer/Footer";
 
 const ListingPage = ({ data }) => {
   if (!data || data.length === 0) {
@@ -11,6 +12,7 @@ const ListingPage = ({ data }) => {
   return (
     <div className="ListingPageWrapper">
       <ListingSection data={data} />
+      <Footer />
     </div>
   );
 };

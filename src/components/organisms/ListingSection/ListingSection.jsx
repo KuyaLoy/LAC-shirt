@@ -49,8 +49,8 @@ const ListingSection = ({ data }) => {
         {showDiv1 && (
           <>
             {emailUs}
-            {data.map((data) => (
-              <CardTshirtHolder data={data} key={data.id} />
+            {data.map((data, index) => (
+              <CardTshirtHolder data={data} key={data.id} index={index} />
             ))}
           </>
         )}

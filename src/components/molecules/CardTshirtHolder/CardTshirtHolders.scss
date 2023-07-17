@@ -48,15 +48,21 @@
       height: u.rem(28);
       margin-right: u.rem(10);
       border: 1px solid white;
+      border-radius: 100%;
+
+      @include u.breakpoint-max(medium) {
+        width: u.rem(20);
+        height: u.rem(20);
+      }
 
       &.active {
         border: 1px solid #fdd23e;
       }
 
-      &:first-child {
+      &.black {
         background-color: black;
       }
-      &:last-child {
+      &.white {
         background-color: white;
       }
     }
