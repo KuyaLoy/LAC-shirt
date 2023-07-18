@@ -9,6 +9,14 @@ import SliderThumbnail from "../../../molecules/SliderThumbnail/SliderThumbnail"
 import "./HeroSection.scss";
 
 const HeroSection = ({ data }) => {
+  let canShow = true;
+  const firstOnClick = () => {
+    // Handle click event for the fifth anchor separately
+    window.$zoho.salesiq.floatwindow?.visible(
+      canShow === true ? "show" : "hide"
+    );
+    canShow = !canShow;
+  };
   return (
     <div className="HeroWrapper">
       <div className="ContentHero Content-1">
@@ -51,13 +59,15 @@ const HeroSection = ({ data }) => {
         </div>
         <hr />
         <P className="BuyTitle" content={data.attributes.buy_label} />
+
         <div className="BuyLink">
           {Object.keys(data.attributes.buy_link).map((key, index) => (
             <LinkImage
               key={index}
               link={data.attributes.buy_link[key][0]}
               src={data.attributes.buy_link[key][1]}
-              target={"_blank"}
+              target={index === 0 || index === 4 ? "" : "_blank"}
+              onclick={index === 0 || index === 4 ? firstOnClick : null}
             />
           ))}
         </div>

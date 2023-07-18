@@ -42,6 +42,7 @@ let en = [
         "/assets/images/nftFile/mainfolder/special0/gallery/4.png",
       ],
       buy_link: {
+        LAC: [null, "/assets/images/shops/lac.png"],
         link1: [
           "https://www.amazon.com/dp/B0CB5K2K19?ref=myi_title_dp",
           "/assets/images/shops/amazon.png",
@@ -54,6 +55,7 @@ let en = [
           "https://smartstore.naver.com/tncart/products/8784018372",
           "/assets/images/shops/naver.png",
         ],
+        strm: [null, "/assets/images/shops/strm.png"],
         link4: [
           "http://itempage3.auction.co.kr/DetailView.aspx?ItemNo=D443531921&frm3=V2",
           "/assets/images/shops/auction.png",
@@ -198,6 +200,7 @@ let en = [
         "/assets/images/nftFile/mainfolder/special100/gallery/4.png",
       ],
       buy_link: {
+        LAC: [null, "/assets/images/shops/lac.png"],
         link1: [
           "https://www.amazon.com/dp/B0CB5HLJS8?ref=myi_title_dp",
           "/assets/images/shops/amazon.png",
@@ -210,6 +213,7 @@ let en = [
           "https://smartstore.naver.com/tncart/products/8784046871",
           "/assets/images/shops/naver.png",
         ],
+        strm: [null, "/assets/images/shops/strm.png"],
         link4: [
           "http://itempage3.auction.co.kr/DetailView.aspx?ItemNo=D443548477&frm3=V2",
           "/assets/images/shops/auction.png",
@@ -354,6 +358,7 @@ let en = [
         "/assets/images/nftFile/mainfolder/special200/gallery/4.png",
       ],
       buy_link: {
+        LAC: [null, "/assets/images/shops/lac.png"],
         link1: [
           "https://www.amazon.com/dp/B0CB5K1356?ref=myi_title_dp",
           "/assets/images/shops/amazon.png",
@@ -366,6 +371,7 @@ let en = [
           "https://smartstore.naver.com/tncart/products/8784063184",
           "/assets/images/shops/naver.png",
         ],
+        strm: [null, "/assets/images/shops/strm.png"],
         link4: [
           "http://itempage3.auction.co.kr/DetailView.aspx?ItemNo=D443557890&frm3=V2",
           "/assets/images/shops/auction.png",
@@ -510,6 +516,7 @@ let en = [
         "/assets/images/nftFile/mainfolder/special300/gallery/4.png",
       ],
       buy_link: {
+        LAC: [null, "/assets/images/shops/lac.png"],
         link1: [
           "https://www.amazon.com/dp/B0CB5KGF4X?ref=myi_title_dp",
           "/assets/images/shops/amazon.png",
@@ -522,6 +529,7 @@ let en = [
           "https://smartstore.naver.com/tncart/products/8784072370",
           "/assets/images/shops/naver.png",
         ],
+        strm: [null, "/assets/images/shops/strm.png"],
         link4: [
           "http://itempage3.auction.co.kr/DetailView.aspx?ItemNo=D443705403&frm3=V2",
           "/assets/images/shops/auction.png",
@@ -666,6 +674,7 @@ let en = [
         "/assets/images/nftFile/mainfolder/special9994/gallery/4.png",
       ],
       buy_link: {
+        LAC: [null, "/assets/images/shops/lac.png"],
         link1: [
           "https://www.amazon.com/dp/B0CB5N6S48?ref=myi_title_dp",
           "/assets/images/shops/amazon.png",
@@ -678,6 +687,7 @@ let en = [
           "https://smartstore.naver.com/tncart/products/8784084066",
           "/assets/images/shops/naver.png",
         ],
+        strm: [null, "/assets/images/shops/strm.png"],
         link4: [
           "http://itempage3.auction.co.kr/DetailView.aspx?ItemNo=D443708444&frm3=V2",
           "/assets/images/shops/auction.png",
@@ -822,6 +832,7 @@ let en = [
         "/assets/images/nftFile/mainfolder/special9995/gallery/4.png",
       ],
       buy_link: {
+        LAC: [null, "/assets/images/shops/lac.png"],
         link1: [
           "https://www.amazon.com/dp/B0CB5P4VJC?ref=myi_title_dp",
           "/assets/images/shops/amazon.png",
@@ -834,6 +845,7 @@ let en = [
           "https://smartstore.naver.com/tncart/products/8784094571",
           "/assets/images/shops/naver.png",
         ],
+        strm: [null, "/assets/images/shops/strm.png"],
         link4: [
           "http://itempage3.auction.co.kr/DetailView.aspx?ItemNo=D443712300&frm3=V2",
           "/assets/images/shops/auction.png",
@@ -978,6 +990,7 @@ let en = [
         "/assets/images/nftFile/mainfolder/special9996/gallery/4.png",
       ],
       buy_link: {
+        LAC: [null, "/assets/images/shops/lac.png"],
         link1: [
           "https://www.amazon.com/dp/B0CB5QHS58?ref=myi_title_dp",
           "/assets/images/shops/amazon.png",
@@ -990,6 +1003,7 @@ let en = [
           "https://smartstore.naver.com/tncart/products/8784104655",
           "/assets/images/shops/naver.png",
         ],
+        strm: [null, "/assets/images/shops/strm.png"],
         link4: [
           "http://itempage3.auction.co.kr/DetailView.aspx?ItemNo=D443714660&frm3=V2",
           "/assets/images/shops/auction.png",
@@ -1134,6 +1148,7 @@ let en = [
         "/assets/images/nftFile/mainfolder/special9997/gallery/4.png",
       ],
       buy_link: {
+        LAC: [null, "/assets/images/shops/lac.png"],
         link1: [
           "https://www.amazon.com/dp/B0CB5Q87DR?ref=myi_title_dp",
           "/assets/images/shops/amazon.png",
@@ -1146,6 +1161,7 @@ let en = [
           "https://smartstore.naver.com/tncart/products/8784113578",
           "/assets/images/shops/naver.png",
         ],
+        strm: [null, "/assets/images/shops/strm.png"],
         link4: [
           "http://itempage3.auction.co.kr/DetailView.aspx?ItemNo=D443717294&frm3=V2",
           "/assets/images/shops/auction.png",
@@ -1290,6 +1306,7 @@ let en = [
         "/assets/images/nftFile/mainfolder/special9998/gallery/4.png",
       ],
       buy_link: {
+        LAC: [null, "/assets/images/shops/lac.png"],
         link1: [
           "https://www.amazon.com/dp/B0CB5RFVQ1?ref=myi_title_dp",
           "/assets/images/shops/amazon.png",
@@ -1302,6 +1319,7 @@ let en = [
           "https://smartstore.naver.com/tncart/products/8784122707",
           "/assets/images/shops/naver.png",
         ],
+        strm: [null, "/assets/images/shops/strm.png"],
         link4: [
           "http://itempage3.auction.co.kr/DetailView.aspx?ItemNo=D443719800&frm3=V2",
           "/assets/images/shops/auction.png",
@@ -1446,6 +1464,7 @@ let en = [
         "/assets/images/nftFile/mainfolder/special9999/gallery/4.png",
       ],
       buy_link: {
+        LAC: [null, "/assets/images/shops/lac.png"],
         link1: [
           "https://www.amazon.com/dp/B0CB5R7MPP?ref=myi_title_dp",
           "/assets/images/shops/amazon.png",
@@ -1458,6 +1477,7 @@ let en = [
           "https://smartstore.naver.com/tncart/products/8784131624",
           "/assets/images/shops/naver.png",
         ],
+        strm: [null, "/assets/images/shops/strm.png"],
         link4: [
           "http://itempage3.auction.co.kr/DetailView.aspx?ItemNo=D443722264&frm3=V2",
           "/assets/images/shops/auction.png",

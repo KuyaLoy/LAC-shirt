@@ -9,14 +9,20 @@ const ExtraButton = ({ data, onClick }) => {
     <div className="extraButtonWrapper">
       <ButtonImage src={arrow} onClick={onClick} />
 
-      {Object.keys(data.attributes.buy_link).map((key, index) => (
-        <LinkImage
-          key={index}
-          link={data.attributes.buy_link[key][0]}
-          src={data.attributes.buy_link[key][1]}
-          target={"_blank"}
-        />
-      ))}
+      {Object.keys(data.attributes.buy_link).map((key, index) => {
+        if (index === 0 || index === 4) {
+          return null; // Hide the first and fifth elements
+        }
+
+        return (
+          <LinkImage
+            key={index}
+            link={data.attributes.buy_link[key][0]}
+            src={data.attributes.buy_link[key][1]}
+            target="_blank"
+          />
+        );
+      })}
     </div>
   );
 };

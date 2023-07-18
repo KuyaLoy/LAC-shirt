@@ -145,7 +145,7 @@
         gap: u.rem(20);
         flex-wrap: wrap;
 
-        width: 80%;
+        width: 100%;
         margin: 0 auto;
 
         @include u.breakpoint-max(small) {
@@ -155,7 +155,7 @@
         a {
           cursor: pointer;
           height: u.rem(50);
-          width: 29%;
+          width: 22%;
           border-radius: u.rem(10);
           border: none;
           background-color: white;
@@ -165,8 +165,8 @@
           justify-content: center;
 
           img {
-            width: 75%;
-            height: 75%;
+            width: 100%;
+            height: 100%;
             object-fit: contain;
             object-position: center;
           }
