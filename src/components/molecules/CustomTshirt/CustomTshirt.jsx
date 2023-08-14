@@ -1,13 +1,14 @@
-import React, { useState } from "react";
+//import React, { useState } from "react";
 import custom from "../../../assets/img/custom.gif";
 
 import "./CustomTshirt.scss";
 
 const CustomTshirt = ({ data }) => {
-  const [isVisible, setIsVisible] = useState(false);
+  //const [isVisible, setIsVisible] = useState(false);
 
   const toggleVisibility = () => {
-    setIsVisible(!isVisible);
+    //setIsVisible(!isVisible);
+    window.open("https://ladyapeshop.com/", "_blank");
   };
   return (
     <div className="CustomWrapper">
@@ -24,12 +25,12 @@ const CustomTshirt = ({ data }) => {
         {data.attributes.lac_home.button_text}
       </button>
 
-      <div className={isVisible ? "coming-soon show" : "coming-soon"}>
+      {/* <div className={isVisible ? "coming-soon show" : "coming-soon"}>
         <div className="text-wrapper">
           <button onClick={toggleVisibility}>X</button>
           <h2>Coming Soon</h2>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 };

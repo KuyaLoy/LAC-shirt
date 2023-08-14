@@ -23,7 +23,7 @@ let en = [
         title: "Create your own custom LAC NFT t-shirt",
         description:
           "Choose an NFT from your STRMNFT collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
-        price: "$98",
+        price: "$78",
         button_text: "Customize",
       },
       short_description: "Premium Classic Crewneck T-shirt",
@@ -188,7 +188,7 @@ let en = [
         title: "Create your own custom LAC NFT t-shirt",
         description:
           "Choose an NFT from your STRMNFT collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
-        price: "$98",
+        price: "$78",
         button_text: "Customize",
       },
       short_description: "Premium Classic Crewneck T-shirt",
@@ -353,7 +353,7 @@ let en = [
         title: "Create your own custom LAC NFT t-shirt",
         description:
           "Choose an NFT from your STRMNFT collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
-        price: "$98",
+        price: "$78",
         button_text: "Customize",
       },
       short_description: "Premium Classic Crewneck T-shirt",
@@ -518,7 +518,7 @@ let en = [
         title: "Create your own custom LAC NFT t-shirt",
         description:
           "Choose an NFT from your STRMNFT collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!!",
-        price: "$98",
+        price: "$78",
         button_text: "Customize",
       },
       short_description: "Premium Classic Crewneck T-shirt",
@@ -683,7 +683,7 @@ let en = [
         title: "Create your own custom LAC NFT t-shirt",
         description:
           "Choose an NFT from your STRMNFT collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
-        price: "$98",
+        price: "$78",
         button_text: "Customize",
       },
       short_description: "Premium Classic Crewneck T-shirt",
@@ -848,7 +848,7 @@ let en = [
         title: "Create your own custom LAC NFT t-shirt",
         description:
           "Choose an NFT from your STRMNFT collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
-        price: "$98",
+        price: "$78",
         button_text: "Customize",
       },
       short_description: "Premium Classic Crewneck T-shirt",
@@ -1013,7 +1013,7 @@ let en = [
         title: "Create your own custom LAC NFT t-shirt",
         description:
           "Choose an NFT from your STRMNFT collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
-        price: "$98",
+        price: "$78",
         button_text: "Customize",
       },
       short_description: "Premium Classic Crewneck T-shirt",
@@ -1178,7 +1178,7 @@ let en = [
         title: "Create your own custom LAC NFT t-shirt",
         description:
           "Choose an NFT from your STRMNFT collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
-        price: "$98",
+        price: "$78",
         button_text: "Customize",
       },
       short_description: "Premium Classic Crewneck T-shirt",
@@ -1343,7 +1343,7 @@ let en = [
         title: "Create your own custom LAC NFT t-shirt",
         description:
           "Choose an NFT from your STRMNFT collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
-        price: "$98",
+        price: "$78",
         button_text: "Customize",
       },
       short_description: "Premium Classic Crewneck T-shirt",
@@ -1508,7 +1508,7 @@ let en = [
         title: "Create your own custom LAC NFT t-shirt",
         description:
           "Choose an NFT from your STRMNFT collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
-        price: "$98",
+        price: "$78",
         button_text: "Customize",
       },
       short_description: "Premium Classic Crewneck T-shirt",

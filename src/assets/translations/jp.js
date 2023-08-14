@@ -23,7 +23,7 @@ let en = [
         title: "自分が持っているLAC作品をカスタマイズして購入してください。",
         description:
           "あなたのレディーエイプとベビーエイプのstrmnftコレクションの中から、公式LACグッズに印刷するnftを選んで下さい！",
-        price: "$98",
+        price: "$78",
         button_text: "カスタマイズ",
       },
       short_description:
@@ -187,7 +187,7 @@ let en = [
         title: "自分が持っているLAC作品をカスタマイズして購入してください。",
         description:
           "あなたのレディーエイプとベビーエイプのstrmnftコレクションの中から、公式LACグッズに印刷するnftを選んで下さい！",
-        price: "$98",
+        price: "$78",
         button_text: "カスタマイズ",
       },
       short_description:
@@ -351,7 +351,7 @@ let en = [
         title: "自分が持っているLAC作品をカスタマイズして購入してください。",
         description:
           "あなたのレディーエイプとベビーエイプのstrmnftコレクションの中から、公式LACグッズに印刷するnftを選んで下さい！",
-        price: "$98",
+        price: "$78",
         button_text: "カスタマイズ",
       },
       short_description:
@@ -515,7 +515,7 @@ let en = [
         title: "自分が持っているLAC作品をカスタマイズして購入してください。",
         description:
           "あなたのレディーエイプとベビーエイプのstrmnftコレクションの中から、公式LACグッズに印刷するnftを選んで下さい！",
-        price: "$98",
+        price: "$78",
         button_text: "カスタマイズ",
       },
       short_description:
@@ -679,7 +679,7 @@ let en = [
         title: "自分が持っているLAC作品をカスタマイズして購入してください。",
         description:
           "あなたのレディーエイプとベビーエイプのstrmnftコレクションの中から、公式LACグッズに印刷するnftを選んで下さい！",
-        price: "$98",
+        price: "$78",
         button_text: "カスタマイズ",
       },
       short_description:
@@ -843,7 +843,7 @@ let en = [
         title: "自分が持っているLAC作品をカスタマイズして購入してください。",
         description:
           "あなたのレディーエイプとベビーエイプのstrmnftコレクションの中から、公式LACグッズに印刷するnftを選んで下さい！",
-        price: "$98",
+        price: "$78",
         button_text: "カスタマイズ",
       },
       short_description:
@@ -1007,7 +1007,7 @@ let en = [
         title: "自分が持っているLAC作品をカスタマイズして購入してください。",
         description:
           "あなたのレディーエイプとベビーエイプのstrmnftコレクションの中から、公式LACグッズに印刷するnftを選んで下さい！",
-        price: "$98",
+        price: "$78",
         button_text: "カスタマイズ",
       },
       short_description:
@@ -1171,7 +1171,7 @@ let en = [
         title: "自分が持っているLAC作品をカスタマイズして購入してください。",
         description:
           "あなたのレディーエイプとベビーエイプのstrmnftコレクションの中から、公式LACグッズに印刷するnftを選んで下さい！",
-        price: "$98",
+        price: "$78",
         button_text: "カスタマイズ",
       },
       short_description:
@@ -1335,7 +1335,7 @@ let en = [
         title: "自分が持っているLAC作品をカスタマイズして購入してください。",
         description:
           "あなたのレディーエイプとベビーエイプのstrmnftコレクションの中から、公式LACグッズに印刷するnftを選んで下さい！",
-        price: "$98",
+        price: "$78",
         button_text: "カスタマイズ",
       },
       short_description:
@@ -1499,7 +1499,7 @@ let en = [
         title: "自分が持っているLAC作品をカスタマイズして購入してください。",
         description:
           "あなたのレディーエイプとベビーエイプのstrmnftコレクションの中から、公式LACグッズに印刷するnftを選んで下さい！",
-        price: "$98",
+        price: "$78",
         button_text: "カスタマイズ",
       },
       short_description:

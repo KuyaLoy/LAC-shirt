@@ -23,7 +23,7 @@ let ko = [
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
         description:
           "티셔츠에 인쇄될 당신의 NFT를 선택하여 하나뿐인 굿즈를 만드세요!",
-        price: "$98",
+        price: "$78",
         button_text: "커스터마이징",
       },
       short_description: "섬세하게 더해진 클래식한 크루넥 디자인 T",
@@ -186,7 +186,7 @@ let ko = [
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
         description:
           "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
-        price: "$98",
+        price: "$78",
         button_text: "커스터마이징",
       },
       short_description: "섬세하게 더해진 클래식한 크루넥 디자인 T",
@@ -349,7 +349,7 @@ let ko = [
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
         description:
           "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
-        price: "$98",
+        price: "$78",
         button_text: "커스터마이징",
       },
       short_description: "섬세하게 더해진 클래식한 크루넥 디자인 T",
@@ -512,7 +512,7 @@ let ko = [
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
         description:
           "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
-        price: "$98",
+        price: "$78",
         button_text: "커스터마이징",
       },
       short_description: "섬세하게 더해진 클래식한 크루넥 디자인 T",
@@ -675,7 +675,7 @@ let ko = [
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
         description:
           "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
-        price: "$98",
+        price: "$78",
         button_text: "커스터마이징",
       },
       short_description: "섬세하게 더해진 클래식한 크루넥 디자인 T",
@@ -838,7 +838,7 @@ let ko = [
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
         description:
           "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
-        price: "$98",
+        price: "$78",
         button_text: "커스터마이징",
       },
       short_description: "섬세하게 더해진 클래식한 크루넥 디자인 T",
@@ -1001,7 +1001,7 @@ let ko = [
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
         description:
           "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
-        price: "$98",
+        price: "$78",
         button_text: "커스터마이징",
       },
       short_description: "섬세하게 더해진 클래식한 크루넥 디자인 T",
@@ -1164,7 +1164,7 @@ let ko = [
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
         description:
           "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
-        price: "$98",
+        price: "$78",
         button_text: "커스터마이징",
       },
       short_description: "섬세하게 더해진 클래식한 크루넥 디자인 T",
@@ -1327,7 +1327,7 @@ let ko = [
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
         description:
           "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
-        price: "$98",
+        price: "$78",
         button_text: "커스터마이징",
       },
       short_description: "섬세하게 더해진 클래식한 크루넥 디자인 T",
@@ -1490,7 +1490,7 @@ let ko = [
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
         description:
           "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
-        price: "$98",
+        price: "$78",
         button_text: "커스터마이징",
       },
       short_description: "섬세하게 더해진 클래식한 크루넥 디자인 T",
