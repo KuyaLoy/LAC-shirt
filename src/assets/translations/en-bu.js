@@ -10,12 +10,12 @@ let en = [
     frame_gif: "/assets/Lottie/nft/0.gif",
     attributes: {
       email_us:
-        "<div className='email-us'><p>LAC NFT holder? Get a 50% cashback by emailing<span>support@ladyapeclub.com </span>your STRMNFT registered email.</p> </div>",
+        "<div className='email-us'><p>LAC NFT holder? Get a 50% cashback by emailing<span>support@ladyapeclub.com </span>your AngryMonky registered email.</p> </div>",
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "choose an nft from your AngryMonky collection of lady ape and baby ape nfts to be printed on your official lac merch!",
         price: "$78",
         button_text: "커스터마이징",
       },
@@ -168,12 +168,12 @@ let en = [
     frame_gif: "/assets/Lottie/nft/100.gif",
     attributes: {
       email_us:
-        "<div className='email-us'><p>LAC NFT holder? Get a 50% cashback by emailing<span>support@ladyapeclub.com </span>your STRMNFT registered email.</p> </div>",
+        "<div className='email-us'><p>LAC NFT holder? Get a 50% cashback by emailing<span>support@ladyapeclub.com </span>your AngryMonky registered email.</p> </div>",
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "choose an nft from your AngryMonky collection of lady ape and baby ape nfts to be printed on your official lac merch!",
         price: "$78",
         button_text: "커스터마이징",
       },
@@ -326,12 +326,12 @@ let en = [
     frame_gif: "/assets/Lottie/nft/200.gif",
     attributes: {
       email_us:
-        "<div className='email-us'><p>LAC NFT holder? Get a 50% cashback by emailing<span>support@ladyapeclub.com </span>your STRMNFT registered email.</p> </div>",
+        "<div className='email-us'><p>LAC NFT holder? Get a 50% cashback by emailing<span>support@ladyapeclub.com </span>your AngryMonky registered email.</p> </div>",
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "choose an nft from your AngryMonky collection of lady ape and baby ape nfts to be printed on your official lac merch!",
         price: "$78",
         button_text: "커스터마이징",
       },
@@ -484,12 +484,12 @@ let en = [
     frame_gif: "/assets/Lottie/nft/300.gif",
     attributes: {
       email_us:
-        "<div className='email-us'><p>LAC NFT holder? Get a 50% cashback by emailing<span>support@ladyapeclub.com </span>your STRMNFT registered email.</p> </div>",
+        "<div className='email-us'><p>LAC NFT holder? Get a 50% cashback by emailing<span>support@ladyapeclub.com </span>your AngryMonky registered email.</p> </div>",
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "choose an nft from your AngryMonky collection of lady ape and baby ape nfts to be printed on your official lac merch!",
         price: "$78",
         button_text: "커스터마이징",
       },
@@ -642,12 +642,12 @@ let en = [
     frame_gif: "/assets/Lottie/nft/9994.gif",
     attributes: {
       email_us:
-        "<div className='email-us'><p>LAC NFT holder? Get a 50% cashback by emailing<span>support@ladyapeclub.com </span>your STRMNFT registered email.</p> </div>",
+        "<div className='email-us'><p>LAC NFT holder? Get a 50% cashback by emailing<span>support@ladyapeclub.com </span>your AngryMonky registered email.</p> </div>",
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "choose an nft from your AngryMonky collection of lady ape and baby ape nfts to be printed on your official lac merch!",
         price: "$78",
         button_text: "커스터마이징",
       },
@@ -800,12 +800,12 @@ let en = [
     frame_gif: "/assets/Lottie/nft/9995.gif",
     attributes: {
       email_us:
-        "<div className='email-us'><p>LAC NFT holder? Get a 50% cashback by emailing<span>support@ladyapeclub.com </span>your STRMNFT registered email.</p> </div>",
+        "<div className='email-us'><p>LAC NFT holder? Get a 50% cashback by emailing<span>support@ladyapeclub.com </span>your AngryMonky registered email.</p> </div>",
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "choose an nft from your AngryMonky collection of lady ape and baby ape nfts to be printed on your official lac merch!",
         price: "$78",
         button_text: "커스터마이징",
       },
@@ -958,12 +958,12 @@ let en = [
     frame_gif: "/assets/Lottie/nft/9996.gif",
     attributes: {
       email_us:
-        "<div className='email-us'><p>LAC NFT holder? Get a 50% cashback by emailing<span>support@ladyapeclub.com </span>your STRMNFT registered email.</p> </div>",
+        "<div className='email-us'><p>LAC NFT holder? Get a 50% cashback by emailing<span>support@ladyapeclub.com </span>your AngryMonky registered email.</p> </div>",
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "choose an nft from your AngryMonky collection of lady ape and baby ape nfts to be printed on your official lac merch!",
         price: "$78",
         button_text: "커스터마이징",
       },
@@ -1116,12 +1116,12 @@ let en = [
     frame_gif: "/assets/Lottie/nft/9997.gif",
     attributes: {
       email_us:
-        "<div className='email-us'><p>LAC NFT holder? Get a 50% cashback by emailing<span>support@ladyapeclub.com </span>your STRMNFT registered email.</p> </div>",
+        "<div className='email-us'><p>LAC NFT holder? Get a 50% cashback by emailing<span>support@ladyapeclub.com </span>your AngryMonky registered email.</p> </div>",
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "choose an nft from your AngryMonky collection of lady ape and baby ape nfts to be printed on your official lac merch!",
         price: "$78",
         button_text: "커스터마이징",
       },
@@ -1274,12 +1274,12 @@ let en = [
     frame_gif: "/assets/Lottie/nft/9998.gif",
     attributes: {
       email_us:
-        "<div className='email-us'><p>LAC NFT holder? Get a 50% cashback by emailing<span>support@ladyapeclub.com </span>your STRMNFT registered email.</p> </div>",
+        "<div className='email-us'><p>LAC NFT holder? Get a 50% cashback by emailing<span>support@ladyapeclub.com </span>your AngryMonky registered email.</p> </div>",
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "choose an nft from your AngryMonky collection of lady ape and baby ape nfts to be printed on your official lac merch!",
         price: "$78",
         button_text: "커스터마이징",
       },
@@ -1432,12 +1432,12 @@ let en = [
     frame_gif: "/assets/Lottie/nft/9999.gif",
     attributes: {
       email_us:
-        "<div className='email-us'><p>LAC NFT holder? Get a 50% cashback by emailing<span>support@ladyapeclub.com </span>your STRMNFT registered email.</p> </div>",
+        "<div className='email-us'><p>LAC NFT holder? Get a 50% cashback by emailing<span>support@ladyapeclub.com </span>your AngryMonky registered email.</p> </div>",
       lac_home: {
         tab: ["LAC Special", "My Custom"],
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "choose an nft from your AngryMonky collection of lady ape and baby ape nfts to be printed on your official lac merch!",
         price: "$78",
         button_text: "커스터마이징",
       },

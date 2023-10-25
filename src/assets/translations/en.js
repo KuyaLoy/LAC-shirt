@@ -13,8 +13,8 @@ let en = [
         <div className="email-us">
           <p>
             LAC NFT holder? Get a 50% cashback by emailing
-            <span> support@ladyapeclub.com </span>from your STRMNFT registered
-            email.
+            <span> support@ladyapeclub.com </span>from your AngryMonky
+            registered email.
           </p>
         </div>
       ),
@@ -22,7 +22,7 @@ let en = [
         tab: ["LAC Special", "My Custom"],
         title: "Create your own custom LAC NFT t-shirt",
         description:
-          "Choose an NFT from your STRMNFT collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
+          "Choose an NFT from your AngryMonky collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
         price: "$78",
         button_text: "Customize",
       },
@@ -178,8 +178,8 @@ let en = [
         <div className="email-us">
           <p>
             LAC NFT holder? Get a 50% cashback by emailing
-            <span> support@ladyapeclub.com </span>from your STRMNFT registered
-            email.
+            <span> support@ladyapeclub.com </span>from your AngryMonky
+            registered email.
           </p>
         </div>
       ),
@@ -187,7 +187,7 @@ let en = [
         tab: ["LAC Special", "My Custom"],
         title: "Create your own custom LAC NFT t-shirt",
         description:
-          "Choose an NFT from your STRMNFT collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
+          "Choose an NFT from your AngryMonky collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
         price: "$78",
         button_text: "Customize",
       },
@@ -343,8 +343,8 @@ let en = [
         <div className="email-us">
           <p>
             LAC NFT holder? Get a 50% cashback by emailing
-            <span> support@ladyapeclub.com </span>from your STRMNFT registered
-            email.
+            <span> support@ladyapeclub.com </span>from your AngryMonky
+            registered email.
           </p>
         </div>
       ),
@@ -352,7 +352,7 @@ let en = [
         tab: ["LAC Special", "My Custom"],
         title: "Create your own custom LAC NFT t-shirt",
         description:
-          "Choose an NFT from your STRMNFT collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
+          "Choose an NFT from your AngryMonky collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
         price: "$78",
         button_text: "Customize",
       },
@@ -508,8 +508,8 @@ let en = [
         <div className="email-us">
           <p>
             LAC NFT holder? Get a 50% cashback by emailing
-            <span> support@ladyapeclub.com </span>from your STRMNFT registered
-            email.
+            <span> support@ladyapeclub.com </span>from your AngryMonky
+            registered email.
           </p>
         </div>
       ),
@@ -517,7 +517,7 @@ let en = [
         tab: ["LAC Special", "My Custom"],
         title: "Create your own custom LAC NFT t-shirt",
         description:
-          "Choose an NFT from your STRMNFT collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!!",
+          "Choose an NFT from your AngryMonky collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!!",
         price: "$78",
         button_text: "Customize",
       },
@@ -673,8 +673,8 @@ let en = [
         <div className="email-us">
           <p>
             LAC NFT holder? Get a 50% cashback by emailing
-            <span> support@ladyapeclub.com </span>from your STRMNFT registered
-            email.
+            <span> support@ladyapeclub.com </span>from your AngryMonky
+            registered email.
           </p>
         </div>
       ),
@@ -682,7 +682,7 @@ let en = [
         tab: ["LAC Special", "My Custom"],
         title: "Create your own custom LAC NFT t-shirt",
         description:
-          "Choose an NFT from your STRMNFT collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
+          "Choose an NFT from your AngryMonky collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
         price: "$78",
         button_text: "Customize",
       },
@@ -830,16 +830,16 @@ let en = [
     category: "Special",
     price: "$385",
     main_image_path: "/assets/images/nftFile/mainfolder/special9995/9995.png",
-    frame_path: "/assets/images/nftFile/mainfolder/special9994/f9994.png",
-    frame_path_2: "/assets/images/nftFile/mainfolder/special9994/fw9994.png",
+    frame_path: "/assets/images/nftFile/mainfolder/special9995/f9995.png",
+    frame_path_2: "/assets/images/nftFile/mainfolder/special9995/fw9995.png",
     frame_gif: "/assets/Lottie/nft/9995.gif",
     attributes: {
       email_us: (
         <div className="email-us">
           <p>
             LAC NFT holder? Get a 50% cashback by emailing
-            <span> support@ladyapeclub.com </span>from your STRMNFT registered
-            email.
+            <span> support@ladyapeclub.com </span>from your AngryMonky
+            registered email.
           </p>
         </div>
       ),
@@ -847,7 +847,7 @@ let en = [
         tab: ["LAC Special", "My Custom"],
         title: "Create your own custom LAC NFT t-shirt",
         description:
-          "Choose an NFT from your STRMNFT collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
+          "Choose an NFT from your AngryMonky collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
         price: "$78",
         button_text: "Customize",
       },
@@ -1003,8 +1003,8 @@ let en = [
         <div className="email-us">
           <p>
             LAC NFT holder? Get a 50% cashback by emailing
-            <span> support@ladyapeclub.com </span>from your STRMNFT registered
-            email.
+            <span> support@ladyapeclub.com </span>from your AngryMonky
+            registered email.
           </p>
         </div>
       ),
@@ -1012,7 +1012,7 @@ let en = [
         tab: ["LAC Special", "My Custom"],
         title: "Create your own custom LAC NFT t-shirt",
         description:
-          "Choose an NFT from your STRMNFT collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
+          "Choose an NFT from your AngryMonky collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
         price: "$78",
         button_text: "Customize",
       },
@@ -1168,8 +1168,8 @@ let en = [
         <div className="email-us">
           <p>
             LAC NFT holder? Get a 50% cashback by emailing
-            <span> support@ladyapeclub.com </span>from your STRMNFT registered
-            email.
+            <span> support@ladyapeclub.com </span>from your AngryMonky
+            registered email.
           </p>
         </div>
       ),
@@ -1177,7 +1177,7 @@ let en = [
         tab: ["LAC Special", "My Custom"],
         title: "Create your own custom LAC NFT t-shirt",
         description:
-          "Choose an NFT from your STRMNFT collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
+          "Choose an NFT from your AngryMonky collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
         price: "$78",
         button_text: "Customize",
       },
@@ -1333,8 +1333,8 @@ let en = [
         <div className="email-us">
           <p>
             LAC NFT holder? Get a 50% cashback by emailing
-            <span> support@ladyapeclub.com </span>from your STRMNFT registered
-            email.
+            <span> support@ladyapeclub.com </span>from your AngryMonky
+            registered email.
           </p>
         </div>
       ),
@@ -1342,7 +1342,7 @@ let en = [
         tab: ["LAC Special", "My Custom"],
         title: "Create your own custom LAC NFT t-shirt",
         description:
-          "Choose an NFT from your STRMNFT collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
+          "Choose an NFT from your AngryMonky collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
         price: "$78",
         button_text: "Customize",
       },
@@ -1498,8 +1498,8 @@ let en = [
         <div className="email-us">
           <p>
             LAC NFT holder? Get a 50% cashback by emailing
-            <span> support@ladyapeclub.com </span>from your STRMNFT registered
-            email.
+            <span> support@ladyapeclub.com </span>from your AngryMonky
+            registered email.
           </p>
         </div>
       ),
@@ -1507,7 +1507,7 @@ let en = [
         tab: ["LAC Special", "My Custom"],
         title: "Create your own custom LAC NFT t-shirt",
         description:
-          "Choose an NFT from your STRMNFT collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
+          "Choose an NFT from your AngryMonky collection of Lady Ape and Baby Ape NFTs to be printed on your official LAC merch!",
         price: "$78",
         button_text: "Customize",
       },

@@ -12,7 +12,7 @@ let ko = [
       email_us: (
         <div className="email-us">
           <p>
-            LAC NFT 소유자 이신가요? 구매 결제 후 STRMNFT에 가입된 이메일로
+            LAC NFT 소유자 이신가요? 구매 결제 후 AngryMonky에 가입된 이메일로
             <span> support@ladyapeclub.com </span>으로 문의하십시요. 소유자임이
             확인되면 구매 결제 금액의 50%가 캐쉬백 됩니다.
           </p>
@@ -175,7 +175,7 @@ let ko = [
       email_us: (
         <div className="email-us">
           <p>
-            LAC NFT 소유자 이신가요? 구매 결제 후 STRMNFT에 가입된 이메일로
+            LAC NFT 소유자 이신가요? 구매 결제 후 AngryMonky에 가입된 이메일로
             <span> support@ladyapeclub.com </span>으로 문의하십시요. 소유자임이
             확인되면 구매 결제 금액의 50%가 캐쉬백 됩니다.
           </p>
@@ -185,7 +185,7 @@ let ko = [
         tab: ["LAC Special", "My Custom"],
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "choose an nft from your AngryMonky collection of lady ape and baby ape nfts to be printed on your official lac merch!",
         price: "$78",
         button_text: "커스터마이징",
       },
@@ -338,7 +338,7 @@ let ko = [
       email_us: (
         <div className="email-us">
           <p>
-            LAC NFT 소유자 이신가요? 구매 결제 후 STRMNFT에 가입된 이메일로
+            LAC NFT 소유자 이신가요? 구매 결제 후 AngryMonky에 가입된 이메일로
             <span> support@ladyapeclub.com </span>으로 문의하십시요. 소유자임이
             확인되면 구매 결제 금액의 50%가 캐쉬백 됩니다.
           </p>
@@ -348,7 +348,7 @@ let ko = [
         tab: ["LAC Special", "My Custom"],
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "choose an nft from your AngryMonky collection of lady ape and baby ape nfts to be printed on your official lac merch!",
         price: "$78",
         button_text: "커스터마이징",
       },
@@ -501,7 +501,7 @@ let ko = [
       email_us: (
         <div className="email-us">
           <p>
-            LAC NFT 소유자 이신가요? 구매 결제 후 STRMNFT에 가입된 이메일로
+            LAC NFT 소유자 이신가요? 구매 결제 후 AngryMonky에 가입된 이메일로
             <span> support@ladyapeclub.com </span>으로 문의하십시요. 소유자임이
             확인되면 구매 결제 금액의 50%가 캐쉬백 됩니다.
           </p>
@@ -511,7 +511,7 @@ let ko = [
         tab: ["LAC Special", "My Custom"],
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "choose an nft from your AngryMonky collection of lady ape and baby ape nfts to be printed on your official lac merch!",
         price: "$78",
         button_text: "커스터마이징",
       },
@@ -664,7 +664,7 @@ let ko = [
       email_us: (
         <div className="email-us">
           <p>
-            LAC NFT 소유자 이신가요? 구매 결제 후 STRMNFT에 가입된 이메일로
+            LAC NFT 소유자 이신가요? 구매 결제 후 AngryMonky에 가입된 이메일로
             <span> support@ladyapeclub.com </span>으로 문의하십시요. 소유자임이
             확인되면 구매 결제 금액의 50%가 캐쉬백 됩니다.
           </p>
@@ -674,7 +674,7 @@ let ko = [
         tab: ["LAC Special", "My Custom"],
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "choose an nft from your AngryMonky collection of lady ape and baby ape nfts to be printed on your official lac merch!",
         price: "$78",
         button_text: "커스터마이징",
       },
@@ -827,7 +827,7 @@ let ko = [
       email_us: (
         <div className="email-us">
           <p>
-            LAC NFT 소유자 이신가요? 구매 결제 후 STRMNFT에 가입된 이메일로
+            LAC NFT 소유자 이신가요? 구매 결제 후 AngryMonky에 가입된 이메일로
             <span> support@ladyapeclub.com </span>으로 문의하십시요. 소유자임이
             확인되면 구매 결제 금액의 50%가 캐쉬백 됩니다.
           </p>
@@ -837,7 +837,7 @@ let ko = [
         tab: ["LAC Special", "My Custom"],
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "choose an nft from your AngryMonky collection of lady ape and baby ape nfts to be printed on your official lac merch!",
         price: "$78",
         button_text: "커스터마이징",
       },
@@ -990,7 +990,7 @@ let ko = [
       email_us: (
         <div className="email-us">
           <p>
-            LAC NFT 소유자 이신가요? 구매 결제 후 STRMNFT에 가입된 이메일로
+            LAC NFT 소유자 이신가요? 구매 결제 후 AngryMonky에 가입된 이메일로
             <span> support@ladyapeclub.com </span>으로 문의하십시요. 소유자임이
             확인되면 구매 결제 금액의 50%가 캐쉬백 됩니다.
           </p>
@@ -1000,7 +1000,7 @@ let ko = [
         tab: ["LAC Special", "My Custom"],
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "choose an nft from your AngryMonky collection of lady ape and baby ape nfts to be printed on your official lac merch!",
         price: "$78",
         button_text: "커스터마이징",
       },
@@ -1153,7 +1153,7 @@ let ko = [
       email_us: (
         <div className="email-us">
           <p>
-            LAC NFT 소유자 이신가요? 구매 결제 후 STRMNFT에 가입된 이메일로
+            LAC NFT 소유자 이신가요? 구매 결제 후 AngryMonky에 가입된 이메일로
             <span> support@ladyapeclub.com </span>으로 문의하십시요. 소유자임이
             확인되면 구매 결제 금액의 50%가 캐쉬백 됩니다.
           </p>
@@ -1163,7 +1163,7 @@ let ko = [
         tab: ["LAC Special", "My Custom"],
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "choose an nft from your AngryMonky collection of lady ape and baby ape nfts to be printed on your official lac merch!",
         price: "$78",
         button_text: "커스터마이징",
       },
@@ -1316,7 +1316,7 @@ let ko = [
       email_us: (
         <div className="email-us">
           <p>
-            LAC NFT 소유자 이신가요? 구매 결제 후 STRMNFT에 가입된 이메일로
+            LAC NFT 소유자 이신가요? 구매 결제 후 AngryMonky에 가입된 이메일로
             <span> support@ladyapeclub.com </span>으로 문의하십시요. 소유자임이
             확인되면 구매 결제 금액의 50%가 캐쉬백 됩니다.
           </p>
@@ -1326,7 +1326,7 @@ let ko = [
         tab: ["LAC Special", "My Custom"],
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "choose an nft from your AngryMonky collection of lady ape and baby ape nfts to be printed on your official lac merch!",
         price: "$78",
         button_text: "커스터마이징",
       },
@@ -1479,7 +1479,7 @@ let ko = [
       email_us: (
         <div className="email-us">
           <p>
-            LAC NFT 소유자 이신가요? 구매 결제 후 STRMNFT에 가입된 이메일로
+            LAC NFT 소유자 이신가요? 구매 결제 후 AngryMonky에 가입된 이메일로
             <span> support@ladyapeclub.com </span>으로 문의하십시요. 소유자임이
             확인되면 구매 결제 금액의 50%가 캐쉬백 됩니다.
           </p>
@@ -1489,7 +1489,7 @@ let ko = [
         tab: ["LAC Special", "My Custom"],
         title: "내가 가진 LAC 작품으로 커스텀을 하고 구매하세요",
         description:
-          "choose an nft from your strmnft collection of lady ape and baby ape nfts to be printed on your official lac merch!",
+          "choose an nft from your AngryMonky collection of lady ape and baby ape nfts to be printed on your official lac merch!",
         price: "$78",
         button_text: "커스터마이징",
       },
